@@ -6,10 +6,10 @@ import java.util.Set;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-public class FileList {
+public class FileExplorer {
     private final String directory;
 
-    public FileList(String directory) {
+    public FileExplorer(String directory) {
         this.directory = directory;
     }
 

@@ -1,0 +1,2051 @@
+[DEBUG] 2021-08-05 08:38:10.294 Main main() started...
+[DEBUG] 2021-08-05 08:38:10.297 Main main() done.
+[DEBUG] 2021-08-05 09:22:23.395 Main main() started...
+[DEBUG] 2021-08-05 12:31:25.053 Main main() started...
+[DEBUG] 2021-08-05 12:32:02.637 Main main() started...
+[DEBUG] 2021-08-05 12:32:02.644 Main dir path: /home/user/java/files-age-rm
+[DEBUG] 2021-08-05 12:32:02.645 Main main() done.
+[DEBUG] 2021-08-05 15:58:24.335 Main main() started...
+[DEBUG] 2021-08-05 15:58:24.342 Main dir path: /home/user/java/files-age-rm
+[DEBUG] 2021-08-05 15:58:24.343 Main main() done.
+[DEBUG] 2021-08-05 16:04:07.083 Main main() started...
+[DEBUG] 2021-08-05 16:04:07.092 Main dir path: /home/user/java/files-age-rm
+[DEBUG] 2021-08-05 16:04:07.097 Main List of files in the specified directory:
+[DEBUG] 2021-08-05 16:04:07.097 Main ./pom.xml
+[DEBUG] 2021-08-05 16:04:07.097 Main ./log.txt
+[DEBUG] 2021-08-05 16:04:07.098 Main main() done.
+[DEBUG] 2021-08-07 01:35:55.795 Main main() started...
+[DEBUG] 2021-08-07 01:36:00.781 Main main() started...
+[DEBUG] 2021-08-07 01:36:00.788 Main dir path: /home/user/java/files-age-rm
+[DEBUG] 2021-08-07 01:36:00.790 Main List of files in the specified directory:
+[DEBUG] 2021-08-07 01:36:00.790 Main ./pom.xml
+[DEBUG] 2021-08-07 01:36:00.791 Main ./log.txt
+[DEBUG] 2021-08-07 01:36:00.791 Main main() done.
+[DEBUG] 2021-08-07 01:36:23.260 Main main() started...
+[DEBUG] 2021-08-07 01:36:23.265 Main dir path: /home/user/java/files-age-rm/target
+[DEBUG] 2021-08-07 01:36:23.267 Main List of files in the specified directory:
+[DEBUG] 2021-08-07 01:36:23.268 Main ./target/file-age-rm-0.0.1-SNAPSHOT-shaded.jar
+[DEBUG] 2021-08-07 01:36:23.268 Main ./target/file-age-rm-0.0.1-SNAPSHOT.jar
+[DEBUG] 2021-08-07 01:36:23.268 Main main() done.
+[DEBUG] 2021-08-07 01:46:13.418 Main main() started...
+[DEBUG] 2021-08-07 01:46:13.424 Main dir path: /home/user/java/files-age-rm/target
+[DEBUG] 2021-08-07 01:46:13.426 Main List of files in the specified directory:
+[DEBUG] 2021-08-07 01:46:13.426 Main ./target/file-age-rm-0.0.1-SNAPSHOT-shaded.jar
+[DEBUG] 2021-08-07 01:46:13.426 Main ./target/file-age-rm-0.0.1-SNAPSHOT.jar
+[DEBUG] 2021-08-07 01:46:13.443 Main List of files in the specified directory:
+[DEBUG] 2021-08-07 01:46:13.444 Main file-age-rm-0.0.1-SNAPSHOT-shaded.jar
+[DEBUG] 2021-08-07 01:46:13.444 Main file-age-rm-0.0.1-SNAPSHOT.jar
+[DEBUG] 2021-08-07 01:46:13.444 Main main() done.
+[DEBUG] 2021-08-07 01:46:30.166 Main main() started...
+[DEBUG] 2021-08-07 01:46:30.172 Main dir path: /home/user/java/files-age-rm/target/classes
+[DEBUG] 2021-08-07 01:46:30.174 Main List of files in the specified directory:
+[DEBUG] 2021-08-07 01:46:30.174 Main ./target/classes/log4j2.xml
+[DEBUG] 2021-08-07 01:46:30.184 Main List of files in the specified directory:
+[DEBUG] 2021-08-07 01:46:30.184 Main log4j2.xml
+[DEBUG] 2021-08-07 01:46:30.184 Main main() done.
+[DEBUG] 2021-08-07 01:46:59.227 Main main() started...
+[DEBUG] 2021-08-07 01:46:59.233 Main dir path: /home/user/java/files-age-rm
+[DEBUG] 2021-08-07 01:46:59.234 Main List of files in the specified directory:
+[DEBUG] 2021-08-07 01:46:59.235 Main ./pom.xml
+[DEBUG] 2021-08-07 01:46:59.235 Main ./log.txt
+[DEBUG] 2021-08-07 01:46:59.243 Main List of files in the specified directory:
+[DEBUG] 2021-08-07 01:46:59.244 Main log.txt
+[DEBUG] 2021-08-07 01:46:59.244 Main pom.xml
+[DEBUG] 2021-08-07 01:46:59.245 Main main() done.
+[DEBUG] 2021-08-07 01:49:31.112 Main main() started...
+[DEBUG] 2021-08-07 01:49:31.118 Main dir path: /home/user/java/files-age-rm
+[DEBUG] 2021-08-07 01:49:31.119 Main List of files in the specified directory:
+[DEBUG] 2021-08-07 01:49:31.120 Main ./pom.xml
+[DEBUG] 2021-08-07 01:49:31.120 Main ./log.txt
+[DEBUG] 2021-08-07 01:49:31.128 Main List of files in the specified directory:
+[DEBUG] 2021-08-07 01:49:31.128 Main log.txt
+[DEBUG] 2021-08-07 01:49:31.128 Main pom.xml
+[DEBUG] 2021-08-07 01:49:31.128 Main main() done.
+[DEBUG] 2021-08-07 01:49:39.056 Main main() started...
+[DEBUG] 2021-08-07 01:49:39.061 Main dir path: /home/user/java/files-age-rm/target
+[DEBUG] 2021-08-07 01:49:39.062 Main List of files in the specified directory:
+[DEBUG] 2021-08-07 01:49:39.062 Main ./target/file-age-rm-0.0.1-SNAPSHOT-shaded.jar
+[DEBUG] 2021-08-07 01:49:39.063 Main ./target/file-age-rm-0.0.1-SNAPSHOT.jar
+[DEBUG] 2021-08-07 01:49:39.073 Main List of files in the specified directory:
+[DEBUG] 2021-08-07 01:49:39.073 Main file-age-rm-0.0.1-SNAPSHOT-shaded.jar
+[DEBUG] 2021-08-07 01:49:39.074 Main file-age-rm-0.0.1-SNAPSHOT.jar
+[DEBUG] 2021-08-07 01:49:39.074 Main main() done.
+[DEBUG] 2021-08-07 01:49:47.941 Main main() started...
+[DEBUG] 2021-08-07 01:49:47.946 Main dir path: /home/user/java/files-age-rm/target/generated-sources
+[DEBUG] 2021-08-07 01:49:47.947 Main List of files in the specified directory:
+[DEBUG] 2021-08-07 01:49:47.955 Main List of files in the specified directory:
+[DEBUG] 2021-08-07 01:49:47.956 Main main() done.
+[DEBUG] 2021-08-07 01:50:41.057 Main main() started...
+[DEBUG] 2021-08-07 01:50:41.067 Main dir path: /home/user/java/files-age-rm/target/classes/de/begerad/fileagerm
+[DEBUG] 2021-08-07 01:50:41.069 Main List of files in the specified directory:
+[DEBUG] 2021-08-07 01:50:41.069 Main ./target/classes/de/begerad/fileagerm/FileList.class
+[DEBUG] 2021-08-07 01:50:41.070 Main ./target/classes/de/begerad/fileagerm/FileList$1.class
+[DEBUG] 2021-08-07 01:50:41.070 Main ./target/classes/de/begerad/fileagerm/Main.class
+[DEBUG] 2021-08-07 01:50:41.078 Main List of files in the specified directory:
+[DEBUG] 2021-08-07 01:50:41.079 Main Main.class
+[DEBUG] 2021-08-07 01:50:41.079 Main FileList.class
+[DEBUG] 2021-08-07 01:50:41.079 Main FileList$1.class
+[DEBUG] 2021-08-07 01:50:41.079 Main main() done.
+[DEBUG] 2021-08-07 01:56:54.317 Main main() started...
+[DEBUG] 2021-08-07 01:56:54.323 Main dir path: /home/user/java/files-age-rm/target/classes/de/begerad/fileagerm
+[DEBUG] 2021-08-07 01:56:54.324 Main List of files in the specified directory:
+[DEBUG] 2021-08-07 01:56:54.325 Main ./target/classes/de/begerad/fileagerm/FileList.class
+[DEBUG] 2021-08-07 01:56:54.325 Main ./target/classes/de/begerad/fileagerm/FileList$1.class
+[DEBUG] 2021-08-07 01:56:54.325 Main ./target/classes/de/begerad/fileagerm/Main.class
+[DEBUG] 2021-08-07 01:56:54.339 Main List of files in the specified directory:
+[DEBUG] 2021-08-07 01:56:54.339 Main Main.class
+[DEBUG] 2021-08-07 01:56:54.339 Main FileList.class
+[DEBUG] 2021-08-07 01:56:54.340 Main FileList$1.class
+[DEBUG] 2021-08-07 01:56:54.340 Main main() done.
+[DEBUG] 2021-08-07 01:57:39.380 Main main() started...
+[DEBUG] 2021-08-07 01:57:39.386 Main dir path: /home/user/java/files-age-rm/target/classes/de/begerad/fileagerm
+[DEBUG] 2021-08-07 01:57:39.388 Main List of files in the specified directory:
+[DEBUG] 2021-08-07 01:57:39.389 Main ./target/classes/de/begerad/fileagerm/FileList.class
+[DEBUG] 2021-08-07 01:57:39.389 Main ./target/classes/de/begerad/fileagerm/FileList$1.class
+[DEBUG] 2021-08-07 01:57:39.389 Main ./target/classes/de/begerad/fileagerm/Main.class
+[DEBUG] 2021-08-07 01:57:39.403 Main List of files in the specified directory:
+[DEBUG] 2021-08-07 01:57:39.403 Main Main.class
+[DEBUG] 2021-08-07 01:57:39.404 Main FileList.class
+[DEBUG] 2021-08-07 01:57:39.404 Main FileList$1.class
+[DEBUG] 2021-08-07 01:57:39.404 Main age: 1628229459404
+[DEBUG] 2021-08-07 01:57:39.404 Main main() done.
+[DEBUG] 2021-08-07 02:00:32.360 Main main() started...
+[DEBUG] 2021-08-07 02:00:32.366 Main dir path: /home/user/java/files-age-rm/target/classes/de/begerad/fileagerm
+[DEBUG] 2021-08-07 02:00:32.367 Main List of files in the specified directory:
+[DEBUG] 2021-08-07 02:00:32.368 Main ./target/classes/de/begerad/fileagerm/FileList.class
+[DEBUG] 2021-08-07 02:00:32.368 Main ./target/classes/de/begerad/fileagerm/FileList$1.class
+[DEBUG] 2021-08-07 02:00:32.368 Main ./target/classes/de/begerad/fileagerm/Main.class
+[DEBUG] 2021-08-07 02:00:32.379 Main List of files in the specified directory:
+[DEBUG] 2021-08-07 02:00:32.379 Main Main.class
+[DEBUG] 2021-08-07 02:00:32.379 Main FileList.class
+[DEBUG] 2021-08-07 02:00:32.380 Main FileList$1.class
+[DEBUG] 2021-08-07 02:00:32.380 Main age in ms: 1628229632380
+[DEBUG] 2021-08-07 02:00:32.380 Main age in ms: 1628229632380
+[DEBUG] 2021-08-07 02:00:32.381 Main main() done.
+[DEBUG] 2021-08-07 02:13:02.862 Main main() started...
+[DEBUG] 2021-08-07 02:13:02.868 Main dir path: /tmp/tmp
+[DEBUG] 2021-08-07 02:13:02.869 Main List of files in the specified directory:
+[DEBUG] 2021-08-07 02:13:02.869 Main /tmp/tmp/tmp
+[DEBUG] 2021-08-07 02:13:02.877 Main List of files in the specified directory:
+[DEBUG] 2021-08-07 02:13:02.878 Main tmp
+[DEBUG] 2021-08-07 02:13:02.878 Main age in ms: 1628230382878
+[DEBUG] 2021-08-07 02:13:02.878 Main age in ms: 1628230382878
+[DEBUG] 2021-08-07 02:13:02.878 Main main() done.
+[DEBUG] 2021-08-07 02:14:50.603 Main main() started...
+[DEBUG] 2021-08-07 02:14:50.609 Main dir path: /tmp/tmp
+[DEBUG] 2021-08-07 02:14:50.611 Main List of files in the specified directory:
+[DEBUG] 2021-08-07 02:14:50.612 Main /tmp/tmp/tmp
+[DEBUG] 2021-08-07 02:14:50.631 Main List of files in the specified directory:
+[DEBUG] 2021-08-07 02:14:50.631 Main tmp
+[DEBUG] 2021-08-07 02:14:50.631 Main age in ms: 1628230490631
+[DEBUG] 2021-08-07 02:14:50.632 Main age in ms: 1628230490632
+[DEBUG] 2021-08-07 02:14:50.633 Main file is too young to be deleted
+[DEBUG] 2021-08-07 02:14:50.635 Main main() done.
+[DEBUG] 2021-08-07 02:15:19.947 Main main() started...
+[DEBUG] 2021-08-07 02:23:16.769 Main main() started...
+[DEBUG] 2021-08-07 02:23:16.775 Main dir path: /home/user/java/files-age-rm
+[DEBUG] 2021-08-07 02:23:16.777 Main List of files in the specified directory:
+[DEBUG] 2021-08-07 02:23:16.777 Main ./pom.xml
+[DEBUG] 2021-08-07 02:23:16.777 Main ./log.txt
+[DEBUG] 2021-08-07 02:23:16.790 Main List of files in the specified directory:
+[DEBUG] 2021-08-07 02:23:16.790 Main log.txt
+[DEBUG] 2021-08-07 02:23:16.791 Main pom.xml
+[DEBUG] 2021-08-07 02:23:16.791 Main age in ms: 1628230996791
+[DEBUG] 2021-08-07 02:23:16.791 Main age in ms: 1628230996791
+[DEBUG] 2021-08-07 02:23:16.792 Main file is too young to be deleted
+[DEBUG] 2021-08-07 02:23:16.792 Main file is too young to be deleted
+[ERROR] 2021-08-07 02:23:16.792 Main file could NOT be deleted: ./.idea
+[DEBUG] 2021-08-07 02:23:16.793 Main file is too young to be deleted
+[DEBUG] 2021-08-07 02:23:16.793 Main file is too young to be deleted
+[DEBUG] 2021-08-07 02:23:16.793 Main main() done.
+[DEBUG] 2021-08-07 02:24:28.641 Main main() started...
+[DEBUG] 2021-08-07 02:24:28.648 Main dir path: /home/user/java/files-age-rm
+[DEBUG] 2021-08-07 02:24:28.650 Main List of files in the specified directory:
+[DEBUG] 2021-08-07 02:24:28.651 Main ./pom.xml
+[DEBUG] 2021-08-07 02:24:28.651 Main ./log.txt
+[DEBUG] 2021-08-07 02:24:28.669 Main List of files in the specified directory:
+[DEBUG] 2021-08-07 02:24:28.670 Main log.txt
+[DEBUG] 2021-08-07 02:24:28.672 Main pom.xml
+[DEBUG] 2021-08-07 02:24:28.673 Main age in ms: 1628231068673
+[DEBUG] 2021-08-07 02:24:28.675 Main age in ms: 1628231068675
+[DEBUG] 2021-08-07 02:24:28.675 Main file is too young to be deleted
+[DEBUG] 2021-08-07 02:24:28.675 Main file is too young to be deleted
+[ERROR] 2021-08-07 02:24:28.676 Main file could NOT be deleted: ./.idea
+[DEBUG] 2021-08-07 02:24:28.676 Main file is too young to be deleted
+[DEBUG] 2021-08-07 02:24:28.676 Main file is too young to be deleted
+[DEBUG] 2021-08-07 02:24:28.676 Main main() done.
+[DEBUG] 2021-08-07 02:25:42.560 Main main() started...
+[DEBUG] 2021-08-07 02:25:42.566 Main dir path: /home/user/java/files-age-rm
+[DEBUG] 2021-08-07 02:25:42.568 Main List of files in the specified directory:
+[DEBUG] 2021-08-07 02:25:42.568 Main ./pom.xml
+[DEBUG] 2021-08-07 02:25:42.568 Main ./log.txt
+[DEBUG] 2021-08-07 02:25:42.581 Main List of files in the specified directory:
+[DEBUG] 2021-08-07 02:25:42.581 Main log.txt
+[DEBUG] 2021-08-07 02:25:42.581 Main pom.xml
+[DEBUG] 2021-08-07 02:25:42.581 Main age in ms: 1628231142581
+[DEBUG] 2021-08-07 02:25:42.582 Main age in ms: 1628231142582
+[DEBUG] 2021-08-07 02:25:42.582 Main file is too young to be deleted: ./.idea
+[DEBUG] 2021-08-07 02:25:42.582 Main file is too young to be deleted: ./.idea
+[ERROR] 2021-08-07 02:25:42.583 Main file could NOT be deleted: ./.idea
+[DEBUG] 2021-08-07 02:25:42.583 Main file is too young to be deleted: ./.idea
+[DEBUG] 2021-08-07 02:25:42.583 Main file is too young to be deleted: ./.idea
+[DEBUG] 2021-08-07 02:25:42.583 Main main() done.
+[DEBUG] 2021-08-07 02:37:48.505 Main main() started...
+[DEBUG] 2021-08-07 02:37:48.512 Main dir path: /home/user/java/files-age-rm
+[DEBUG] 2021-08-07 02:37:48.514 Main List of files in the specified directory:
+[DEBUG] 2021-08-07 02:37:48.514 Main file name: pom.xml
+[DEBUG] 2021-08-07 02:37:48.514 Main file path: ./pom.xml
+[DEBUG] 2021-08-07 02:37:48.515 Main file abs path: /home/user/java/files-age-rm/./pom.xml
+[DEBUG] 2021-08-07 02:37:48.515 Main file can path: /home/user/java/files-age-rm/pom.xml
+[DEBUG] 2021-08-07 02:37:48.515 Main file name: log.txt
+[DEBUG] 2021-08-07 02:37:48.516 Main file path: ./log.txt
+[DEBUG] 2021-08-07 02:37:48.516 Main file abs path: /home/user/java/files-age-rm/./log.txt
+[DEBUG] 2021-08-07 02:37:48.516 Main file can path: /home/user/java/files-age-rm/log.txt
+[DEBUG] 2021-08-07 02:37:48.524 Main List of files in the specified directory:
+[DEBUG] 2021-08-07 02:37:48.524 Main log.txt
+[DEBUG] 2021-08-07 02:37:48.525 Main pom.xml
+[DEBUG] 2021-08-07 02:37:48.525 Main age in ms: 1628231868525
+[DEBUG] 2021-08-07 02:37:48.525 Main age in ms: 1628231868525
+[DEBUG] 2021-08-07 02:37:48.527 Main file is too young to be deleted: ./.idea
+[DEBUG] 2021-08-07 02:37:48.527 Main file is too young to be deleted: ./.idea
+[ERROR] 2021-08-07 02:37:48.528 Main file could NOT be deleted: ./.idea
+[DEBUG] 2021-08-07 02:37:48.528 Main file is too young to be deleted: ./.idea
+[DEBUG] 2021-08-07 02:37:48.528 Main file is too young to be deleted: ./.idea
+[DEBUG] 2021-08-07 02:37:48.528 Main main() done.
+[DEBUG] 2021-08-07 02:59:10.688 Main main() started...
+[DEBUG] 2021-08-07 02:59:10.693 Main dir path: /home/user/java/files-age-rm
+[DEBUG] 2021-08-07 02:59:10.695 Main List of files in the specified directory:
+[DEBUG] 2021-08-07 02:59:10.695 Main file name: pom.xml
+[DEBUG] 2021-08-07 02:59:10.695 Main file path: ./pom.xml
+[DEBUG] 2021-08-07 02:59:10.695 Main file abs path: /home/user/java/files-age-rm/./pom.xml
+[DEBUG] 2021-08-07 02:59:10.696 Main file can path: /home/user/java/files-age-rm/pom.xml
+[DEBUG] 2021-08-07 02:59:10.696 Main file name: log.txt
+[DEBUG] 2021-08-07 02:59:10.696 Main file path: ./log.txt
+[DEBUG] 2021-08-07 02:59:10.696 Main file abs path: /home/user/java/files-age-rm/./log.txt
+[DEBUG] 2021-08-07 02:59:10.696 Main file can path: /home/user/java/files-age-rm/log.txt
+[DEBUG] 2021-08-07 02:59:10.706 Main List of files in the specified directory:
+[DEBUG] 2021-08-07 02:59:10.706 Main log.txt
+[DEBUG] 2021-08-07 02:59:10.707 Main pom.xml
+[DEBUG] 2021-08-07 02:59:10.708 Main age in ms: 1628233150707
+[DEBUG] 2021-08-07 02:59:10.708 Main age in ms: 1628233150708
+[DEBUG] 2021-08-07 02:59:10.710 Main file is too young to be deleted: ./pom.xml
+[DEBUG] 2021-08-07 02:59:10.710 Main file is too young to be deleted: ./pom.xml
+[DEBUG] 2021-08-07 02:59:10.711 Main main() done.
+[DEBUG] 2021-08-08 00:41:16.160 Main main() started...
+[DEBUG] 2021-08-08 00:41:20.745 Main main() started...
+[DEBUG] 2021-08-08 00:41:20.750 Main dir path: /home/user/java/files-age-rm
+[DEBUG] 2021-08-08 00:41:20.751 Main List of files in the specified directory:
+[DEBUG] 2021-08-08 00:41:20.751 Main file name: pom.xml
+[DEBUG] 2021-08-08 00:41:20.752 Main file path: ./pom.xml
+[DEBUG] 2021-08-08 00:41:20.752 Main file abs path: /home/user/java/files-age-rm/./pom.xml
+[DEBUG] 2021-08-08 00:41:20.752 Main file can path: /home/user/java/files-age-rm/pom.xml
+[DEBUG] 2021-08-08 00:41:20.752 Main file name: log.txt
+[DEBUG] 2021-08-08 00:41:20.752 Main file path: ./log.txt
+[DEBUG] 2021-08-08 00:41:20.752 Main file abs path: /home/user/java/files-age-rm/./log.txt
+[DEBUG] 2021-08-08 00:41:20.753 Main file can path: /home/user/java/files-age-rm/log.txt
+[DEBUG] 2021-08-08 00:41:20.765 Main List of files in the specified directory:
+[DEBUG] 2021-08-08 00:41:20.765 Main log.txt
+[DEBUG] 2021-08-08 00:41:20.765 Main pom.xml
+[DEBUG] 2021-08-08 00:41:20.765 Main age in ms: 1628311280765
+[DEBUG] 2021-08-08 00:41:20.766 Main age in ms: 1628311280765
+[DEBUG] 2021-08-08 00:41:20.767 Main file is too young to be deleted: ./pom.xml
+[DEBUG] 2021-08-08 00:41:20.767 Main file is too young to be deleted: ./pom.xml
+[DEBUG] 2021-08-08 00:41:20.767 Main main() done.
+[DEBUG] 2021-08-08 00:43:33.655 Main main() started...
+[DEBUG] 2021-08-08 00:50:06.149 Main main() started...
+[DEBUG] 2021-08-08 00:50:10.540 Main main() started...
+[DEBUG] 2021-08-08 00:50:10.545 Main dir path: /home/user/java/files-age-rm
+[DEBUG] 2021-08-08 00:50:10.547 Main List of files in the specified directory:
+[DEBUG] 2021-08-08 00:50:10.547 Main file name: pom.xml
+[DEBUG] 2021-08-08 00:50:10.547 Main file path: ./pom.xml
+[DEBUG] 2021-08-08 00:50:10.548 Main file abs path: /home/user/java/files-age-rm/./pom.xml
+[DEBUG] 2021-08-08 00:50:10.548 Main file can path: /home/user/java/files-age-rm/pom.xml
+[DEBUG] 2021-08-08 00:50:10.548 Main file name: log.txt
+[DEBUG] 2021-08-08 00:50:10.548 Main file path: ./log.txt
+[DEBUG] 2021-08-08 00:50:10.548 Main file abs path: /home/user/java/files-age-rm/./log.txt
+[DEBUG] 2021-08-08 00:50:10.549 Main file can path: /home/user/java/files-age-rm/log.txt
+[DEBUG] 2021-08-08 00:50:10.557 Main List of files in the specified directory:
+[DEBUG] 2021-08-08 00:50:10.557 Main log.txt
+[DEBUG] 2021-08-08 00:50:10.557 Main pom.xml
+[DEBUG] 2021-08-08 00:50:10.557 Main age in ms: 1628311810557
+[DEBUG] 2021-08-08 00:50:10.557 Main age in ms: 1628311810557
+[DEBUG] 2021-08-08 00:50:10.558 Main listFiles.length: 2
+[DEBUG] 2021-08-08 00:50:10.559 Main file is too young to be deleted: pom.xml
+[DEBUG] 2021-08-08 00:50:10.559 Main file is too young to be deleted: log.txt
+[DEBUG] 2021-08-08 00:50:10.559 Main main() done.
+[DEBUG] 2021-08-08 01:06:59.516 Main main() started...
+[DEBUG] 2021-08-08 01:06:59.522 Main dir path: /home/user/java/files-age-rm
+[DEBUG] 2021-08-08 01:06:59.524 Main List of files in the specified directory:
+[DEBUG] 2021-08-08 01:06:59.524 Main file name: pom.xml
+[DEBUG] 2021-08-08 01:06:59.525 Main file path: ./pom.xml
+[DEBUG] 2021-08-08 01:06:59.525 Main file abs path: /home/user/java/files-age-rm/./pom.xml
+[DEBUG] 2021-08-08 01:06:59.525 Main file can path: /home/user/java/files-age-rm/pom.xml
+[DEBUG] 2021-08-08 01:06:59.525 Main file name: log.txt
+[DEBUG] 2021-08-08 01:06:59.526 Main file path: ./log.txt
+[DEBUG] 2021-08-08 01:06:59.526 Main file abs path: /home/user/java/files-age-rm/./log.txt
+[DEBUG] 2021-08-08 01:06:59.526 Main file can path: /home/user/java/files-age-rm/log.txt
+[DEBUG] 2021-08-08 01:06:59.538 Main List of files in the specified directory:
+[DEBUG] 2021-08-08 01:06:59.539 Main log.txt
+[DEBUG] 2021-08-08 01:06:59.539 Main pom.xml
+[DEBUG] 2021-08-08 01:06:59.539 Main age in ms: 1628312819539
+[DEBUG] 2021-08-08 01:06:59.539 Main age in ms: 1628312819539
+[DEBUG] 2021-08-08 01:06:59.541 Main listFiles.length: 2
+[DEBUG] 2021-08-08 01:06:59.541 Main file is too young to be deleted: pom.xml
+[DEBUG] 2021-08-08 01:06:59.541 Main file is too young to be deleted: log.txt
+[DEBUG] 2021-08-08 01:06:59.541 Main main() done.
+[DEBUG] 2021-08-08 01:07:29.648 Main main() started...
+[DEBUG] 2021-08-08 01:07:29.654 Main dir path: /opt
+[DEBUG] 2021-08-08 01:07:29.656 Main List of files in the specified directory:
+[DEBUG] 2021-08-08 01:07:29.656 Main file name: ideaIC-2021.2.tar.gz
+[DEBUG] 2021-08-08 01:07:29.656 Main file path: /opt/ideaIC-2021.2.tar.gz
+[DEBUG] 2021-08-08 01:07:29.656 Main file abs path: /opt/ideaIC-2021.2.tar.gz
+[DEBUG] 2021-08-08 01:07:29.657 Main file can path: /opt/ideaIC-2021.2.tar.gz
+[DEBUG] 2021-08-08 01:07:29.670 Main List of files in the specified directory:
+[DEBUG] 2021-08-08 01:07:29.671 Main ideaIC-2021.2.tar.gz
+[DEBUG] 2021-08-08 01:07:29.671 Main age in ms: 1628312849671
+[DEBUG] 2021-08-08 01:07:29.671 Main age in ms: 1628312849671
+[DEBUG] 2021-08-08 01:07:29.672 Main listFiles.length: 1
+[ERROR] 2021-08-08 01:07:29.673 Main file could NOT be deleted: ideaIC-2021.2.tar.gz
+[DEBUG] 2021-08-08 01:07:29.673 Main main() done.
+[DEBUG] 2021-08-08 01:11:36.597 Main main() started...
+[DEBUG] 2021-08-08 01:11:36.602 Main dir path: /opt
+[DEBUG] 2021-08-08 01:11:36.603 Main List of files in the specified directory:
+[DEBUG] 2021-08-08 01:11:36.604 Main file name: ideaIC-2021.2.tar.gz
+[DEBUG] 2021-08-08 01:11:36.604 Main file path: /opt/ideaIC-2021.2.tar.gz
+[DEBUG] 2021-08-08 01:11:36.604 Main file abs path: /opt/ideaIC-2021.2.tar.gz
+[DEBUG] 2021-08-08 01:11:36.604 Main file can path: /opt/ideaIC-2021.2.tar.gz
+[DEBUG] 2021-08-08 01:11:36.612 Main List of files in the specified directory:
+[DEBUG] 2021-08-08 01:11:36.613 Main ideaIC-2021.2.tar.gz
+[DEBUG] 2021-08-08 01:11:36.613 Main age in ms: 1628313096613
+[DEBUG] 2021-08-08 01:11:36.613 Main age in ms: 1628313096613
+[DEBUG] 2021-08-08 01:11:36.615 Main listFiles.length: 1
+[WARN ] 2021-08-08 01:11:36.615 Main file could NOT be deleted: ideaIC-2021.2.tar.gz
+[DEBUG] 2021-08-08 01:11:36.615 Main main() done.
+[DEBUG] 2021-08-08 01:11:52.816 Main main() started...
+[DEBUG] 2021-08-08 01:11:52.822 Main dir path: /opt/idea-IU-211.7628.21
+[DEBUG] 2021-08-08 01:11:52.824 Main List of files in the specified directory:
+[DEBUG] 2021-08-08 01:11:52.824 Main file name: Install-Linux-tar.txt
+[DEBUG] 2021-08-08 01:11:52.824 Main file path: /opt/idea-IU-211.7628.21/Install-Linux-tar.txt
+[DEBUG] 2021-08-08 01:11:52.824 Main file abs path: /opt/idea-IU-211.7628.21/Install-Linux-tar.txt
+[DEBUG] 2021-08-08 01:11:52.825 Main file can path: /opt/idea-IU-211.7628.21/Install-Linux-tar.txt
+[DEBUG] 2021-08-08 01:11:52.825 Main file name: brokenPlugins.db
+[DEBUG] 2021-08-08 01:11:52.825 Main file path: /opt/idea-IU-211.7628.21/brokenPlugins.db
+[DEBUG] 2021-08-08 01:11:52.825 Main file abs path: /opt/idea-IU-211.7628.21/brokenPlugins.db
+[DEBUG] 2021-08-08 01:11:52.826 Main file can path: /opt/idea-IU-211.7628.21/brokenPlugins.db
+[DEBUG] 2021-08-08 01:11:52.826 Main file name: icons.db
+[DEBUG] 2021-08-08 01:11:52.826 Main file path: /opt/idea-IU-211.7628.21/icons.db
+[DEBUG] 2021-08-08 01:11:52.826 Main file abs path: /opt/idea-IU-211.7628.21/icons.db
+[DEBUG] 2021-08-08 01:11:52.826 Main file can path: /opt/idea-IU-211.7628.21/icons.db
+[DEBUG] 2021-08-08 01:11:52.826 Main file name: classpath.txt
+[DEBUG] 2021-08-08 01:11:52.827 Main file path: /opt/idea-IU-211.7628.21/classpath.txt
+[DEBUG] 2021-08-08 01:11:52.827 Main file abs path: /opt/idea-IU-211.7628.21/classpath.txt
+[DEBUG] 2021-08-08 01:11:52.827 Main file can path: /opt/idea-IU-211.7628.21/classpath.txt
+[DEBUG] 2021-08-08 01:11:52.827 Main file name: product-info.json
+[DEBUG] 2021-08-08 01:11:52.827 Main file path: /opt/idea-IU-211.7628.21/product-info.json
+[DEBUG] 2021-08-08 01:11:52.827 Main file abs path: /opt/idea-IU-211.7628.21/product-info.json
+[DEBUG] 2021-08-08 01:11:52.828 Main file can path: /opt/idea-IU-211.7628.21/product-info.json
+[DEBUG] 2021-08-08 01:11:52.828 Main file name: build.txt
+[DEBUG] 2021-08-08 01:11:52.828 Main file path: /opt/idea-IU-211.7628.21/build.txt
+[DEBUG] 2021-08-08 01:11:52.828 Main file abs path: /opt/idea-IU-211.7628.21/build.txt
+[DEBUG] 2021-08-08 01:11:52.828 Main file can path: /opt/idea-IU-211.7628.21/build.txt
+[DEBUG] 2021-08-08 01:11:52.839 Main List of files in the specified directory:
+[DEBUG] 2021-08-08 01:11:52.840 Main brokenPlugins.db
+[DEBUG] 2021-08-08 01:11:52.840 Main icons.db
+[DEBUG] 2021-08-08 01:11:52.840 Main product-info.json
+[DEBUG] 2021-08-08 01:11:52.840 Main Install-Linux-tar.txt
+[DEBUG] 2021-08-08 01:11:52.840 Main classpath.txt
+[DEBUG] 2021-08-08 01:11:52.840 Main build.txt
+[DEBUG] 2021-08-08 01:11:52.840 Main age in ms: 1628313112840
+[DEBUG] 2021-08-08 01:11:52.841 Main age in ms: 1628313112841
+[DEBUG] 2021-08-08 01:11:52.842 Main listFiles.length: 6
+[DEBUG] 2021-08-08 01:11:52.845 Main file deleted: Install-Linux-tar.txt
+[DEBUG] 2021-08-08 01:11:52.846 Main file deleted: brokenPlugins.db
+[DEBUG] 2021-08-08 01:11:52.846 Main file deleted: icons.db
+[DEBUG] 2021-08-08 01:11:52.846 Main file deleted: classpath.txt
+[DEBUG] 2021-08-08 01:11:52.847 Main file deleted: product-info.json
+[DEBUG] 2021-08-08 01:11:52.847 Main file deleted: build.txt
+[DEBUG] 2021-08-08 01:11:52.847 Main main() done.
+[DEBUG] 2021-08-08 01:12:48.222 Main main() started...
+[DEBUG] 2021-08-08 01:12:48.229 Main dir path: /opt/idea-IU-211.7628.21/bin
+[DEBUG] 2021-08-08 01:12:48.231 Main List of files in the specified directory:
+[DEBUG] 2021-08-08 01:12:48.231 Main file name: appletviewer.policy
+[DEBUG] 2021-08-08 01:12:48.232 Main file path: /opt/idea-IU-211.7628.21/bin/appletviewer.policy
+[DEBUG] 2021-08-08 01:12:48.232 Main file abs path: /opt/idea-IU-211.7628.21/bin/appletviewer.policy
+[DEBUG] 2021-08-08 01:12:48.232 Main file can path: /opt/idea-IU-211.7628.21/bin/appletviewer.policy
+[DEBUG] 2021-08-08 01:12:48.232 Main file name: idea.sh
+[DEBUG] 2021-08-08 01:12:48.233 Main file path: /opt/idea-IU-211.7628.21/bin/idea.sh
+[DEBUG] 2021-08-08 01:12:48.233 Main file abs path: /opt/idea-IU-211.7628.21/bin/idea.sh
+[DEBUG] 2021-08-08 01:12:48.233 Main file can path: /opt/idea-IU-211.7628.21/bin/idea.sh
+[DEBUG] 2021-08-08 01:12:48.234 Main file name: libdbm64.so
+[DEBUG] 2021-08-08 01:12:48.234 Main file path: /opt/idea-IU-211.7628.21/bin/libdbm64.so
+[DEBUG] 2021-08-08 01:12:48.234 Main file abs path: /opt/idea-IU-211.7628.21/bin/libdbm64.so
+[DEBUG] 2021-08-08 01:12:48.234 Main file can path: /opt/idea-IU-211.7628.21/bin/libdbm64.so
+[DEBUG] 2021-08-08 01:12:48.235 Main file name: fsnotifier64
+[DEBUG] 2021-08-08 01:12:48.235 Main file path: /opt/idea-IU-211.7628.21/bin/fsnotifier64
+[DEBUG] 2021-08-08 01:12:48.235 Main file abs path: /opt/idea-IU-211.7628.21/bin/fsnotifier64
+[DEBUG] 2021-08-08 01:12:48.235 Main file can path: /opt/idea-IU-211.7628.21/bin/fsnotifier64
+[DEBUG] 2021-08-08 01:12:48.236 Main file name: printenv.py
+[DEBUG] 2021-08-08 01:12:48.236 Main file path: /opt/idea-IU-211.7628.21/bin/printenv.py
+[DEBUG] 2021-08-08 01:12:48.240 Main file abs path: /opt/idea-IU-211.7628.21/bin/printenv.py
+[DEBUG] 2021-08-08 01:12:48.241 Main file can path: /opt/idea-IU-211.7628.21/bin/printenv.py
+[DEBUG] 2021-08-08 01:12:48.241 Main file name: idea.svg
+[DEBUG] 2021-08-08 01:12:48.245 Main file path: /opt/idea-IU-211.7628.21/bin/idea.svg
+[DEBUG] 2021-08-08 01:12:48.245 Main file abs path: /opt/idea-IU-211.7628.21/bin/idea.svg
+[DEBUG] 2021-08-08 01:12:48.246 Main file can path: /opt/idea-IU-211.7628.21/bin/idea.svg
+[DEBUG] 2021-08-08 01:12:48.246 Main file name: restart.py
+[DEBUG] 2021-08-08 01:12:48.246 Main file path: /opt/idea-IU-211.7628.21/bin/restart.py
+[DEBUG] 2021-08-08 01:12:48.247 Main file abs path: /opt/idea-IU-211.7628.21/bin/restart.py
+[DEBUG] 2021-08-08 01:12:48.247 Main file can path: /opt/idea-IU-211.7628.21/bin/restart.py
+[DEBUG] 2021-08-08 01:12:48.250 Main file name: fsnotifier
+[DEBUG] 2021-08-08 01:12:48.251 Main file path: /opt/idea-IU-211.7628.21/bin/fsnotifier
+[DEBUG] 2021-08-08 01:12:48.251 Main file abs path: /opt/idea-IU-211.7628.21/bin/fsnotifier
+[DEBUG] 2021-08-08 01:12:48.252 Main file can path: /opt/idea-IU-211.7628.21/bin/fsnotifier
+[DEBUG] 2021-08-08 01:12:48.252 Main file name: idea.vmoptions
+[DEBUG] 2021-08-08 01:12:48.252 Main file path: /opt/idea-IU-211.7628.21/bin/idea.vmoptions
+[DEBUG] 2021-08-08 01:12:48.252 Main file abs path: /opt/idea-IU-211.7628.21/bin/idea.vmoptions
+[DEBUG] 2021-08-08 01:12:48.252 Main file can path: /opt/idea-IU-211.7628.21/bin/idea.vmoptions
+[DEBUG] 2021-08-08 01:12:48.253 Main file name: inspect.sh
+[DEBUG] 2021-08-08 01:12:48.253 Main file path: /opt/idea-IU-211.7628.21/bin/inspect.sh
+[DEBUG] 2021-08-08 01:12:48.253 Main file abs path: /opt/idea-IU-211.7628.21/bin/inspect.sh
+[DEBUG] 2021-08-08 01:12:48.253 Main file can path: /opt/idea-IU-211.7628.21/bin/inspect.sh
+[DEBUG] 2021-08-08 01:12:48.254 Main file name: idea64.vmoptions
+[DEBUG] 2021-08-08 01:12:48.254 Main file path: /opt/idea-IU-211.7628.21/bin/idea64.vmoptions
+[DEBUG] 2021-08-08 01:12:48.259 Main file abs path: /opt/idea-IU-211.7628.21/bin/idea64.vmoptions
+[DEBUG] 2021-08-08 01:12:48.260 Main file can path: /opt/idea-IU-211.7628.21/bin/idea64.vmoptions
+[DEBUG] 2021-08-08 01:12:48.261 Main file name: log.xml
+[DEBUG] 2021-08-08 01:12:48.261 Main file path: /opt/idea-IU-211.7628.21/bin/log.xml
+[DEBUG] 2021-08-08 01:12:48.261 Main file abs path: /opt/idea-IU-211.7628.21/bin/log.xml
+[DEBUG] 2021-08-08 01:12:48.263 Main file can path: /opt/idea-IU-211.7628.21/bin/log.xml
+[DEBUG] 2021-08-08 01:12:48.266 Main file name: ltedit.sh
+[DEBUG] 2021-08-08 01:12:48.266 Main file path: /opt/idea-IU-211.7628.21/bin/ltedit.sh
+[DEBUG] 2021-08-08 01:12:48.266 Main file abs path: /opt/idea-IU-211.7628.21/bin/ltedit.sh
+[DEBUG] 2021-08-08 01:12:48.267 Main file can path: /opt/idea-IU-211.7628.21/bin/ltedit.sh
+[DEBUG] 2021-08-08 01:12:48.267 Main file name: idea.png
+[DEBUG] 2021-08-08 01:12:48.268 Main file path: /opt/idea-IU-211.7628.21/bin/idea.png
+[DEBUG] 2021-08-08 01:12:48.268 Main file abs path: /opt/idea-IU-211.7628.21/bin/idea.png
+[DEBUG] 2021-08-08 01:12:48.269 Main file can path: /opt/idea-IU-211.7628.21/bin/idea.png
+[DEBUG] 2021-08-08 01:12:48.269 Main file name: format.sh
+[DEBUG] 2021-08-08 01:12:48.269 Main file path: /opt/idea-IU-211.7628.21/bin/format.sh
+[DEBUG] 2021-08-08 01:12:48.269 Main file abs path: /opt/idea-IU-211.7628.21/bin/format.sh
+[DEBUG] 2021-08-08 01:12:48.270 Main file can path: /opt/idea-IU-211.7628.21/bin/format.sh
+[DEBUG] 2021-08-08 01:12:48.270 Main file name: idea.properties
+[DEBUG] 2021-08-08 01:12:48.270 Main file path: /opt/idea-IU-211.7628.21/bin/idea.properties
+[DEBUG] 2021-08-08 01:12:48.271 Main file abs path: /opt/idea-IU-211.7628.21/bin/idea.properties
+[DEBUG] 2021-08-08 01:12:48.271 Main file can path: /opt/idea-IU-211.7628.21/bin/idea.properties
+[DEBUG] 2021-08-08 01:12:48.280 Main List of files in the specified directory:
+[DEBUG] 2021-08-08 01:12:48.281 Main log.xml
+[DEBUG] 2021-08-08 01:12:48.281 Main idea.properties
+[DEBUG] 2021-08-08 01:12:48.281 Main idea.sh
+[DEBUG] 2021-08-08 01:12:48.282 Main idea.png
+[DEBUG] 2021-08-08 01:12:48.282 Main inspect.sh
+[DEBUG] 2021-08-08 01:12:48.282 Main appletviewer.policy
+[DEBUG] 2021-08-08 01:12:48.282 Main fsnotifier64
+[DEBUG] 2021-08-08 01:12:48.288 Main fsnotifier
+[DEBUG] 2021-08-08 01:12:48.288 Main idea64.vmoptions
+[DEBUG] 2021-08-08 01:12:48.288 Main ltedit.sh
+[DEBUG] 2021-08-08 01:12:48.289 Main printenv.py
+[DEBUG] 2021-08-08 01:12:48.289 Main libdbm64.so
+[DEBUG] 2021-08-08 01:12:48.289 Main format.sh
+[DEBUG] 2021-08-08 01:12:48.289 Main restart.py
+[DEBUG] 2021-08-08 01:12:48.289 Main idea.vmoptions
+[DEBUG] 2021-08-08 01:12:48.290 Main idea.svg
+[DEBUG] 2021-08-08 01:12:48.290 Main age in ms: 1628313168290
+[DEBUG] 2021-08-08 01:12:48.290 Main age in ms: 1628313168290
+[DEBUG] 2021-08-08 01:12:48.295 Main listFiles.length: 16
+[DEBUG] 2021-08-08 01:12:48.296 Main file deleted: appletviewer.policy
+[DEBUG] 2021-08-08 01:12:48.296 Main file deleted: idea.sh
+[DEBUG] 2021-08-08 01:12:48.297 Main file deleted: libdbm64.so
+[DEBUG] 2021-08-08 01:12:48.297 Main file deleted: fsnotifier64
+[DEBUG] 2021-08-08 01:12:48.297 Main file deleted: printenv.py
+[DEBUG] 2021-08-08 01:12:48.297 Main file deleted: idea.svg
+[DEBUG] 2021-08-08 01:12:48.298 Main file deleted: restart.py
+[DEBUG] 2021-08-08 01:12:48.298 Main file deleted: fsnotifier
+[DEBUG] 2021-08-08 01:12:48.298 Main file deleted: idea.vmoptions
+[DEBUG] 2021-08-08 01:12:48.300 Main file deleted: inspect.sh
+[DEBUG] 2021-08-08 01:12:48.300 Main file deleted: idea64.vmoptions
+[DEBUG] 2021-08-08 01:12:48.301 Main file deleted: log.xml
+[DEBUG] 2021-08-08 01:12:48.301 Main file deleted: ltedit.sh
+[DEBUG] 2021-08-08 01:12:48.302 Main file deleted: idea.png
+[DEBUG] 2021-08-08 01:12:48.303 Main file deleted: format.sh
+[DEBUG] 2021-08-08 01:12:48.303 Main file deleted: idea.properties
+[DEBUG] 2021-08-08 01:12:48.304 Main main() done.
+[DEBUG] 2021-08-08 01:13:14.195 Main main() started...
+[DEBUG] 2021-08-08 01:13:14.200 Main dir path: /opt/idea-IU-211.7628.21/bin
+[DEBUG] 2021-08-08 01:13:14.202 Main List of files in the specified directory:
+[DEBUG] 2021-08-08 01:13:14.210 Main List of files in the specified directory:
+[DEBUG] 2021-08-08 01:13:14.210 Main age in ms: 1628313194210
+[DEBUG] 2021-08-08 01:13:14.211 Main age in ms: 1628313194210
+[DEBUG] 2021-08-08 01:13:14.212 Main listFiles.length: 0
+[DEBUG] 2021-08-08 01:13:14.212 Main main() done.
+[DEBUG] 2021-08-08 01:13:19.516 Main main() started...
+[DEBUG] 2021-08-08 01:13:19.521 Main dir path: /opt/idea-IU-211.7628.21/help
+[DEBUG] 2021-08-08 01:13:19.523 Main List of files in the specified directory:
+[DEBUG] 2021-08-08 01:13:19.523 Main file name: ReferenceCardForMac.pdf
+[DEBUG] 2021-08-08 01:13:19.523 Main file path: /opt/idea-IU-211.7628.21/help/ReferenceCardForMac.pdf
+[DEBUG] 2021-08-08 01:13:19.523 Main file abs path: /opt/idea-IU-211.7628.21/help/ReferenceCardForMac.pdf
+[DEBUG] 2021-08-08 01:13:19.523 Main file can path: /opt/idea-IU-211.7628.21/help/ReferenceCardForMac.pdf
+[DEBUG] 2021-08-08 01:13:19.524 Main file name: ReferenceCard.pdf
+[DEBUG] 2021-08-08 01:13:19.524 Main file path: /opt/idea-IU-211.7628.21/help/ReferenceCard.pdf
+[DEBUG] 2021-08-08 01:13:19.524 Main file abs path: /opt/idea-IU-211.7628.21/help/ReferenceCard.pdf
+[DEBUG] 2021-08-08 01:13:19.524 Main file can path: /opt/idea-IU-211.7628.21/help/ReferenceCard.pdf
+[DEBUG] 2021-08-08 01:13:19.537 Main List of files in the specified directory:
+[DEBUG] 2021-08-08 01:13:19.537 Main ReferenceCard.pdf
+[DEBUG] 2021-08-08 01:13:19.537 Main ReferenceCardForMac.pdf
+[DEBUG] 2021-08-08 01:13:19.537 Main age in ms: 1628313199537
+[DEBUG] 2021-08-08 01:13:19.537 Main age in ms: 1628313199537
+[DEBUG] 2021-08-08 01:13:19.539 Main listFiles.length: 2
+[DEBUG] 2021-08-08 01:13:19.542 Main file deleted: ReferenceCardForMac.pdf
+[DEBUG] 2021-08-08 01:13:19.543 Main file deleted: ReferenceCard.pdf
+[DEBUG] 2021-08-08 01:13:19.543 Main main() done.
+[DEBUG] 2021-08-08 01:13:23.633 Main main() started...
+[DEBUG] 2021-08-08 01:13:23.639 Main dir path: /opt/idea-IU-211.7628.21/help
+[DEBUG] 2021-08-08 01:13:23.640 Main List of files in the specified directory:
+[DEBUG] 2021-08-08 01:13:23.648 Main List of files in the specified directory:
+[DEBUG] 2021-08-08 01:13:23.649 Main age in ms: 1628313203649
+[DEBUG] 2021-08-08 01:13:23.650 Main age in ms: 1628313203650
+[DEBUG] 2021-08-08 01:13:23.651 Main listFiles.length: 0
+[DEBUG] 2021-08-08 01:13:23.651 Main main() done.
+[DEBUG] 2021-08-08 01:13:36.838 Main main() started...
+[DEBUG] 2021-08-08 01:13:36.844 Main dir path: /opt/idea-IU-211.7628.21/jbr
+[DEBUG] 2021-08-08 01:13:36.845 Main List of files in the specified directory:
+[DEBUG] 2021-08-08 01:13:36.846 Main file name: release
+[DEBUG] 2021-08-08 01:13:36.846 Main file path: /opt/idea-IU-211.7628.21/jbr/release
+[DEBUG] 2021-08-08 01:13:36.846 Main file abs path: /opt/idea-IU-211.7628.21/jbr/release
+[DEBUG] 2021-08-08 01:13:36.847 Main file can path: /opt/idea-IU-211.7628.21/jbr/release
+[DEBUG] 2021-08-08 01:13:36.854 Main List of files in the specified directory:
+[DEBUG] 2021-08-08 01:13:36.855 Main release
+[DEBUG] 2021-08-08 01:13:36.855 Main age in ms: 1628313216855
+[DEBUG] 2021-08-08 01:13:36.855 Main age in ms: 1628313216855
+[DEBUG] 2021-08-08 01:13:36.857 Main listFiles.length: 1
+[DEBUG] 2021-08-08 01:13:36.857 Main file deleted: release
+[DEBUG] 2021-08-08 01:13:36.857 Main main() done.
+[DEBUG] 2021-08-08 01:14:21.245 Main main() started...
+[DEBUG] 2021-08-08 01:14:21.251 Main dir path: /opt/idea-IU-211.7628.21/lib
+[DEBUG] 2021-08-08 01:14:21.257 Main List of files in the specified directory:
+[DEBUG] 2021-08-08 01:14:21.257 Main file name: h2-mvstore-1.4.200.jar
+[DEBUG] 2021-08-08 01:14:21.257 Main file path: /opt/idea-IU-211.7628.21/lib/h2-mvstore-1.4.200.jar
+[DEBUG] 2021-08-08 01:14:21.258 Main file abs path: /opt/idea-IU-211.7628.21/lib/h2-mvstore-1.4.200.jar
+[DEBUG] 2021-08-08 01:14:21.258 Main file can path: /opt/idea-IU-211.7628.21/lib/h2-mvstore-1.4.200.jar
+[DEBUG] 2021-08-08 01:14:21.258 Main file name: xml-resolver-1.2.jar
+[DEBUG] 2021-08-08 01:14:21.263 Main file path: /opt/idea-IU-211.7628.21/lib/xml-resolver-1.2.jar
+[DEBUG] 2021-08-08 01:14:21.264 Main file abs path: /opt/idea-IU-211.7628.21/lib/xml-resolver-1.2.jar
+[DEBUG] 2021-08-08 01:14:21.264 Main file can path: /opt/idea-IU-211.7628.21/lib/xml-resolver-1.2.jar
+[DEBUG] 2021-08-08 01:14:21.264 Main file name: commons-cli-1.4.jar
+[DEBUG] 2021-08-08 01:14:21.264 Main file path: /opt/idea-IU-211.7628.21/lib/commons-cli-1.4.jar
+[DEBUG] 2021-08-08 01:14:21.265 Main file abs path: /opt/idea-IU-211.7628.21/lib/commons-cli-1.4.jar
+[DEBUG] 2021-08-08 01:14:21.265 Main file can path: /opt/idea-IU-211.7628.21/lib/commons-cli-1.4.jar
+[DEBUG] 2021-08-08 01:14:21.265 Main file name: fluent-hc-4.5.13.jar
+[DEBUG] 2021-08-08 01:14:21.266 Main file path: /opt/idea-IU-211.7628.21/lib/fluent-hc-4.5.13.jar
+[DEBUG] 2021-08-08 01:14:21.266 Main file abs path: /opt/idea-IU-211.7628.21/lib/fluent-hc-4.5.13.jar
+[DEBUG] 2021-08-08 01:14:21.266 Main file can path: /opt/idea-IU-211.7628.21/lib/fluent-hc-4.5.13.jar
+[DEBUG] 2021-08-08 01:14:21.266 Main file name: testFramework.jar
+[DEBUG] 2021-08-08 01:14:21.266 Main file path: /opt/idea-IU-211.7628.21/lib/testFramework.jar
+[DEBUG] 2021-08-08 01:14:21.266 Main file abs path: /opt/idea-IU-211.7628.21/lib/testFramework.jar
+[DEBUG] 2021-08-08 01:14:21.267 Main file can path: /opt/idea-IU-211.7628.21/lib/testFramework.jar
+[DEBUG] 2021-08-08 01:14:21.267 Main file name: intellij-xml.jar
+[DEBUG] 2021-08-08 01:14:21.267 Main file path: /opt/idea-IU-211.7628.21/lib/intellij-xml.jar
+[DEBUG] 2021-08-08 01:14:21.267 Main file abs path: /opt/idea-IU-211.7628.21/lib/intellij-xml.jar
+[DEBUG] 2021-08-08 01:14:21.267 Main file can path: /opt/idea-IU-211.7628.21/lib/intellij-xml.jar
+[DEBUG] 2021-08-08 01:14:21.268 Main file name: objenesis-3.1.jar
+[DEBUG] 2021-08-08 01:14:21.268 Main file path: /opt/idea-IU-211.7628.21/lib/objenesis-3.1.jar
+[DEBUG] 2021-08-08 01:14:21.268 Main file abs path: /opt/idea-IU-211.7628.21/lib/objenesis-3.1.jar
+[DEBUG] 2021-08-08 01:14:21.268 Main file can path: /opt/idea-IU-211.7628.21/lib/objenesis-3.1.jar
+[DEBUG] 2021-08-08 01:14:21.268 Main file name: proxy-vole.jar
+[DEBUG] 2021-08-08 01:14:21.268 Main file path: /opt/idea-IU-211.7628.21/lib/proxy-vole.jar
+[DEBUG] 2021-08-08 01:14:21.269 Main file abs path: /opt/idea-IU-211.7628.21/lib/proxy-vole.jar
+[DEBUG] 2021-08-08 01:14:21.269 Main file can path: /opt/idea-IU-211.7628.21/lib/proxy-vole.jar
+[DEBUG] 2021-08-08 01:14:21.269 Main file name: kryo.jar
+[DEBUG] 2021-08-08 01:14:21.269 Main file path: /opt/idea-IU-211.7628.21/lib/kryo.jar
+[DEBUG] 2021-08-08 01:14:21.269 Main file abs path: /opt/idea-IU-211.7628.21/lib/kryo.jar
+[DEBUG] 2021-08-08 01:14:21.270 Main file can path: /opt/idea-IU-211.7628.21/lib/kryo.jar
+[DEBUG] 2021-08-08 01:14:21.270 Main file name: resources.jar
+[DEBUG] 2021-08-08 01:14:21.270 Main file path: /opt/idea-IU-211.7628.21/lib/resources.jar
+[DEBUG] 2021-08-08 01:14:21.270 Main file abs path: /opt/idea-IU-211.7628.21/lib/resources.jar
+[DEBUG] 2021-08-08 01:14:21.270 Main file can path: /opt/idea-IU-211.7628.21/lib/resources.jar
+[DEBUG] 2021-08-08 01:14:21.271 Main file name: marketplace-zip-signer-0.1.3.jar
+[DEBUG] 2021-08-08 01:14:21.271 Main file path: /opt/idea-IU-211.7628.21/lib/marketplace-zip-signer-0.1.3.jar
+[DEBUG] 2021-08-08 01:14:21.271 Main file abs path: /opt/idea-IU-211.7628.21/lib/marketplace-zip-signer-0.1.3.jar
+[DEBUG] 2021-08-08 01:14:21.271 Main file can path: /opt/idea-IU-211.7628.21/lib/marketplace-zip-signer-0.1.3.jar
+[DEBUG] 2021-08-08 01:14:21.272 Main file name: groovy-2.5.11.jar
+[DEBUG] 2021-08-08 01:14:21.272 Main file path: /opt/idea-IU-211.7628.21/lib/groovy-2.5.11.jar
+[DEBUG] 2021-08-08 01:14:21.272 Main file abs path: /opt/idea-IU-211.7628.21/lib/groovy-2.5.11.jar
+[DEBUG] 2021-08-08 01:14:21.272 Main file can path: /opt/idea-IU-211.7628.21/lib/groovy-2.5.11.jar
+[DEBUG] 2021-08-08 01:14:21.273 Main file name: jaxb-runtime.jar
+[DEBUG] 2021-08-08 01:14:21.273 Main file path: /opt/idea-IU-211.7628.21/lib/jaxb-runtime.jar
+[DEBUG] 2021-08-08 01:14:21.274 Main file abs path: /opt/idea-IU-211.7628.21/lib/jaxb-runtime.jar
+[DEBUG] 2021-08-08 01:14:21.276 Main file can path: /opt/idea-IU-211.7628.21/lib/jaxb-runtime.jar
+[DEBUG] 2021-08-08 01:14:21.276 Main file name: commons-imaging-1.0-RC-1.jar
+[DEBUG] 2021-08-08 01:14:21.278 Main file path: /opt/idea-IU-211.7628.21/lib/commons-imaging-1.0-RC-1.jar
+[DEBUG] 2021-08-08 01:14:21.278 Main file abs path: /opt/idea-IU-211.7628.21/lib/commons-imaging-1.0-RC-1.jar
+[DEBUG] 2021-08-08 01:14:21.279 Main file can path: /opt/idea-IU-211.7628.21/lib/commons-imaging-1.0-RC-1.jar
+[DEBUG] 2021-08-08 01:14:21.279 Main file name: jackson-dataformat-yaml-2.12.1.jar
+[DEBUG] 2021-08-08 01:14:21.279 Main file path: /opt/idea-IU-211.7628.21/lib/jackson-dataformat-yaml-2.12.1.jar
+[DEBUG] 2021-08-08 01:14:21.279 Main file abs path: /opt/idea-IU-211.7628.21/lib/jackson-dataformat-yaml-2.12.1.jar
+[DEBUG] 2021-08-08 01:14:21.279 Main file can path: /opt/idea-IU-211.7628.21/lib/jackson-dataformat-yaml-2.12.1.jar
+[DEBUG] 2021-08-08 01:14:21.279 Main file name: kotlin-test.jar
+[DEBUG] 2021-08-08 01:14:21.280 Main file path: /opt/idea-IU-211.7628.21/lib/kotlin-test.jar
+[DEBUG] 2021-08-08 01:14:21.280 Main file abs path: /opt/idea-IU-211.7628.21/lib/kotlin-test.jar
+[DEBUG] 2021-08-08 01:14:21.280 Main file can path: /opt/idea-IU-211.7628.21/lib/kotlin-test.jar
+[DEBUG] 2021-08-08 01:14:21.280 Main file name: jing-20030619.jar
+[DEBUG] 2021-08-08 01:14:21.280 Main file path: /opt/idea-IU-211.7628.21/lib/jing-20030619.jar
+[DEBUG] 2021-08-08 01:14:21.280 Main file abs path: /opt/idea-IU-211.7628.21/lib/jing-20030619.jar
+[DEBUG] 2021-08-08 01:14:21.281 Main file can path: /opt/idea-IU-211.7628.21/lib/jing-20030619.jar
+[DEBUG] 2021-08-08 01:14:21.281 Main file name: commons-codec-1.15.jar
+[DEBUG] 2021-08-08 01:14:21.281 Main file path: /opt/idea-IU-211.7628.21/lib/commons-codec-1.15.jar
+[DEBUG] 2021-08-08 01:14:21.281 Main file abs path: /opt/idea-IU-211.7628.21/lib/commons-codec-1.15.jar
+[DEBUG] 2021-08-08 01:14:21.282 Main file can path: /opt/idea-IU-211.7628.21/lib/commons-codec-1.15.jar
+[DEBUG] 2021-08-08 01:14:21.282 Main file name: sqlite-jdbc-3.34.0.jar
+[DEBUG] 2021-08-08 01:14:21.282 Main file path: /opt/idea-IU-211.7628.21/lib/sqlite-jdbc-3.34.0.jar
+[DEBUG] 2021-08-08 01:14:21.282 Main file abs path: /opt/idea-IU-211.7628.21/lib/sqlite-jdbc-3.34.0.jar
+[DEBUG] 2021-08-08 01:14:21.282 Main file can path: /opt/idea-IU-211.7628.21/lib/sqlite-jdbc-3.34.0.jar
+[DEBUG] 2021-08-08 01:14:21.283 Main file name: proto-27.1.1.0.jar
+[DEBUG] 2021-08-08 01:14:21.283 Main file path: /opt/idea-IU-211.7628.21/lib/proto-27.1.1.0.jar
+[DEBUG] 2021-08-08 01:14:21.283 Main file abs path: /opt/idea-IU-211.7628.21/lib/proto-27.1.1.0.jar
+[DEBUG] 2021-08-08 01:14:21.283 Main file can path: /opt/idea-IU-211.7628.21/lib/proto-27.1.1.0.jar
+[DEBUG] 2021-08-08 01:14:21.283 Main file name: commons-compress-1.20.jar
+[DEBUG] 2021-08-08 01:14:21.283 Main file path: /opt/idea-IU-211.7628.21/lib/commons-compress-1.20.jar
+[DEBUG] 2021-08-08 01:14:21.284 Main file abs path: /opt/idea-IU-211.7628.21/lib/commons-compress-1.20.jar
+[DEBUG] 2021-08-08 01:14:21.284 Main file can path: /opt/idea-IU-211.7628.21/lib/commons-compress-1.20.jar
+[DEBUG] 2021-08-08 01:14:21.284 Main file name: annotations.jar
+[DEBUG] 2021-08-08 01:14:21.284 Main file path: /opt/idea-IU-211.7628.21/lib/annotations.jar
+[DEBUG] 2021-08-08 01:14:21.284 Main file abs path: /opt/idea-IU-211.7628.21/lib/annotations.jar
+[DEBUG] 2021-08-08 01:14:21.285 Main file can path: /opt/idea-IU-211.7628.21/lib/annotations.jar
+[DEBUG] 2021-08-08 01:14:21.285 Main file name: automaton-1.12-1.jar
+[DEBUG] 2021-08-08 01:14:21.285 Main file path: /opt/idea-IU-211.7628.21/lib/automaton-1.12-1.jar
+[DEBUG] 2021-08-08 01:14:21.285 Main file abs path: /opt/idea-IU-211.7628.21/lib/automaton-1.12-1.jar
+[DEBUG] 2021-08-08 01:14:21.285 Main file can path: /opt/idea-IU-211.7628.21/lib/automaton-1.12-1.jar
+[DEBUG] 2021-08-08 01:14:21.286 Main file name: platform-api.jar
+[DEBUG] 2021-08-08 01:14:21.286 Main file path: /opt/idea-IU-211.7628.21/lib/platform-api.jar
+[DEBUG] 2021-08-08 01:14:21.286 Main file abs path: /opt/idea-IU-211.7628.21/lib/platform-api.jar
+[DEBUG] 2021-08-08 01:14:21.286 Main file can path: /opt/idea-IU-211.7628.21/lib/platform-api.jar
+[DEBUG] 2021-08-08 01:14:21.287 Main file name: platform-impl.jar
+[DEBUG] 2021-08-08 01:14:21.287 Main file path: /opt/idea-IU-211.7628.21/lib/platform-impl.jar
+[DEBUG] 2021-08-08 01:14:21.287 Main file abs path: /opt/idea-IU-211.7628.21/lib/platform-impl.jar
+[DEBUG] 2021-08-08 01:14:21.287 Main file can path: /opt/idea-IU-211.7628.21/lib/platform-impl.jar
+[DEBUG] 2021-08-08 01:14:21.287 Main file name: jsonpath.jar
+[DEBUG] 2021-08-08 01:14:21.287 Main file path: /opt/idea-IU-211.7628.21/lib/jsonpath.jar
+[DEBUG] 2021-08-08 01:14:21.288 Main file abs path: /opt/idea-IU-211.7628.21/lib/jsonpath.jar
+[DEBUG] 2021-08-08 01:14:21.288 Main file can path: /opt/idea-IU-211.7628.21/lib/jsonpath.jar
+[DEBUG] 2021-08-08 01:14:21.288 Main file name: asm-all-9.1.jar
+[DEBUG] 2021-08-08 01:14:21.288 Main file path: /opt/idea-IU-211.7628.21/lib/asm-all-9.1.jar
+[DEBUG] 2021-08-08 01:14:21.288 Main file abs path: /opt/idea-IU-211.7628.21/lib/asm-all-9.1.jar
+[DEBUG] 2021-08-08 01:14:21.289 Main file can path: /opt/idea-IU-211.7628.21/lib/asm-all-9.1.jar
+[DEBUG] 2021-08-08 01:14:21.289 Main file name: asm-util-7.1.jar
+[DEBUG] 2021-08-08 01:14:21.289 Main file path: /opt/idea-IU-211.7628.21/lib/asm-util-7.1.jar
+[DEBUG] 2021-08-08 01:14:21.289 Main file abs path: /opt/idea-IU-211.7628.21/lib/asm-util-7.1.jar
+[DEBUG] 2021-08-08 01:14:21.289 Main file can path: /opt/idea-IU-211.7628.21/lib/asm-util-7.1.jar
+[DEBUG] 2021-08-08 01:14:21.289 Main file name: cloud-config-client.jar
+[DEBUG] 2021-08-08 01:14:21.290 Main file path: /opt/idea-IU-211.7628.21/lib/cloud-config-client.jar
+[DEBUG] 2021-08-08 01:14:21.290 Main file abs path: /opt/idea-IU-211.7628.21/lib/cloud-config-client.jar
+[DEBUG] 2021-08-08 01:14:21.290 Main file can path: /opt/idea-IU-211.7628.21/lib/cloud-config-client.jar
+[DEBUG] 2021-08-08 01:14:21.290 Main file name: jffi-1.2.19.jar
+[DEBUG] 2021-08-08 01:14:21.291 Main file path: /opt/idea-IU-211.7628.21/lib/jffi-1.2.19.jar
+[DEBUG] 2021-08-08 01:14:21.291 Main file abs path: /opt/idea-IU-211.7628.21/lib/jffi-1.2.19.jar
+[DEBUG] 2021-08-08 01:14:21.291 Main file can path: /opt/idea-IU-211.7628.21/lib/jffi-1.2.19.jar
+[DEBUG] 2021-08-08 01:14:21.292 Main file name: javax.inject-1.jar
+[DEBUG] 2021-08-08 01:14:21.292 Main file path: /opt/idea-IU-211.7628.21/lib/javax.inject-1.jar
+[DEBUG] 2021-08-08 01:14:21.292 Main file abs path: /opt/idea-IU-211.7628.21/lib/javax.inject-1.jar
+[DEBUG] 2021-08-08 01:14:21.292 Main file can path: /opt/idea-IU-211.7628.21/lib/javax.inject-1.jar
+[DEBUG] 2021-08-08 01:14:21.292 Main file name: xmlrpc-2.0.1.jar
+[DEBUG] 2021-08-08 01:14:21.293 Main file path: /opt/idea-IU-211.7628.21/lib/xmlrpc-2.0.1.jar
+[DEBUG] 2021-08-08 01:14:21.293 Main file abs path: /opt/idea-IU-211.7628.21/lib/xmlrpc-2.0.1.jar
+[DEBUG] 2021-08-08 01:14:21.293 Main file can path: /opt/idea-IU-211.7628.21/lib/xmlrpc-2.0.1.jar
+[DEBUG] 2021-08-08 01:14:21.293 Main file name: dom-openapi.jar
+[DEBUG] 2021-08-08 01:14:21.293 Main file path: /opt/idea-IU-211.7628.21/lib/dom-openapi.jar
+[DEBUG] 2021-08-08 01:14:21.294 Main file abs path: /opt/idea-IU-211.7628.21/lib/dom-openapi.jar
+[DEBUG] 2021-08-08 01:14:21.294 Main file can path: /opt/idea-IU-211.7628.21/lib/dom-openapi.jar
+[DEBUG] 2021-08-08 01:14:21.294 Main file name: junit4.jar
+[DEBUG] 2021-08-08 01:14:21.294 Main file path: /opt/idea-IU-211.7628.21/lib/junit4.jar
+[DEBUG] 2021-08-08 01:14:21.294 Main file abs path: /opt/idea-IU-211.7628.21/lib/junit4.jar
+[DEBUG] 2021-08-08 01:14:21.295 Main file can path: /opt/idea-IU-211.7628.21/lib/junit4.jar
+[DEBUG] 2021-08-08 01:14:21.295 Main file name: junixsocket-core.jar
+[DEBUG] 2021-08-08 01:14:21.295 Main file path: /opt/idea-IU-211.7628.21/lib/junixsocket-core.jar
+[DEBUG] 2021-08-08 01:14:21.295 Main file abs path: /opt/idea-IU-211.7628.21/lib/junixsocket-core.jar
+[DEBUG] 2021-08-08 01:14:21.295 Main file can path: /opt/idea-IU-211.7628.21/lib/junixsocket-core.jar
+[DEBUG] 2021-08-08 01:14:21.295 Main file name: idea.jar
+[DEBUG] 2021-08-08 01:14:21.296 Main file path: /opt/idea-IU-211.7628.21/lib/idea.jar
+[DEBUG] 2021-08-08 01:14:21.296 Main file abs path: /opt/idea-IU-211.7628.21/lib/idea.jar
+[DEBUG] 2021-08-08 01:14:21.296 Main file can path: /opt/idea-IU-211.7628.21/lib/idea.jar
+[DEBUG] 2021-08-08 01:14:21.296 Main file name: stax-api-1.0.1.jar
+[DEBUG] 2021-08-08 01:14:21.296 Main file path: /opt/idea-IU-211.7628.21/lib/stax-api-1.0.1.jar
+[DEBUG] 2021-08-08 01:14:21.296 Main file abs path: /opt/idea-IU-211.7628.21/lib/stax-api-1.0.1.jar
+[DEBUG] 2021-08-08 01:14:21.297 Main file can path: /opt/idea-IU-211.7628.21/lib/stax-api-1.0.1.jar
+[DEBUG] 2021-08-08 01:14:21.297 Main file name: winp-1.28.jar
+[DEBUG] 2021-08-08 01:14:21.297 Main file path: /opt/idea-IU-211.7628.21/lib/winp-1.28.jar
+[DEBUG] 2021-08-08 01:14:21.297 Main file abs path: /opt/idea-IU-211.7628.21/lib/winp-1.28.jar
+[DEBUG] 2021-08-08 01:14:21.297 Main file can path: /opt/idea-IU-211.7628.21/lib/winp-1.28.jar
+[DEBUG] 2021-08-08 01:14:21.298 Main file name: util.jar
+[DEBUG] 2021-08-08 01:14:21.298 Main file path: /opt/idea-IU-211.7628.21/lib/util.jar
+[DEBUG] 2021-08-08 01:14:21.298 Main file abs path: /opt/idea-IU-211.7628.21/lib/util.jar
+[DEBUG] 2021-08-08 01:14:21.298 Main file can path: /opt/idea-IU-211.7628.21/lib/util.jar
+[DEBUG] 2021-08-08 01:14:21.298 Main file name: javax.annotation-api-1.3.2.jar
+[DEBUG] 2021-08-08 01:14:21.298 Main file path: /opt/idea-IU-211.7628.21/lib/javax.annotation-api-1.3.2.jar
+[DEBUG] 2021-08-08 01:14:21.299 Main file abs path: /opt/idea-IU-211.7628.21/lib/javax.annotation-api-1.3.2.jar
+[DEBUG] 2021-08-08 01:14:21.299 Main file can path: /opt/idea-IU-211.7628.21/lib/javax.annotation-api-1.3.2.jar
+[DEBUG] 2021-08-08 01:14:21.299 Main file name: libam-instrumentation-data-proto-27.1.1.0.jar
+[DEBUG] 2021-08-08 01:14:21.299 Main file path: /opt/idea-IU-211.7628.21/lib/libam-instrumentation-data-proto-27.1.1.0.jar
+[DEBUG] 2021-08-08 01:14:21.299 Main file abs path: /opt/idea-IU-211.7628.21/lib/libam-instrumentation-data-proto-27.1.1.0.jar
+[DEBUG] 2021-08-08 01:14:21.299 Main file can path: /opt/idea-IU-211.7628.21/lib/libam-instrumentation-data-proto-27.1.1.0.jar
+[DEBUG] 2021-08-08 01:14:21.300 Main file name: grpc-kotlin-stub-1.0.0.jar
+[DEBUG] 2021-08-08 01:14:21.300 Main file path: /opt/idea-IU-211.7628.21/lib/grpc-kotlin-stub-1.0.0.jar
+[DEBUG] 2021-08-08 01:14:21.300 Main file abs path: /opt/idea-IU-211.7628.21/lib/grpc-kotlin-stub-1.0.0.jar
+[DEBUG] 2021-08-08 01:14:21.300 Main file can path: /opt/idea-IU-211.7628.21/lib/grpc-kotlin-stub-1.0.0.jar
+[DEBUG] 2021-08-08 01:14:21.300 Main file name: commons-logging-1.2.jar
+[DEBUG] 2021-08-08 01:14:21.300 Main file path: /opt/idea-IU-211.7628.21/lib/commons-logging-1.2.jar
+[DEBUG] 2021-08-08 01:14:21.301 Main file abs path: /opt/idea-IU-211.7628.21/lib/commons-logging-1.2.jar
+[DEBUG] 2021-08-08 01:14:21.301 Main file can path: /opt/idea-IU-211.7628.21/lib/commons-logging-1.2.jar
+[DEBUG] 2021-08-08 01:14:21.301 Main file name: ngram-slp-0.0.3.jar
+[DEBUG] 2021-08-08 01:14:21.301 Main file path: /opt/idea-IU-211.7628.21/lib/ngram-slp-0.0.3.jar
+[DEBUG] 2021-08-08 01:14:21.301 Main file abs path: /opt/idea-IU-211.7628.21/lib/ngram-slp-0.0.3.jar
+[DEBUG] 2021-08-08 01:14:21.301 Main file can path: /opt/idea-IU-211.7628.21/lib/ngram-slp-0.0.3.jar
+[DEBUG] 2021-08-08 01:14:21.302 Main file name: maven-resolver-provider.jar
+[DEBUG] 2021-08-08 01:14:21.302 Main file path: /opt/idea-IU-211.7628.21/lib/maven-resolver-provider.jar
+[DEBUG] 2021-08-08 01:14:21.302 Main file abs path: /opt/idea-IU-211.7628.21/lib/maven-resolver-provider.jar
+[DEBUG] 2021-08-08 01:14:21.302 Main file can path: /opt/idea-IU-211.7628.21/lib/maven-resolver-provider.jar
+[DEBUG] 2021-08-08 01:14:21.302 Main file name: commons-net-3.6.jar
+[DEBUG] 2021-08-08 01:14:21.302 Main file path: /opt/idea-IU-211.7628.21/lib/commons-net-3.6.jar
+[DEBUG] 2021-08-08 01:14:21.303 Main file abs path: /opt/idea-IU-211.7628.21/lib/commons-net-3.6.jar
+[DEBUG] 2021-08-08 01:14:21.303 Main file can path: /opt/idea-IU-211.7628.21/lib/commons-net-3.6.jar
+[DEBUG] 2021-08-08 01:14:21.303 Main file name: asm-commons-7.1.jar
+[DEBUG] 2021-08-08 01:14:21.303 Main file path: /opt/idea-IU-211.7628.21/lib/asm-commons-7.1.jar
+[DEBUG] 2021-08-08 01:14:21.303 Main file abs path: /opt/idea-IU-211.7628.21/lib/asm-commons-7.1.jar
+[DEBUG] 2021-08-08 01:14:21.303 Main file can path: /opt/idea-IU-211.7628.21/lib/asm-commons-7.1.jar
+[DEBUG] 2021-08-08 01:14:21.304 Main file name: javax.activation-1.2.0.jar
+[DEBUG] 2021-08-08 01:14:21.304 Main file path: /opt/idea-IU-211.7628.21/lib/javax.activation-1.2.0.jar
+[DEBUG] 2021-08-08 01:14:21.304 Main file abs path: /opt/idea-IU-211.7628.21/lib/javax.activation-1.2.0.jar
+[DEBUG] 2021-08-08 01:14:21.304 Main file can path: /opt/idea-IU-211.7628.21/lib/javax.activation-1.2.0.jar
+[DEBUG] 2021-08-08 01:14:21.304 Main file name: kotlin-gradle-plugin-model-1.4.32.jar
+[DEBUG] 2021-08-08 01:14:21.305 Main file path: /opt/idea-IU-211.7628.21/lib/kotlin-gradle-plugin-model-1.4.32.jar
+[DEBUG] 2021-08-08 01:14:21.305 Main file abs path: /opt/idea-IU-211.7628.21/lib/kotlin-gradle-plugin-model-1.4.32.jar
+[DEBUG] 2021-08-08 01:14:21.305 Main file can path: /opt/idea-IU-211.7628.21/lib/kotlin-gradle-plugin-model-1.4.32.jar
+[DEBUG] 2021-08-08 01:14:21.305 Main file name: cli-parser-1.1.5.jar
+[DEBUG] 2021-08-08 01:14:21.305 Main file path: /opt/idea-IU-211.7628.21/lib/cli-parser-1.1.5.jar
+[DEBUG] 2021-08-08 01:14:21.305 Main file abs path: /opt/idea-IU-211.7628.21/lib/cli-parser-1.1.5.jar
+[DEBUG] 2021-08-08 01:14:21.306 Main file can path: /opt/idea-IU-211.7628.21/lib/cli-parser-1.1.5.jar
+[DEBUG] 2021-08-08 01:14:21.306 Main file name: slf4j.jar
+[DEBUG] 2021-08-08 01:14:21.318 Main file path: /opt/idea-IU-211.7628.21/lib/slf4j.jar
+[DEBUG] 2021-08-08 01:14:21.318 Main file abs path: /opt/idea-IU-211.7628.21/lib/slf4j.jar
+[DEBUG] 2021-08-08 01:14:21.318 Main file can path: /opt/idea-IU-211.7628.21/lib/slf4j.jar
+[DEBUG] 2021-08-08 01:14:21.318 Main file name: isorelax-20030108.jar
+[DEBUG] 2021-08-08 01:14:21.319 Main file path: /opt/idea-IU-211.7628.21/lib/isorelax-20030108.jar
+[DEBUG] 2021-08-08 01:14:21.319 Main file abs path: /opt/idea-IU-211.7628.21/lib/isorelax-20030108.jar
+[DEBUG] 2021-08-08 01:14:21.319 Main file can path: /opt/idea-IU-211.7628.21/lib/isorelax-20030108.jar
+[DEBUG] 2021-08-08 01:14:21.319 Main file name: jsch-agent-proxy.jar
+[DEBUG] 2021-08-08 01:14:21.319 Main file path: /opt/idea-IU-211.7628.21/lib/jsch-agent-proxy.jar
+[DEBUG] 2021-08-08 01:14:21.321 Main file abs path: /opt/idea-IU-211.7628.21/lib/jsch-agent-proxy.jar
+[DEBUG] 2021-08-08 01:14:21.332 Main file can path: /opt/idea-IU-211.7628.21/lib/jsch-agent-proxy.jar
+[DEBUG] 2021-08-08 01:14:21.332 Main file name: jsch.agentproxy.sshj-0.0.9.jar
+[DEBUG] 2021-08-08 01:14:21.333 Main file path: /opt/idea-IU-211.7628.21/lib/jsch.agentproxy.sshj-0.0.9.jar
+[DEBUG] 2021-08-08 01:14:21.333 Main file abs path: /opt/idea-IU-211.7628.21/lib/jsch.agentproxy.sshj-0.0.9.jar
+[DEBUG] 2021-08-08 01:14:21.333 Main file can path: /opt/idea-IU-211.7628.21/lib/jsch.agentproxy.sshj-0.0.9.jar
+[DEBUG] 2021-08-08 01:14:21.333 Main file name: intellij-dvcs.jar
+[DEBUG] 2021-08-08 01:14:21.333 Main file path: /opt/idea-IU-211.7628.21/lib/intellij-dvcs.jar
+[DEBUG] 2021-08-08 01:14:21.333 Main file abs path: /opt/idea-IU-211.7628.21/lib/intellij-dvcs.jar
+[DEBUG] 2021-08-08 01:14:21.334 Main file can path: /opt/idea-IU-211.7628.21/lib/intellij-dvcs.jar
+[DEBUG] 2021-08-08 01:14:21.334 Main file name: guava.jar
+[DEBUG] 2021-08-08 01:14:21.334 Main file path: /opt/idea-IU-211.7628.21/lib/guava.jar
+[DEBUG] 2021-08-08 01:14:21.334 Main file abs path: /opt/idea-IU-211.7628.21/lib/guava.jar
+[DEBUG] 2021-08-08 01:14:21.334 Main file can path: /opt/idea-IU-211.7628.21/lib/guava.jar
+[DEBUG] 2021-08-08 01:14:21.334 Main file name: ap-validation-0.0.5.jar
+[DEBUG] 2021-08-08 01:14:21.335 Main file path: /opt/idea-IU-211.7628.21/lib/ap-validation-0.0.5.jar
+[DEBUG] 2021-08-08 01:14:21.335 Main file abs path: /opt/idea-IU-211.7628.21/lib/ap-validation-0.0.5.jar
+[DEBUG] 2021-08-08 01:14:21.335 Main file can path: /opt/idea-IU-211.7628.21/lib/ap-validation-0.0.5.jar
+[DEBUG] 2021-08-08 01:14:21.335 Main file name: owasp-java-html-sanitizer-20191001.1.jar
+[DEBUG] 2021-08-08 01:14:21.335 Main file path: /opt/idea-IU-211.7628.21/lib/owasp-java-html-sanitizer-20191001.1.jar
+[DEBUG] 2021-08-08 01:14:21.335 Main file abs path: /opt/idea-IU-211.7628.21/lib/owasp-java-html-sanitizer-20191001.1.jar
+[DEBUG] 2021-08-08 01:14:21.336 Main file can path: /opt/idea-IU-211.7628.21/lib/owasp-java-html-sanitizer-20191001.1.jar
+[DEBUG] 2021-08-08 01:14:21.336 Main file name: asm-tree-7.1.jar
+[DEBUG] 2021-08-08 01:14:21.336 Main file path: /opt/idea-IU-211.7628.21/lib/asm-tree-7.1.jar
+[DEBUG] 2021-08-08 01:14:21.336 Main file abs path: /opt/idea-IU-211.7628.21/lib/asm-tree-7.1.jar
+[DEBUG] 2021-08-08 01:14:21.336 Main file can path: /opt/idea-IU-211.7628.21/lib/asm-tree-7.1.jar
+[DEBUG] 2021-08-08 01:14:21.336 Main file name: batik-transcoder.jar
+[DEBUG] 2021-08-08 01:14:21.337 Main file path: /opt/idea-IU-211.7628.21/lib/batik-transcoder.jar
+[DEBUG] 2021-08-08 01:14:21.337 Main file abs path: /opt/idea-IU-211.7628.21/lib/batik-transcoder.jar
+[DEBUG] 2021-08-08 01:14:21.337 Main file can path: /opt/idea-IU-211.7628.21/lib/batik-transcoder.jar
+[DEBUG] 2021-08-08 01:14:21.337 Main file name: jdkAnnotations.jar
+[DEBUG] 2021-08-08 01:14:21.337 Main file path: /opt/idea-IU-211.7628.21/lib/jdkAnnotations.jar
+[DEBUG] 2021-08-08 01:14:21.338 Main file abs path: /opt/idea-IU-211.7628.21/lib/jdkAnnotations.jar
+[DEBUG] 2021-08-08 01:14:21.338 Main file can path: /opt/idea-IU-211.7628.21/lib/jdkAnnotations.jar
+[DEBUG] 2021-08-08 01:14:21.338 Main file name: testFramework-java.jar
+[DEBUG] 2021-08-08 01:14:21.338 Main file path: /opt/idea-IU-211.7628.21/lib/testFramework-java.jar
+[DEBUG] 2021-08-08 01:14:21.338 Main file abs path: /opt/idea-IU-211.7628.21/lib/testFramework-java.jar
+[DEBUG] 2021-08-08 01:14:21.338 Main file can path: /opt/idea-IU-211.7628.21/lib/testFramework-java.jar
+[DEBUG] 2021-08-08 01:14:21.338 Main file name: intellij-test-discovery-agent-1.0.579.jar
+[DEBUG] 2021-08-08 01:14:21.341 Main file path: /opt/idea-IU-211.7628.21/lib/intellij-test-discovery-agent-1.0.579.jar
+[DEBUG] 2021-08-08 01:14:21.342 Main file abs path: /opt/idea-IU-211.7628.21/lib/intellij-test-discovery-agent-1.0.579.jar
+[DEBUG] 2021-08-08 01:14:21.342 Main file can path: /opt/idea-IU-211.7628.21/lib/intellij-test-discovery-agent-1.0.579.jar
+[DEBUG] 2021-08-08 01:14:21.342 Main file name: groovy-templates-2.5.11.jar
+[DEBUG] 2021-08-08 01:14:21.343 Main file path: /opt/idea-IU-211.7628.21/lib/groovy-templates-2.5.11.jar
+[DEBUG] 2021-08-08 01:14:21.343 Main file abs path: /opt/idea-IU-211.7628.21/lib/groovy-templates-2.5.11.jar
+[DEBUG] 2021-08-08 01:14:21.343 Main file can path: /opt/idea-IU-211.7628.21/lib/groovy-templates-2.5.11.jar
+[DEBUG] 2021-08-08 01:14:21.343 Main file name: async-profiler-1.8.3.jar
+[DEBUG] 2021-08-08 01:14:21.345 Main file path: /opt/idea-IU-211.7628.21/lib/async-profiler-1.8.3.jar
+[DEBUG] 2021-08-08 01:14:21.346 Main file abs path: /opt/idea-IU-211.7628.21/lib/async-profiler-1.8.3.jar
+[DEBUG] 2021-08-08 01:14:21.346 Main file can path: /opt/idea-IU-211.7628.21/lib/async-profiler-1.8.3.jar
+[DEBUG] 2021-08-08 01:14:21.346 Main file name: jnr-constants-0.9.12.jar
+[DEBUG] 2021-08-08 01:14:21.346 Main file path: /opt/idea-IU-211.7628.21/lib/jnr-constants-0.9.12.jar
+[DEBUG] 2021-08-08 01:14:21.346 Main file abs path: /opt/idea-IU-211.7628.21/lib/jnr-constants-0.9.12.jar
+[DEBUG] 2021-08-08 01:14:21.346 Main file can path: /opt/idea-IU-211.7628.21/lib/jnr-constants-0.9.12.jar
+[DEBUG] 2021-08-08 01:14:21.346 Main file name: commons-io-2.8.0.jar
+[DEBUG] 2021-08-08 01:14:21.346 Main file path: /opt/idea-IU-211.7628.21/lib/commons-io-2.8.0.jar
+[DEBUG] 2021-08-08 01:14:21.346 Main file abs path: /opt/idea-IU-211.7628.21/lib/commons-io-2.8.0.jar
+[DEBUG] 2021-08-08 01:14:21.347 Main file can path: /opt/idea-IU-211.7628.21/lib/commons-io-2.8.0.jar
+[DEBUG] 2021-08-08 01:14:21.347 Main file name: icons.jar
+[DEBUG] 2021-08-08 01:14:21.347 Main file path: /opt/idea-IU-211.7628.21/lib/icons.jar
+[DEBUG] 2021-08-08 01:14:21.347 Main file abs path: /opt/idea-IU-211.7628.21/lib/icons.jar
+[DEBUG] 2021-08-08 01:14:21.347 Main file can path: /opt/idea-IU-211.7628.21/lib/icons.jar
+[DEBUG] 2021-08-08 01:14:21.347 Main file name: jackson-core-2.12.0.jar
+[DEBUG] 2021-08-08 01:14:21.347 Main file path: /opt/idea-IU-211.7628.21/lib/jackson-core-2.12.0.jar
+[DEBUG] 2021-08-08 01:14:21.347 Main file abs path: /opt/idea-IU-211.7628.21/lib/jackson-core-2.12.0.jar
+[DEBUG] 2021-08-08 01:14:21.347 Main file can path: /opt/idea-IU-211.7628.21/lib/jackson-core-2.12.0.jar
+[DEBUG] 2021-08-08 01:14:21.347 Main file name: snakeyaml-engine-2.2.1.jar
+[DEBUG] 2021-08-08 01:14:21.348 Main file path: /opt/idea-IU-211.7628.21/lib/snakeyaml-engine-2.2.1.jar
+[DEBUG] 2021-08-08 01:14:21.348 Main file abs path: /opt/idea-IU-211.7628.21/lib/snakeyaml-engine-2.2.1.jar
+[DEBUG] 2021-08-08 01:14:21.348 Main file can path: /opt/idea-IU-211.7628.21/lib/snakeyaml-engine-2.2.1.jar
+[DEBUG] 2021-08-08 01:14:21.348 Main file name: cglib-nodep-3.2.4.jar
+[DEBUG] 2021-08-08 01:14:21.348 Main file path: /opt/idea-IU-211.7628.21/lib/cglib-nodep-3.2.4.jar
+[DEBUG] 2021-08-08 01:14:21.348 Main file abs path: /opt/idea-IU-211.7628.21/lib/cglib-nodep-3.2.4.jar
+[DEBUG] 2021-08-08 01:14:21.348 Main file can path: /opt/idea-IU-211.7628.21/lib/cglib-nodep-3.2.4.jar
+[DEBUG] 2021-08-08 01:14:21.348 Main file name: markdownj-core-0.4.2-SNAPSHOT.jar
+[DEBUG] 2021-08-08 01:14:21.348 Main file path: /opt/idea-IU-211.7628.21/lib/markdownj-core-0.4.2-SNAPSHOT.jar
+[DEBUG] 2021-08-08 01:14:21.348 Main file abs path: /opt/idea-IU-211.7628.21/lib/markdownj-core-0.4.2-SNAPSHOT.jar
+[DEBUG] 2021-08-08 01:14:21.349 Main file can path: /opt/idea-IU-211.7628.21/lib/markdownj-core-0.4.2-SNAPSHOT.jar
+[DEBUG] 2021-08-08 01:14:21.349 Main file name: asm-analysis-7.1.jar
+[DEBUG] 2021-08-08 01:14:21.349 Main file path: /opt/idea-IU-211.7628.21/lib/asm-analysis-7.1.jar
+[DEBUG] 2021-08-08 01:14:21.349 Main file abs path: /opt/idea-IU-211.7628.21/lib/asm-analysis-7.1.jar
+[DEBUG] 2021-08-08 01:14:21.349 Main file can path: /opt/idea-IU-211.7628.21/lib/asm-analysis-7.1.jar
+[DEBUG] 2021-08-08 01:14:21.349 Main file name: jsch.agentproxy.jsch-0.0.9.jar
+[DEBUG] 2021-08-08 01:14:21.349 Main file path: /opt/idea-IU-211.7628.21/lib/jsch.agentproxy.jsch-0.0.9.jar
+[DEBUG] 2021-08-08 01:14:21.349 Main file abs path: /opt/idea-IU-211.7628.21/lib/jsch.agentproxy.jsch-0.0.9.jar
+[DEBUG] 2021-08-08 01:14:21.349 Main file can path: /opt/idea-IU-211.7628.21/lib/jsch.agentproxy.jsch-0.0.9.jar
+[DEBUG] 2021-08-08 01:14:21.350 Main file name: testFramework.core.jar
+[DEBUG] 2021-08-08 01:14:21.350 Main file path: /opt/idea-IU-211.7628.21/lib/testFramework.core.jar
+[DEBUG] 2021-08-08 01:14:21.351 Main file abs path: /opt/idea-IU-211.7628.21/lib/testFramework.core.jar
+[DEBUG] 2021-08-08 01:14:21.351 Main file can path: /opt/idea-IU-211.7628.21/lib/testFramework.core.jar
+[DEBUG] 2021-08-08 01:14:21.352 Main file name: spellchecker.jar
+[DEBUG] 2021-08-08 01:14:21.352 Main file path: /opt/idea-IU-211.7628.21/lib/spellchecker.jar
+[DEBUG] 2021-08-08 01:14:21.352 Main file abs path: /opt/idea-IU-211.7628.21/lib/spellchecker.jar
+[DEBUG] 2021-08-08 01:14:21.352 Main file can path: /opt/idea-IU-211.7628.21/lib/spellchecker.jar
+[DEBUG] 2021-08-08 01:14:21.352 Main file name: pty4j.jar
+[DEBUG] 2021-08-08 01:14:21.352 Main file path: /opt/idea-IU-211.7628.21/lib/pty4j.jar
+[DEBUG] 2021-08-08 01:14:21.352 Main file abs path: /opt/idea-IU-211.7628.21/lib/pty4j.jar
+[DEBUG] 2021-08-08 01:14:21.353 Main file can path: /opt/idea-IU-211.7628.21/lib/pty4j.jar
+[DEBUG] 2021-08-08 01:14:21.353 Main file name: forms-1.1-preview.jar
+[DEBUG] 2021-08-08 01:14:21.353 Main file path: /opt/idea-IU-211.7628.21/lib/forms-1.1-preview.jar
+[DEBUG] 2021-08-08 01:14:21.353 Main file abs path: /opt/idea-IU-211.7628.21/lib/forms-1.1-preview.jar
+[DEBUG] 2021-08-08 01:14:21.353 Main file can path: /opt/idea-IU-211.7628.21/lib/forms-1.1-preview.jar
+[DEBUG] 2021-08-08 01:14:21.353 Main file name: coverage-common.jar
+[DEBUG] 2021-08-08 01:14:21.354 Main file path: /opt/idea-IU-211.7628.21/lib/coverage-common.jar
+[DEBUG] 2021-08-08 01:14:21.354 Main file abs path: /opt/idea-IU-211.7628.21/lib/coverage-common.jar
+[DEBUG] 2021-08-08 01:14:21.354 Main file can path: /opt/idea-IU-211.7628.21/lib/coverage-common.jar
+[DEBUG] 2021-08-08 01:14:21.354 Main file name: jnr-unixsocket-0.23.jar
+[DEBUG] 2021-08-08 01:14:21.354 Main file path: /opt/idea-IU-211.7628.21/lib/jnr-unixsocket-0.23.jar
+[DEBUG] 2021-08-08 01:14:21.355 Main file abs path: /opt/idea-IU-211.7628.21/lib/jnr-unixsocket-0.23.jar
+[DEBUG] 2021-08-08 01:14:21.355 Main file can path: /opt/idea-IU-211.7628.21/lib/jnr-unixsocket-0.23.jar
+[DEBUG] 2021-08-08 01:14:21.355 Main file name: jcip-annotations-1.0.jar
+[DEBUG] 2021-08-08 01:14:21.355 Main file path: /opt/idea-IU-211.7628.21/lib/jcip-annotations-1.0.jar
+[DEBUG] 2021-08-08 01:14:21.355 Main file abs path: /opt/idea-IU-211.7628.21/lib/jcip-annotations-1.0.jar
+[DEBUG] 2021-08-08 01:14:21.356 Main file can path: /opt/idea-IU-211.7628.21/lib/jcip-annotations-1.0.jar
+[DEBUG] 2021-08-08 01:14:21.356 Main file name: jcef-87.1.13-g481a82a-chromium-87.0.4280.141-api-1.2.jar
+[DEBUG] 2021-08-08 01:14:21.356 Main file path: /opt/idea-IU-211.7628.21/lib/jcef-87.1.13-g481a82a-chromium-87.0.4280.141-api-1.2.jar
+[DEBUG] 2021-08-08 01:14:21.357 Main file abs path: /opt/idea-IU-211.7628.21/lib/jcef-87.1.13-g481a82a-chromium-87.0.4280.141-api-1.2.jar
+[DEBUG] 2021-08-08 01:14:21.357 Main file can path: /opt/idea-IU-211.7628.21/lib/jcef-87.1.13-g481a82a-chromium-87.0.4280.141-api-1.2.jar
+[DEBUG] 2021-08-08 01:14:21.357 Main file name: velocity.jar
+[DEBUG] 2021-08-08 01:14:21.357 Main file path: /opt/idea-IU-211.7628.21/lib/velocity.jar
+[DEBUG] 2021-08-08 01:14:21.357 Main file abs path: /opt/idea-IU-211.7628.21/lib/velocity.jar
+[DEBUG] 2021-08-08 01:14:21.357 Main file can path: /opt/idea-IU-211.7628.21/lib/velocity.jar
+[DEBUG] 2021-08-08 01:14:21.358 Main file name: java-compatibility-1.0.1.jar
+[DEBUG] 2021-08-08 01:14:21.358 Main file path: /opt/idea-IU-211.7628.21/lib/java-compatibility-1.0.1.jar
+[DEBUG] 2021-08-08 01:14:21.358 Main file abs path: /opt/idea-IU-211.7628.21/lib/java-compatibility-1.0.1.jar
+[DEBUG] 2021-08-08 01:14:21.358 Main file can path: /opt/idea-IU-211.7628.21/lib/java-compatibility-1.0.1.jar
+[DEBUG] 2021-08-08 01:14:21.358 Main file name: groovy-json-2.5.11.jar
+[DEBUG] 2021-08-08 01:14:21.358 Main file path: /opt/idea-IU-211.7628.21/lib/groovy-json-2.5.11.jar
+[DEBUG] 2021-08-08 01:14:21.359 Main file abs path: /opt/idea-IU-211.7628.21/lib/groovy-json-2.5.11.jar
+[DEBUG] 2021-08-08 01:14:21.359 Main file can path: /opt/idea-IU-211.7628.21/lib/groovy-json-2.5.11.jar
+[DEBUG] 2021-08-08 01:14:21.359 Main file name: xz-1.8.jar
+[DEBUG] 2021-08-08 01:14:21.359 Main file path: /opt/idea-IU-211.7628.21/lib/xz-1.8.jar
+[DEBUG] 2021-08-08 01:14:21.359 Main file abs path: /opt/idea-IU-211.7628.21/lib/xz-1.8.jar
+[DEBUG] 2021-08-08 01:14:21.359 Main file can path: /opt/idea-IU-211.7628.21/lib/xz-1.8.jar
+[DEBUG] 2021-08-08 01:14:21.359 Main file name: rngom-20051226-patched.jar
+[DEBUG] 2021-08-08 01:14:21.360 Main file path: /opt/idea-IU-211.7628.21/lib/rngom-20051226-patched.jar
+[DEBUG] 2021-08-08 01:14:21.360 Main file abs path: /opt/idea-IU-211.7628.21/lib/rngom-20051226-patched.jar
+[DEBUG] 2021-08-08 01:14:21.360 Main file can path: /opt/idea-IU-211.7628.21/lib/rngom-20051226-patched.jar
+[DEBUG] 2021-08-08 01:14:21.360 Main file name: tests_bootstrap.jar
+[DEBUG] 2021-08-08 01:14:21.360 Main file path: /opt/idea-IU-211.7628.21/lib/tests_bootstrap.jar
+[DEBUG] 2021-08-08 01:14:21.360 Main file abs path: /opt/idea-IU-211.7628.21/lib/tests_bootstrap.jar
+[DEBUG] 2021-08-08 01:14:21.361 Main file can path: /opt/idea-IU-211.7628.21/lib/tests_bootstrap.jar
+[DEBUG] 2021-08-08 01:14:21.361 Main file name: stats.jar
+[DEBUG] 2021-08-08 01:14:21.361 Main file path: /opt/idea-IU-211.7628.21/lib/stats.jar
+[DEBUG] 2021-08-08 01:14:21.361 Main file abs path: /opt/idea-IU-211.7628.21/lib/stats.jar
+[DEBUG] 2021-08-08 01:14:21.361 Main file can path: /opt/idea-IU-211.7628.21/lib/stats.jar
+[DEBUG] 2021-08-08 01:14:21.361 Main file name: jps-model.jar
+[DEBUG] 2021-08-08 01:14:21.362 Main file path: /opt/idea-IU-211.7628.21/lib/jps-model.jar
+[DEBUG] 2021-08-08 01:14:21.362 Main file abs path: /opt/idea-IU-211.7628.21/lib/jps-model.jar
+[DEBUG] 2021-08-08 01:14:21.362 Main file can path: /opt/idea-IU-211.7628.21/lib/jps-model.jar
+[DEBUG] 2021-08-08 01:14:21.362 Main file name: kotlinx-coroutines-jdk8.jar
+[DEBUG] 2021-08-08 01:14:21.362 Main file path: /opt/idea-IU-211.7628.21/lib/kotlinx-coroutines-jdk8.jar
+[DEBUG] 2021-08-08 01:14:21.362 Main file abs path: /opt/idea-IU-211.7628.21/lib/kotlinx-coroutines-jdk8.jar
+[DEBUG] 2021-08-08 01:14:21.363 Main file can path: /opt/idea-IU-211.7628.21/lib/kotlinx-coroutines-jdk8.jar
+[DEBUG] 2021-08-08 01:14:21.363 Main file name: HdrHistogram-2.1.4.jar
+[DEBUG] 2021-08-08 01:14:21.363 Main file path: /opt/idea-IU-211.7628.21/lib/HdrHistogram-2.1.4.jar
+[DEBUG] 2021-08-08 01:14:21.363 Main file abs path: /opt/idea-IU-211.7628.21/lib/HdrHistogram-2.1.4.jar
+[DEBUG] 2021-08-08 01:14:21.363 Main file can path: /opt/idea-IU-211.7628.21/lib/HdrHistogram-2.1.4.jar
+[DEBUG] 2021-08-08 01:14:21.363 Main file name: trang-core.jar
+[DEBUG] 2021-08-08 01:14:21.363 Main file path: /opt/idea-IU-211.7628.21/lib/trang-core.jar
+[DEBUG] 2021-08-08 01:14:21.364 Main file abs path: /opt/idea-IU-211.7628.21/lib/trang-core.jar
+[DEBUG] 2021-08-08 01:14:21.364 Main file can path: /opt/idea-IU-211.7628.21/lib/trang-core.jar
+[DEBUG] 2021-08-08 01:14:21.364 Main file name: jts-io-common.jar
+[DEBUG] 2021-08-08 01:14:21.364 Main file path: /opt/idea-IU-211.7628.21/lib/jts-io-common.jar
+[DEBUG] 2021-08-08 01:14:21.364 Main file abs path: /opt/idea-IU-211.7628.21/lib/jts-io-common.jar
+[DEBUG] 2021-08-08 01:14:21.364 Main file can path: /opt/idea-IU-211.7628.21/lib/jts-io-common.jar
+[DEBUG] 2021-08-08 01:14:21.365 Main file name: netty-handler-proxy.jar
+[DEBUG] 2021-08-08 01:14:21.365 Main file path: /opt/idea-IU-211.7628.21/lib/netty-handler-proxy.jar
+[DEBUG] 2021-08-08 01:14:21.365 Main file abs path: /opt/idea-IU-211.7628.21/lib/netty-handler-proxy.jar
+[DEBUG] 2021-08-08 01:14:21.365 Main file can path: /opt/idea-IU-211.7628.21/lib/netty-handler-proxy.jar
+[DEBUG] 2021-08-08 01:14:21.365 Main file name: kotlinx-serialization-json-jvm-1.0.1.jar
+[DEBUG] 2021-08-08 01:14:21.366 Main file path: /opt/idea-IU-211.7628.21/lib/kotlinx-serialization-json-jvm-1.0.1.jar
+[DEBUG] 2021-08-08 01:14:21.366 Main file abs path: /opt/idea-IU-211.7628.21/lib/kotlinx-serialization-json-jvm-1.0.1.jar
+[DEBUG] 2021-08-08 01:14:21.366 Main file can path: /opt/idea-IU-211.7628.21/lib/kotlinx-serialization-json-jvm-1.0.1.jar
+[DEBUG] 2021-08-08 01:14:21.366 Main file name: bootstrap.jar
+[DEBUG] 2021-08-08 01:14:21.366 Main file path: /opt/idea-IU-211.7628.21/lib/bootstrap.jar
+[DEBUG] 2021-08-08 01:14:21.366 Main file abs path: /opt/idea-IU-211.7628.21/lib/bootstrap.jar
+[DEBUG] 2021-08-08 01:14:21.367 Main file can path: /opt/idea-IU-211.7628.21/lib/bootstrap.jar
+[DEBUG] 2021-08-08 01:14:21.367 Main file name: grpc-stub-1.34.1.jar
+[DEBUG] 2021-08-08 01:14:21.367 Main file path: /opt/idea-IU-211.7628.21/lib/grpc-stub-1.34.1.jar
+[DEBUG] 2021-08-08 01:14:21.367 Main file abs path: /opt/idea-IU-211.7628.21/lib/grpc-stub-1.34.1.jar
+[DEBUG] 2021-08-08 01:14:21.367 Main file can path: /opt/idea-IU-211.7628.21/lib/grpc-stub-1.34.1.jar
+[DEBUG] 2021-08-08 01:14:21.367 Main file name: junit.jar
+[DEBUG] 2021-08-08 01:14:21.368 Main file path: /opt/idea-IU-211.7628.21/lib/junit.jar
+[DEBUG] 2021-08-08 01:14:21.368 Main file abs path: /opt/idea-IU-211.7628.21/lib/junit.jar
+[DEBUG] 2021-08-08 01:14:21.368 Main file can path: /opt/idea-IU-211.7628.21/lib/junit.jar
+[DEBUG] 2021-08-08 01:14:21.368 Main file name: resources_en.jar
+[DEBUG] 2021-08-08 01:14:21.368 Main file path: /opt/idea-IU-211.7628.21/lib/resources_en.jar
+[DEBUG] 2021-08-08 01:14:21.368 Main file abs path: /opt/idea-IU-211.7628.21/lib/resources_en.jar
+[DEBUG] 2021-08-08 01:14:21.368 Main file can path: /opt/idea-IU-211.7628.21/lib/resources_en.jar
+[DEBUG] 2021-08-08 01:14:21.369 Main file name: miglayout-swing.jar
+[DEBUG] 2021-08-08 01:14:21.369 Main file path: /opt/idea-IU-211.7628.21/lib/miglayout-swing.jar
+[DEBUG] 2021-08-08 01:14:21.369 Main file abs path: /opt/idea-IU-211.7628.21/lib/miglayout-swing.jar
+[DEBUG] 2021-08-08 01:14:21.369 Main file can path: /opt/idea-IU-211.7628.21/lib/miglayout-swing.jar
+[DEBUG] 2021-08-08 01:14:21.369 Main file name: gson-2.8.6.jar
+[DEBUG] 2021-08-08 01:14:21.369 Main file path: /opt/idea-IU-211.7628.21/lib/gson-2.8.6.jar
+[DEBUG] 2021-08-08 01:14:21.369 Main file abs path: /opt/idea-IU-211.7628.21/lib/gson-2.8.6.jar
+[DEBUG] 2021-08-08 01:14:21.370 Main file can path: /opt/idea-IU-211.7628.21/lib/gson-2.8.6.jar
+[DEBUG] 2021-08-08 01:14:21.370 Main file name: grpc-protobuf.jar
+[DEBUG] 2021-08-08 01:14:21.370 Main file path: /opt/idea-IU-211.7628.21/lib/grpc-protobuf.jar
+[DEBUG] 2021-08-08 01:14:21.370 Main file abs path: /opt/idea-IU-211.7628.21/lib/grpc-protobuf.jar
+[DEBUG] 2021-08-08 01:14:21.370 Main file can path: /opt/idea-IU-211.7628.21/lib/grpc-protobuf.jar
+[DEBUG] 2021-08-08 01:14:21.370 Main file name: protobuf-java-3.13.0.jar
+[DEBUG] 2021-08-08 01:14:21.371 Main file path: /opt/idea-IU-211.7628.21/lib/protobuf-java-3.13.0.jar
+[DEBUG] 2021-08-08 01:14:21.371 Main file abs path: /opt/idea-IU-211.7628.21/lib/protobuf-java-3.13.0.jar
+[DEBUG] 2021-08-08 01:14:21.371 Main file can path: /opt/idea-IU-211.7628.21/lib/protobuf-java-3.13.0.jar
+[DEBUG] 2021-08-08 01:14:21.371 Main file name: commons-lang3-3.10.jar
+[DEBUG] 2021-08-08 01:14:21.371 Main file path: /opt/idea-IU-211.7628.21/lib/commons-lang3-3.10.jar
+[DEBUG] 2021-08-08 01:14:21.371 Main file abs path: /opt/idea-IU-211.7628.21/lib/commons-lang3-3.10.jar
+[DEBUG] 2021-08-08 01:14:21.378 Main file can path: /opt/idea-IU-211.7628.21/lib/commons-lang3-3.10.jar
+[DEBUG] 2021-08-08 01:14:21.379 Main file name: platform-statistics-devkit.jar
+[DEBUG] 2021-08-08 01:14:21.379 Main file path: /opt/idea-IU-211.7628.21/lib/platform-statistics-devkit.jar
+[DEBUG] 2021-08-08 01:14:21.379 Main file abs path: /opt/idea-IU-211.7628.21/lib/platform-statistics-devkit.jar
+[DEBUG] 2021-08-08 01:14:21.379 Main file can path: /opt/idea-IU-211.7628.21/lib/platform-statistics-devkit.jar
+[DEBUG] 2021-08-08 01:14:21.379 Main file name: jna-platform.jar
+[DEBUG] 2021-08-08 01:14:21.379 Main file path: /opt/idea-IU-211.7628.21/lib/jna-platform.jar
+[DEBUG] 2021-08-08 01:14:21.380 Main file abs path: /opt/idea-IU-211.7628.21/lib/jna-platform.jar
+[DEBUG] 2021-08-08 01:14:21.380 Main file can path: /opt/idea-IU-211.7628.21/lib/jna-platform.jar
+[DEBUG] 2021-08-08 01:14:21.380 Main file name: intellij-coverage-agent-1.0.579.jar
+[DEBUG] 2021-08-08 01:14:21.380 Main file path: /opt/idea-IU-211.7628.21/lib/intellij-coverage-agent-1.0.579.jar
+[DEBUG] 2021-08-08 01:14:21.380 Main file abs path: /opt/idea-IU-211.7628.21/lib/intellij-coverage-agent-1.0.579.jar
+[DEBUG] 2021-08-08 01:14:21.380 Main file can path: /opt/idea-IU-211.7628.21/lib/intellij-coverage-agent-1.0.579.jar
+[DEBUG] 2021-08-08 01:14:21.381 Main file name: java-utils-1.0.6.jar
+[DEBUG] 2021-08-08 01:14:21.381 Main file path: /opt/idea-IU-211.7628.21/lib/java-utils-1.0.6.jar
+[DEBUG] 2021-08-08 01:14:21.381 Main file abs path: /opt/idea-IU-211.7628.21/lib/java-utils-1.0.6.jar
+[DEBUG] 2021-08-08 01:14:21.381 Main file can path: /opt/idea-IU-211.7628.21/lib/java-utils-1.0.6.jar
+[DEBUG] 2021-08-08 01:14:21.381 Main file name: sshj.jar
+[DEBUG] 2021-08-08 01:14:21.381 Main file path: /opt/idea-IU-211.7628.21/lib/sshj.jar
+[DEBUG] 2021-08-08 01:14:21.381 Main file abs path: /opt/idea-IU-211.7628.21/lib/sshj.jar
+[DEBUG] 2021-08-08 01:14:21.382 Main file can path: /opt/idea-IU-211.7628.21/lib/sshj.jar
+[DEBUG] 2021-08-08 01:14:21.382 Main file name: jnr-ffi-2.1.10.jar
+[DEBUG] 2021-08-08 01:14:21.382 Main file path: /opt/idea-IU-211.7628.21/lib/jnr-ffi-2.1.10.jar
+[DEBUG] 2021-08-08 01:14:21.382 Main file abs path: /opt/idea-IU-211.7628.21/lib/jnr-ffi-2.1.10.jar
+[DEBUG] 2021-08-08 01:14:21.382 Main file can path: /opt/idea-IU-211.7628.21/lib/jnr-ffi-2.1.10.jar
+[DEBUG] 2021-08-08 01:14:21.382 Main file name: classgraph-4.8.102.jar
+[DEBUG] 2021-08-08 01:14:21.382 Main file path: /opt/idea-IU-211.7628.21/lib/classgraph-4.8.102.jar
+[DEBUG] 2021-08-08 01:14:21.383 Main file abs path: /opt/idea-IU-211.7628.21/lib/classgraph-4.8.102.jar
+[DEBUG] 2021-08-08 01:14:21.383 Main file can path: /opt/idea-IU-211.7628.21/lib/classgraph-4.8.102.jar
+[DEBUG] 2021-08-08 01:14:21.383 Main file name: dom-impl.jar
+[DEBUG] 2021-08-08 01:14:21.383 Main file path: /opt/idea-IU-211.7628.21/lib/dom-impl.jar
+[DEBUG] 2021-08-08 01:14:21.383 Main file abs path: /opt/idea-IU-211.7628.21/lib/dom-impl.jar
+[DEBUG] 2021-08-08 01:14:21.383 Main file can path: /opt/idea-IU-211.7628.21/lib/dom-impl.jar
+[DEBUG] 2021-08-08 01:14:21.383 Main file name: commons-collections-3.2.2.jar
+[DEBUG] 2021-08-08 01:14:21.384 Main file path: /opt/idea-IU-211.7628.21/lib/commons-collections-3.2.2.jar
+[DEBUG] 2021-08-08 01:14:21.384 Main file abs path: /opt/idea-IU-211.7628.21/lib/commons-collections-3.2.2.jar
+[DEBUG] 2021-08-08 01:14:21.384 Main file can path: /opt/idea-IU-211.7628.21/lib/commons-collections-3.2.2.jar
+[DEBUG] 2021-08-08 01:14:21.384 Main file name: org.eclipse.lsp4j-0.10.0.jar
+[DEBUG] 2021-08-08 01:14:21.384 Main file path: /opt/idea-IU-211.7628.21/lib/org.eclipse.lsp4j-0.10.0.jar
+[DEBUG] 2021-08-08 01:14:21.384 Main file abs path: /opt/idea-IU-211.7628.21/lib/org.eclipse.lsp4j-0.10.0.jar
+[DEBUG] 2021-08-08 01:14:21.385 Main file can path: /opt/idea-IU-211.7628.21/lib/org.eclipse.lsp4j-0.10.0.jar
+[DEBUG] 2021-08-08 01:14:21.385 Main file name: rhino-runtime-1.7.13.jar
+[DEBUG] 2021-08-08 01:14:21.385 Main file path: /opt/idea-IU-211.7628.21/lib/rhino-runtime-1.7.13.jar
+[DEBUG] 2021-08-08 01:14:21.385 Main file abs path: /opt/idea-IU-211.7628.21/lib/rhino-runtime-1.7.13.jar
+[DEBUG] 2021-08-08 01:14:21.385 Main file can path: /opt/idea-IU-211.7628.21/lib/rhino-runtime-1.7.13.jar
+[DEBUG] 2021-08-08 01:14:21.385 Main file name: jshell-frontend.jar
+[DEBUG] 2021-08-08 01:14:21.385 Main file path: /opt/idea-IU-211.7628.21/lib/jshell-frontend.jar
+[DEBUG] 2021-08-08 01:14:21.386 Main file abs path: /opt/idea-IU-211.7628.21/lib/jshell-frontend.jar
+[DEBUG] 2021-08-08 01:14:21.386 Main file can path: /opt/idea-IU-211.7628.21/lib/jshell-frontend.jar
+[DEBUG] 2021-08-08 01:14:21.386 Main file name: imageio-tiff.jar
+[DEBUG] 2021-08-08 01:14:21.386 Main file path: /opt/idea-IU-211.7628.21/lib/imageio-tiff.jar
+[DEBUG] 2021-08-08 01:14:21.386 Main file abs path: /opt/idea-IU-211.7628.21/lib/imageio-tiff.jar
+[DEBUG] 2021-08-08 01:14:21.386 Main file can path: /opt/idea-IU-211.7628.21/lib/imageio-tiff.jar
+[DEBUG] 2021-08-08 01:14:21.386 Main file name: jnr-x86asm-1.0.2.jar
+[DEBUG] 2021-08-08 01:14:21.387 Main file path: /opt/idea-IU-211.7628.21/lib/jnr-x86asm-1.0.2.jar
+[DEBUG] 2021-08-08 01:14:21.387 Main file abs path: /opt/idea-IU-211.7628.21/lib/jnr-x86asm-1.0.2.jar
+[DEBUG] 2021-08-08 01:14:21.387 Main file can path: /opt/idea-IU-211.7628.21/lib/jnr-x86asm-1.0.2.jar
+[DEBUG] 2021-08-08 01:14:21.387 Main file name: kxml2-2.3.0.jar
+[DEBUG] 2021-08-08 01:14:21.388 Main file path: /opt/idea-IU-211.7628.21/lib/kxml2-2.3.0.jar
+[DEBUG] 2021-08-08 01:14:21.388 Main file abs path: /opt/idea-IU-211.7628.21/lib/kxml2-2.3.0.jar
+[DEBUG] 2021-08-08 01:14:21.388 Main file can path: /opt/idea-IU-211.7628.21/lib/kxml2-2.3.0.jar
+[DEBUG] 2021-08-08 01:14:21.388 Main file name: groovy-xml-2.5.11.jar
+[DEBUG] 2021-08-08 01:14:21.389 Main file path: /opt/idea-IU-211.7628.21/lib/groovy-xml-2.5.11.jar
+[DEBUG] 2021-08-08 01:14:21.389 Main file abs path: /opt/idea-IU-211.7628.21/lib/groovy-xml-2.5.11.jar
+[DEBUG] 2021-08-08 01:14:21.389 Main file can path: /opt/idea-IU-211.7628.21/lib/groovy-xml-2.5.11.jar
+[DEBUG] 2021-08-08 01:14:21.389 Main file name: forms_rt.jar
+[DEBUG] 2021-08-08 01:14:21.390 Main file path: /opt/idea-IU-211.7628.21/lib/forms_rt.jar
+[DEBUG] 2021-08-08 01:14:21.390 Main file abs path: /opt/idea-IU-211.7628.21/lib/forms_rt.jar
+[DEBUG] 2021-08-08 01:14:21.390 Main file can path: /opt/idea-IU-211.7628.21/lib/forms_rt.jar
+[DEBUG] 2021-08-08 01:14:21.390 Main file name: jnr-posix-3.0.50.jar
+[DEBUG] 2021-08-08 01:14:21.390 Main file path: /opt/idea-IU-211.7628.21/lib/jnr-posix-3.0.50.jar
+[DEBUG] 2021-08-08 01:14:21.390 Main file abs path: /opt/idea-IU-211.7628.21/lib/jnr-posix-3.0.50.jar
+[DEBUG] 2021-08-08 01:14:21.390 Main file can path: /opt/idea-IU-211.7628.21/lib/jnr-posix-3.0.50.jar
+[DEBUG] 2021-08-08 01:14:21.391 Main file name: rd-core-0.211.234.jar
+[DEBUG] 2021-08-08 01:14:21.391 Main file path: /opt/idea-IU-211.7628.21/lib/rd-core-0.211.234.jar
+[DEBUG] 2021-08-08 01:14:21.391 Main file abs path: /opt/idea-IU-211.7628.21/lib/rd-core-0.211.234.jar
+[DEBUG] 2021-08-08 01:14:21.391 Main file can path: /opt/idea-IU-211.7628.21/lib/rd-core-0.211.234.jar
+[DEBUG] 2021-08-08 01:14:21.391 Main file name: ini4j-0.5.5-2.jar
+[DEBUG] 2021-08-08 01:14:21.391 Main file path: /opt/idea-IU-211.7628.21/lib/ini4j-0.5.5-2.jar
+[DEBUG] 2021-08-08 01:14:21.391 Main file abs path: /opt/idea-IU-211.7628.21/lib/ini4j-0.5.5-2.jar
+[DEBUG] 2021-08-08 01:14:21.392 Main file can path: /opt/idea-IU-211.7628.21/lib/ini4j-0.5.5-2.jar
+[DEBUG] 2021-08-08 01:14:21.392 Main file name: caffeine-2.8.8.jar
+[DEBUG] 2021-08-08 01:14:21.392 Main file path: /opt/idea-IU-211.7628.21/lib/caffeine-2.8.8.jar
+[DEBUG] 2021-08-08 01:14:21.392 Main file abs path: /opt/idea-IU-211.7628.21/lib/caffeine-2.8.8.jar
+[DEBUG] 2021-08-08 01:14:21.392 Main file can path: /opt/idea-IU-211.7628.21/lib/caffeine-2.8.8.jar
+[DEBUG] 2021-08-08 01:14:21.392 Main file name: xercesImpl-2.12.0.jar
+[DEBUG] 2021-08-08 01:14:21.392 Main file path: /opt/idea-IU-211.7628.21/lib/xercesImpl-2.12.0.jar
+[DEBUG] 2021-08-08 01:14:21.393 Main file abs path: /opt/idea-IU-211.7628.21/lib/xercesImpl-2.12.0.jar
+[DEBUG] 2021-08-08 01:14:21.393 Main file can path: /opt/idea-IU-211.7628.21/lib/xercesImpl-2.12.0.jar
+[DEBUG] 2021-08-08 01:14:21.393 Main file name: xmlbeans-2.6.0.jar
+[DEBUG] 2021-08-08 01:14:21.393 Main file path: /opt/idea-IU-211.7628.21/lib/xmlbeans-2.6.0.jar
+[DEBUG] 2021-08-08 01:14:21.394 Main file abs path: /opt/idea-IU-211.7628.21/lib/xmlbeans-2.6.0.jar
+[DEBUG] 2021-08-08 01:14:21.394 Main file can path: /opt/idea-IU-211.7628.21/lib/xmlbeans-2.6.0.jar
+[DEBUG] 2021-08-08 01:14:21.394 Main file name: jackson-databind.jar
+[DEBUG] 2021-08-08 01:14:21.394 Main file path: /opt/idea-IU-211.7628.21/lib/jackson-databind.jar
+[DEBUG] 2021-08-08 01:14:21.394 Main file abs path: /opt/idea-IU-211.7628.21/lib/jackson-databind.jar
+[DEBUG] 2021-08-08 01:14:21.394 Main file can path: /opt/idea-IU-211.7628.21/lib/jackson-databind.jar
+[DEBUG] 2021-08-08 01:14:21.395 Main file name: log4j.jar
+[DEBUG] 2021-08-08 01:14:21.395 Main file path: /opt/idea-IU-211.7628.21/lib/log4j.jar
+[DEBUG] 2021-08-08 01:14:21.395 Main file abs path: /opt/idea-IU-211.7628.21/lib/log4j.jar
+[DEBUG] 2021-08-08 01:14:21.395 Main file can path: /opt/idea-IU-211.7628.21/lib/log4j.jar
+[DEBUG] 2021-08-08 01:14:21.395 Main file name: rocksdbjni-6.15.2.jar
+[DEBUG] 2021-08-08 01:14:21.395 Main file path: /opt/idea-IU-211.7628.21/lib/rocksdbjni-6.15.2.jar
+[DEBUG] 2021-08-08 01:14:21.395 Main file abs path: /opt/idea-IU-211.7628.21/lib/rocksdbjni-6.15.2.jar
+[DEBUG] 2021-08-08 01:14:21.396 Main file can path: /opt/idea-IU-211.7628.21/lib/rocksdbjni-6.15.2.jar
+[DEBUG] 2021-08-08 01:14:21.396 Main file name: icu4j-67.1.jar
+[DEBUG] 2021-08-08 01:14:21.396 Main file path: /opt/idea-IU-211.7628.21/lib/icu4j-67.1.jar
+[DEBUG] 2021-08-08 01:14:21.396 Main file abs path: /opt/idea-IU-211.7628.21/lib/icu4j-67.1.jar
+[DEBUG] 2021-08-08 01:14:21.396 Main file can path: /opt/idea-IU-211.7628.21/lib/icu4j-67.1.jar
+[DEBUG] 2021-08-08 01:14:21.396 Main file name: java-ultimate-icons.jar
+[DEBUG] 2021-08-08 01:14:21.396 Main file path: /opt/idea-IU-211.7628.21/lib/java-ultimate-icons.jar
+[DEBUG] 2021-08-08 01:14:21.397 Main file abs path: /opt/idea-IU-211.7628.21/lib/java-ultimate-icons.jar
+[DEBUG] 2021-08-08 01:14:21.397 Main file can path: /opt/idea-IU-211.7628.21/lib/java-ultimate-icons.jar
+[DEBUG] 2021-08-08 01:14:21.397 Main file name: grpc-core.jar
+[DEBUG] 2021-08-08 01:14:21.397 Main file path: /opt/idea-IU-211.7628.21/lib/grpc-core.jar
+[DEBUG] 2021-08-08 01:14:21.397 Main file abs path: /opt/idea-IU-211.7628.21/lib/grpc-core.jar
+[DEBUG] 2021-08-08 01:14:21.397 Main file can path: /opt/idea-IU-211.7628.21/lib/grpc-core.jar
+[DEBUG] 2021-08-08 01:14:21.397 Main file name: groovy-jsr223-2.5.11.jar
+[DEBUG] 2021-08-08 01:14:21.398 Main file path: /opt/idea-IU-211.7628.21/lib/groovy-jsr223-2.5.11.jar
+[DEBUG] 2021-08-08 01:14:21.398 Main file abs path: /opt/idea-IU-211.7628.21/lib/groovy-jsr223-2.5.11.jar
+[DEBUG] 2021-08-08 01:14:21.398 Main file can path: /opt/idea-IU-211.7628.21/lib/groovy-jsr223-2.5.11.jar
+[DEBUG] 2021-08-08 01:14:21.398 Main file name: error_prone_annotations-2.3.1.jar
+[DEBUG] 2021-08-08 01:14:21.398 Main file path: /opt/idea-IU-211.7628.21/lib/error_prone_annotations-2.3.1.jar
+[DEBUG] 2021-08-08 01:14:21.398 Main file abs path: /opt/idea-IU-211.7628.21/lib/error_prone_annotations-2.3.1.jar
+[DEBUG] 2021-08-08 01:14:21.398 Main file can path: /opt/idea-IU-211.7628.21/lib/error_prone_annotations-2.3.1.jar
+[DEBUG] 2021-08-08 01:14:21.399 Main file name: jsp-base-openapi.jar
+[DEBUG] 2021-08-08 01:14:21.399 Main file path: /opt/idea-IU-211.7628.21/lib/jsp-base-openapi.jar
+[DEBUG] 2021-08-08 01:14:21.399 Main file abs path: /opt/idea-IU-211.7628.21/lib/jsp-base-openapi.jar
+[DEBUG] 2021-08-08 01:14:21.399 Main file can path: /opt/idea-IU-211.7628.21/lib/jsp-base-openapi.jar
+[DEBUG] 2021-08-08 01:14:21.399 Main file name: lz4-java-1.7.1.jar
+[DEBUG] 2021-08-08 01:14:21.399 Main file path: /opt/idea-IU-211.7628.21/lib/lz4-java-1.7.1.jar
+[DEBUG] 2021-08-08 01:14:21.399 Main file abs path: /opt/idea-IU-211.7628.21/lib/lz4-java-1.7.1.jar
+[DEBUG] 2021-08-08 01:14:21.399 Main file can path: /opt/idea-IU-211.7628.21/lib/lz4-java-1.7.1.jar
+[DEBUG] 2021-08-08 01:14:21.400 Main file name: microba.jar
+[DEBUG] 2021-08-08 01:14:21.400 Main file path: /opt/idea-IU-211.7628.21/lib/microba.jar
+[DEBUG] 2021-08-08 01:14:21.400 Main file abs path: /opt/idea-IU-211.7628.21/lib/microba.jar
+[DEBUG] 2021-08-08 01:14:21.400 Main file can path: /opt/idea-IU-211.7628.21/lib/microba.jar
+[DEBUG] 2021-08-08 01:14:21.400 Main file name: javax.servlet-api-3.0.1.jar
+[DEBUG] 2021-08-08 01:14:21.400 Main file path: /opt/idea-IU-211.7628.21/lib/javax.servlet-api-3.0.1.jar
+[DEBUG] 2021-08-08 01:14:21.400 Main file abs path: /opt/idea-IU-211.7628.21/lib/javax.servlet-api-3.0.1.jar
+[DEBUG] 2021-08-08 01:14:21.401 Main file can path: /opt/idea-IU-211.7628.21/lib/javax.servlet-api-3.0.1.jar
+[DEBUG] 2021-08-08 01:14:21.401 Main file name: jsoup-1.12.1.jar
+[DEBUG] 2021-08-08 01:14:21.401 Main file path: /opt/idea-IU-211.7628.21/lib/jsoup-1.12.1.jar
+[DEBUG] 2021-08-08 01:14:21.401 Main file abs path: /opt/idea-IU-211.7628.21/lib/jsoup-1.12.1.jar
+[DEBUG] 2021-08-08 01:14:21.401 Main file can path: /opt/idea-IU-211.7628.21/lib/jsoup-1.12.1.jar
+[DEBUG] 2021-08-08 01:14:21.401 Main file name: rd-swing-0.211.234.jar
+[DEBUG] 2021-08-08 01:14:21.401 Main file path: /opt/idea-IU-211.7628.21/lib/rd-swing-0.211.234.jar
+[DEBUG] 2021-08-08 01:14:21.402 Main file abs path: /opt/idea-IU-211.7628.21/lib/rd-swing-0.211.234.jar
+[DEBUG] 2021-08-08 01:14:21.402 Main file can path: /opt/idea-IU-211.7628.21/lib/rd-swing-0.211.234.jar
+[DEBUG] 2021-08-08 01:14:21.402 Main file name: qdox-2.0.0.jar
+[DEBUG] 2021-08-08 01:14:21.402 Main file path: /opt/idea-IU-211.7628.21/lib/qdox-2.0.0.jar
+[DEBUG] 2021-08-08 01:14:21.402 Main file abs path: /opt/idea-IU-211.7628.21/lib/qdox-2.0.0.jar
+[DEBUG] 2021-08-08 01:14:21.402 Main file can path: /opt/idea-IU-211.7628.21/lib/qdox-2.0.0.jar
+[DEBUG] 2021-08-08 01:14:21.402 Main file name: streamex-0.7.3.jar
+[DEBUG] 2021-08-08 01:14:21.403 Main file path: /opt/idea-IU-211.7628.21/lib/streamex-0.7.3.jar
+[DEBUG] 2021-08-08 01:14:21.403 Main file abs path: /opt/idea-IU-211.7628.21/lib/streamex-0.7.3.jar
+[DEBUG] 2021-08-08 01:14:21.403 Main file can path: /opt/idea-IU-211.7628.21/lib/streamex-0.7.3.jar
+[DEBUG] 2021-08-08 01:14:21.403 Main file name: asm-7.1.jar
+[DEBUG] 2021-08-08 01:14:21.403 Main file path: /opt/idea-IU-211.7628.21/lib/asm-7.1.jar
+[DEBUG] 2021-08-08 01:14:21.403 Main file abs path: /opt/idea-IU-211.7628.21/lib/asm-7.1.jar
+[DEBUG] 2021-08-08 01:14:21.403 Main file can path: /opt/idea-IU-211.7628.21/lib/asm-7.1.jar
+[DEBUG] 2021-08-08 01:14:21.404 Main file name: json.jar
+[DEBUG] 2021-08-08 01:14:21.404 Main file path: /opt/idea-IU-211.7628.21/lib/json.jar
+[DEBUG] 2021-08-08 01:14:21.404 Main file abs path: /opt/idea-IU-211.7628.21/lib/json.jar
+[DEBUG] 2021-08-08 01:14:21.404 Main file can path: /opt/idea-IU-211.7628.21/lib/json.jar
+[DEBUG] 2021-08-08 01:14:21.404 Main file name: imgscalr-lib-4.2.jar
+[DEBUG] 2021-08-08 01:14:21.404 Main file path: /opt/idea-IU-211.7628.21/lib/imgscalr-lib-4.2.jar
+[DEBUG] 2021-08-08 01:14:21.404 Main file abs path: /opt/idea-IU-211.7628.21/lib/imgscalr-lib-4.2.jar
+[DEBUG] 2021-08-08 01:14:21.411 Main file can path: /opt/idea-IU-211.7628.21/lib/imgscalr-lib-4.2.jar
+[DEBUG] 2021-08-08 01:14:21.412 Main file name: jsch-0.1.55.jar
+[DEBUG] 2021-08-08 01:14:21.412 Main file path: /opt/idea-IU-211.7628.21/lib/jsch-0.1.55.jar
+[DEBUG] 2021-08-08 01:14:21.412 Main file abs path: /opt/idea-IU-211.7628.21/lib/jsch-0.1.55.jar
+[DEBUG] 2021-08-08 01:14:21.412 Main file can path: /opt/idea-IU-211.7628.21/lib/jsch-0.1.55.jar
+[DEBUG] 2021-08-08 01:14:21.412 Main file name: grazie-spellchecker-0.1.9.jar
+[DEBUG] 2021-08-08 01:14:21.412 Main file path: /opt/idea-IU-211.7628.21/lib/grazie-spellchecker-0.1.9.jar
+[DEBUG] 2021-08-08 01:14:21.412 Main file abs path: /opt/idea-IU-211.7628.21/lib/grazie-spellchecker-0.1.9.jar
+[DEBUG] 2021-08-08 01:14:21.412 Main file can path: /opt/idea-IU-211.7628.21/lib/grazie-spellchecker-0.1.9.jar
+[DEBUG] 2021-08-08 01:14:21.412 Main file name: java-string-similarity-1.2.1.jar
+[DEBUG] 2021-08-08 01:14:21.412 Main file path: /opt/idea-IU-211.7628.21/lib/java-string-similarity-1.2.1.jar
+[DEBUG] 2021-08-08 01:14:21.412 Main file abs path: /opt/idea-IU-211.7628.21/lib/java-string-similarity-1.2.1.jar
+[DEBUG] 2021-08-08 01:14:21.412 Main file can path: /opt/idea-IU-211.7628.21/lib/java-string-similarity-1.2.1.jar
+[DEBUG] 2021-08-08 01:14:21.412 Main file name: trove4j.jar
+[DEBUG] 2021-08-08 01:14:21.412 Main file path: /opt/idea-IU-211.7628.21/lib/trove4j.jar
+[DEBUG] 2021-08-08 01:14:21.413 Main file abs path: /opt/idea-IU-211.7628.21/lib/trove4j.jar
+[DEBUG] 2021-08-08 01:14:21.413 Main file can path: /opt/idea-IU-211.7628.21/lib/trove4j.jar
+[DEBUG] 2021-08-08 01:14:21.413 Main file name: markdown4j-2.2-cj-1.1.jar
+[DEBUG] 2021-08-08 01:14:21.413 Main file path: /opt/idea-IU-211.7628.21/lib/markdown4j-2.2-cj-1.1.jar
+[DEBUG] 2021-08-08 01:14:21.413 Main file abs path: /opt/idea-IU-211.7628.21/lib/markdown4j-2.2-cj-1.1.jar
+[DEBUG] 2021-08-08 01:14:21.413 Main file can path: /opt/idea-IU-211.7628.21/lib/markdown4j-2.2-cj-1.1.jar
+[DEBUG] 2021-08-08 01:14:21.413 Main file name: kotlinx-serialization-core-jvm-1.0.1.jar
+[DEBUG] 2021-08-08 01:14:21.413 Main file path: /opt/idea-IU-211.7628.21/lib/kotlinx-serialization-core-jvm-1.0.1.jar
+[DEBUG] 2021-08-08 01:14:21.413 Main file abs path: /opt/idea-IU-211.7628.21/lib/kotlinx-serialization-core-jvm-1.0.1.jar
+[DEBUG] 2021-08-08 01:14:21.413 Main file can path: /opt/idea-IU-211.7628.21/lib/kotlinx-serialization-core-jvm-1.0.1.jar
+[DEBUG] 2021-08-08 01:14:21.413 Main file name: jdom.jar
+[DEBUG] 2021-08-08 01:14:21.413 Main file path: /opt/idea-IU-211.7628.21/lib/jdom.jar
+[DEBUG] 2021-08-08 01:14:21.413 Main file abs path: /opt/idea-IU-211.7628.21/lib/jdom.jar
+[DEBUG] 2021-08-08 01:14:21.413 Main file can path: /opt/idea-IU-211.7628.21/lib/jdom.jar
+[DEBUG] 2021-08-08 01:14:21.413 Main file name: roaringbitmap.jar
+[DEBUG] 2021-08-08 01:14:21.414 Main file path: /opt/idea-IU-211.7628.21/lib/roaringbitmap.jar
+[DEBUG] 2021-08-08 01:14:21.414 Main file abs path: /opt/idea-IU-211.7628.21/lib/roaringbitmap.jar
+[DEBUG] 2021-08-08 01:14:21.414 Main file can path: /opt/idea-IU-211.7628.21/lib/roaringbitmap.jar
+[DEBUG] 2021-08-08 01:14:21.414 Main file name: jffi-1.2.19-native.jar
+[DEBUG] 2021-08-08 01:14:21.414 Main file path: /opt/idea-IU-211.7628.21/lib/jffi-1.2.19-native.jar
+[DEBUG] 2021-08-08 01:14:21.415 Main file abs path: /opt/idea-IU-211.7628.21/lib/jffi-1.2.19-native.jar
+[DEBUG] 2021-08-08 01:14:21.415 Main file can path: /opt/idea-IU-211.7628.21/lib/jffi-1.2.19-native.jar
+[DEBUG] 2021-08-08 01:14:21.415 Main file name: nanoxml-2.2.3.jar
+[DEBUG] 2021-08-08 01:14:21.415 Main file path: /opt/idea-IU-211.7628.21/lib/nanoxml-2.2.3.jar
+[DEBUG] 2021-08-08 01:14:21.415 Main file abs path: /opt/idea-IU-211.7628.21/lib/nanoxml-2.2.3.jar
+[DEBUG] 2021-08-08 01:14:21.415 Main file can path: /opt/idea-IU-211.7628.21/lib/nanoxml-2.2.3.jar
+[DEBUG] 2021-08-08 01:14:21.415 Main file name: uast-tests.jar
+[DEBUG] 2021-08-08 01:14:21.415 Main file path: /opt/idea-IU-211.7628.21/lib/uast-tests.jar
+[DEBUG] 2021-08-08 01:14:21.416 Main file abs path: /opt/idea-IU-211.7628.21/lib/uast-tests.jar
+[DEBUG] 2021-08-08 01:14:21.416 Main file can path: /opt/idea-IU-211.7628.21/lib/uast-tests.jar
+[DEBUG] 2021-08-08 01:14:21.416 Main file name: okhttp.jar
+[DEBUG] 2021-08-08 01:14:21.416 Main file path: /opt/idea-IU-211.7628.21/lib/okhttp.jar
+[DEBUG] 2021-08-08 01:14:21.416 Main file abs path: /opt/idea-IU-211.7628.21/lib/okhttp.jar
+[DEBUG] 2021-08-08 01:14:21.416 Main file can path: /opt/idea-IU-211.7628.21/lib/okhttp.jar
+[DEBUG] 2021-08-08 01:14:21.416 Main file name: jettison-1.4.0.jar
+[DEBUG] 2021-08-08 01:14:21.416 Main file path: /opt/idea-IU-211.7628.21/lib/jettison-1.4.0.jar
+[DEBUG] 2021-08-08 01:14:21.417 Main file abs path: /opt/idea-IU-211.7628.21/lib/jettison-1.4.0.jar
+[DEBUG] 2021-08-08 01:14:21.417 Main file can path: /opt/idea-IU-211.7628.21/lib/jettison-1.4.0.jar
+[DEBUG] 2021-08-08 01:14:21.417 Main file name: netty-codec-http.jar
+[DEBUG] 2021-08-08 01:14:21.417 Main file path: /opt/idea-IU-211.7628.21/lib/netty-codec-http.jar
+[DEBUG] 2021-08-08 01:14:21.417 Main file abs path: /opt/idea-IU-211.7628.21/lib/netty-codec-http.jar
+[DEBUG] 2021-08-08 01:14:21.417 Main file can path: /opt/idea-IU-211.7628.21/lib/netty-codec-http.jar
+[DEBUG] 2021-08-08 01:14:21.417 Main file name: jaxen-1.2.0.jar
+[DEBUG] 2021-08-08 01:14:21.417 Main file path: /opt/idea-IU-211.7628.21/lib/jaxen-1.2.0.jar
+[DEBUG] 2021-08-08 01:14:21.417 Main file abs path: /opt/idea-IU-211.7628.21/lib/jaxen-1.2.0.jar
+[DEBUG] 2021-08-08 01:14:21.418 Main file can path: /opt/idea-IU-211.7628.21/lib/jaxen-1.2.0.jar
+[DEBUG] 2021-08-08 01:14:21.418 Main file name: kotlin-reflect-1.4.32.jar
+[DEBUG] 2021-08-08 01:14:21.418 Main file path: /opt/idea-IU-211.7628.21/lib/kotlin-reflect-1.4.32.jar
+[DEBUG] 2021-08-08 01:14:21.418 Main file abs path: /opt/idea-IU-211.7628.21/lib/kotlin-reflect-1.4.32.jar
+[DEBUG] 2021-08-08 01:14:21.418 Main file can path: /opt/idea-IU-211.7628.21/lib/kotlin-reflect-1.4.32.jar
+[DEBUG] 2021-08-08 01:14:21.418 Main file name: plexus-utils-3.3.0.jar
+[DEBUG] 2021-08-08 01:14:21.418 Main file path: /opt/idea-IU-211.7628.21/lib/plexus-utils-3.3.0.jar
+[DEBUG] 2021-08-08 01:14:21.419 Main file abs path: /opt/idea-IU-211.7628.21/lib/plexus-utils-3.3.0.jar
+[DEBUG] 2021-08-08 01:14:21.419 Main file can path: /opt/idea-IU-211.7628.21/lib/plexus-utils-3.3.0.jar
+[DEBUG] 2021-08-08 01:14:21.419 Main file name: javax.servlet.jsp-api-2.2.1.jar
+[DEBUG] 2021-08-08 01:14:21.419 Main file path: /opt/idea-IU-211.7628.21/lib/javax.servlet.jsp-api-2.2.1.jar
+[DEBUG] 2021-08-08 01:14:21.419 Main file abs path: /opt/idea-IU-211.7628.21/lib/javax.servlet.jsp-api-2.2.1.jar
+[DEBUG] 2021-08-08 01:14:21.419 Main file can path: /opt/idea-IU-211.7628.21/lib/javax.servlet.jsp-api-2.2.1.jar
+[DEBUG] 2021-08-08 01:14:21.419 Main file name: swingx-core-1.6.2-2.jar
+[DEBUG] 2021-08-08 01:14:21.419 Main file path: /opt/idea-IU-211.7628.21/lib/swingx-core-1.6.2-2.jar
+[DEBUG] 2021-08-08 01:14:21.419 Main file abs path: /opt/idea-IU-211.7628.21/lib/swingx-core-1.6.2-2.jar
+[DEBUG] 2021-08-08 01:14:21.420 Main file can path: /opt/idea-IU-211.7628.21/lib/swingx-core-1.6.2-2.jar
+[DEBUG] 2021-08-08 01:14:21.420 Main file name: byte-buddy-agent-1.10.1.jar
+[DEBUG] 2021-08-08 01:14:21.420 Main file path: /opt/idea-IU-211.7628.21/lib/byte-buddy-agent-1.10.1.jar
+[DEBUG] 2021-08-08 01:14:21.420 Main file abs path: /opt/idea-IU-211.7628.21/lib/byte-buddy-agent-1.10.1.jar
+[DEBUG] 2021-08-08 01:14:21.420 Main file can path: /opt/idea-IU-211.7628.21/lib/byte-buddy-agent-1.10.1.jar
+[DEBUG] 2021-08-08 01:14:21.420 Main file name: xml-apis-ext-1.3.04.jar
+[DEBUG] 2021-08-08 01:14:21.420 Main file path: /opt/idea-IU-211.7628.21/lib/xml-apis-ext-1.3.04.jar
+[DEBUG] 2021-08-08 01:14:21.421 Main file abs path: /opt/idea-IU-211.7628.21/lib/xml-apis-ext-1.3.04.jar
+[DEBUG] 2021-08-08 01:14:21.421 Main file can path: /opt/idea-IU-211.7628.21/lib/xml-apis-ext-1.3.04.jar
+[DEBUG] 2021-08-08 01:14:21.421 Main file name: tips-intellij-idea-211.34.jar
+[DEBUG] 2021-08-08 01:14:21.421 Main file path: /opt/idea-IU-211.7628.21/lib/tips-intellij-idea-211.34.jar
+[DEBUG] 2021-08-08 01:14:21.421 Main file abs path: /opt/idea-IU-211.7628.21/lib/tips-intellij-idea-211.34.jar
+[DEBUG] 2021-08-08 01:14:21.422 Main file can path: /opt/idea-IU-211.7628.21/lib/tips-intellij-idea-211.34.jar
+[DEBUG] 2021-08-08 01:14:21.422 Main file name: jackson-module-kotlin-2.12.0.jar
+[DEBUG] 2021-08-08 01:14:21.422 Main file path: /opt/idea-IU-211.7628.21/lib/jackson-module-kotlin-2.12.0.jar
+[DEBUG] 2021-08-08 01:14:21.422 Main file abs path: /opt/idea-IU-211.7628.21/lib/jackson-module-kotlin-2.12.0.jar
+[DEBUG] 2021-08-08 01:14:21.422 Main file can path: /opt/idea-IU-211.7628.21/lib/jackson-module-kotlin-2.12.0.jar
+[DEBUG] 2021-08-08 01:14:21.423 Main file name: commons-httpclient-3.1-patched.jar
+[DEBUG] 2021-08-08 01:14:21.423 Main file path: /opt/idea-IU-211.7628.21/lib/commons-httpclient-3.1-patched.jar
+[DEBUG] 2021-08-08 01:14:21.423 Main file abs path: /opt/idea-IU-211.7628.21/lib/commons-httpclient-3.1-patched.jar
+[DEBUG] 2021-08-08 01:14:21.423 Main file can path: /opt/idea-IU-211.7628.21/lib/commons-httpclient-3.1-patched.jar
+[DEBUG] 2021-08-08 01:14:21.423 Main file name: jediterm-pty-2.42.jar
+[DEBUG] 2021-08-08 01:14:21.423 Main file path: /opt/idea-IU-211.7628.21/lib/jediterm-pty-2.42.jar
+[DEBUG] 2021-08-08 01:14:21.423 Main file abs path: /opt/idea-IU-211.7628.21/lib/jediterm-pty-2.42.jar
+[DEBUG] 2021-08-08 01:14:21.423 Main file can path: /opt/idea-IU-211.7628.21/lib/jediterm-pty-2.42.jar
+[DEBUG] 2021-08-08 01:14:21.424 Main file name: build-marker-IU-211.7628.21
+[DEBUG] 2021-08-08 01:14:21.424 Main file path: /opt/idea-IU-211.7628.21/lib/build-marker-IU-211.7628.21
+[DEBUG] 2021-08-08 01:14:21.424 Main file abs path: /opt/idea-IU-211.7628.21/lib/build-marker-IU-211.7628.21
+[DEBUG] 2021-08-08 01:14:21.424 Main file can path: /opt/idea-IU-211.7628.21/lib/build-marker-IU-211.7628.21
+[DEBUG] 2021-08-08 01:14:21.424 Main file name: batik-codec-1.14.0-24.jar
+[DEBUG] 2021-08-08 01:14:21.424 Main file path: /opt/idea-IU-211.7628.21/lib/batik-codec-1.14.0-24.jar
+[DEBUG] 2021-08-08 01:14:21.424 Main file abs path: /opt/idea-IU-211.7628.21/lib/batik-codec-1.14.0-24.jar
+[DEBUG] 2021-08-08 01:14:21.424 Main file can path: /opt/idea-IU-211.7628.21/lib/batik-codec-1.14.0-24.jar
+[DEBUG] 2021-08-08 01:14:21.424 Main file name: openapi.jar
+[DEBUG] 2021-08-08 01:14:21.425 Main file path: /opt/idea-IU-211.7628.21/lib/openapi.jar
+[DEBUG] 2021-08-08 01:14:21.425 Main file abs path: /opt/idea-IU-211.7628.21/lib/openapi.jar
+[DEBUG] 2021-08-08 01:14:21.425 Main file can path: /opt/idea-IU-211.7628.21/lib/openapi.jar
+[DEBUG] 2021-08-08 01:14:21.425 Main file name: bouncy-castle-provider.jar
+[DEBUG] 2021-08-08 01:14:21.425 Main file path: /opt/idea-IU-211.7628.21/lib/bouncy-castle-provider.jar
+[DEBUG] 2021-08-08 01:14:21.425 Main file abs path: /opt/idea-IU-211.7628.21/lib/bouncy-castle-provider.jar
+[DEBUG] 2021-08-08 01:14:21.425 Main file can path: /opt/idea-IU-211.7628.21/lib/bouncy-castle-provider.jar
+[DEBUG] 2021-08-08 01:14:21.425 Main file name: blockmap-1.0.2.jar
+[DEBUG] 2021-08-08 01:14:21.426 Main file path: /opt/idea-IU-211.7628.21/lib/blockmap-1.0.2.jar
+[DEBUG] 2021-08-08 01:14:21.426 Main file abs path: /opt/idea-IU-211.7628.21/lib/blockmap-1.0.2.jar
+[DEBUG] 2021-08-08 01:14:21.426 Main file can path: /opt/idea-IU-211.7628.21/lib/blockmap-1.0.2.jar
+[DEBUG] 2021-08-08 01:14:21.426 Main file name: idea_rt.jar
+[DEBUG] 2021-08-08 01:14:21.426 Main file path: /opt/idea-IU-211.7628.21/lib/idea_rt.jar
+[DEBUG] 2021-08-08 01:14:21.426 Main file abs path: /opt/idea-IU-211.7628.21/lib/idea_rt.jar
+[DEBUG] 2021-08-08 01:14:21.427 Main file can path: /opt/idea-IU-211.7628.21/lib/idea_rt.jar
+[DEBUG] 2021-08-08 01:14:21.427 Main file name: jaxb-api-2.3.1.jar
+[DEBUG] 2021-08-08 01:14:21.427 Main file path: /opt/idea-IU-211.7628.21/lib/jaxb-api-2.3.1.jar
+[DEBUG] 2021-08-08 01:14:21.427 Main file abs path: /opt/idea-IU-211.7628.21/lib/jaxb-api-2.3.1.jar
+[DEBUG] 2021-08-08 01:14:21.427 Main file can path: /opt/idea-IU-211.7628.21/lib/jaxb-api-2.3.1.jar
+[DEBUG] 2021-08-08 01:14:21.427 Main file name: dbus-java-3.2.1.jar
+[DEBUG] 2021-08-08 01:14:21.427 Main file path: /opt/idea-IU-211.7628.21/lib/dbus-java-3.2.1.jar
+[DEBUG] 2021-08-08 01:14:21.427 Main file abs path: /opt/idea-IU-211.7628.21/lib/dbus-java-3.2.1.jar
+[DEBUG] 2021-08-08 01:14:21.427 Main file can path: /opt/idea-IU-211.7628.21/lib/dbus-java-3.2.1.jar
+[DEBUG] 2021-08-08 01:14:21.428 Main file name: baksmali-2.2.4.jar
+[DEBUG] 2021-08-08 01:14:21.428 Main file path: /opt/idea-IU-211.7628.21/lib/baksmali-2.2.4.jar
+[DEBUG] 2021-08-08 01:14:21.428 Main file abs path: /opt/idea-IU-211.7628.21/lib/baksmali-2.2.4.jar
+[DEBUG] 2021-08-08 01:14:21.428 Main file can path: /opt/idea-IU-211.7628.21/lib/baksmali-2.2.4.jar
+[DEBUG] 2021-08-08 01:14:21.428 Main file name: intellij-deps-fastutil-8.5.2-6.jar
+[DEBUG] 2021-08-08 01:14:21.428 Main file path: /opt/idea-IU-211.7628.21/lib/intellij-deps-fastutil-8.5.2-6.jar
+[DEBUG] 2021-08-08 01:14:21.428 Main file abs path: /opt/idea-IU-211.7628.21/lib/intellij-deps-fastutil-8.5.2-6.jar
+[DEBUG] 2021-08-08 01:14:21.428 Main file can path: /opt/idea-IU-211.7628.21/lib/intellij-deps-fastutil-8.5.2-6.jar
+[DEBUG] 2021-08-08 01:14:21.429 Main file name: external-system-rt.jar
+[DEBUG] 2021-08-08 01:14:21.429 Main file path: /opt/idea-IU-211.7628.21/lib/external-system-rt.jar
+[DEBUG] 2021-08-08 01:14:21.429 Main file abs path: /opt/idea-IU-211.7628.21/lib/external-system-rt.jar
+[DEBUG] 2021-08-08 01:14:21.429 Main file can path: /opt/idea-IU-211.7628.21/lib/external-system-rt.jar
+[DEBUG] 2021-08-08 01:14:21.429 Main file name: org.eclipse.lsp4j.jsonrpc-0.10.0.jar
+[DEBUG] 2021-08-08 01:14:21.429 Main file path: /opt/idea-IU-211.7628.21/lib/org.eclipse.lsp4j.jsonrpc-0.10.0.jar
+[DEBUG] 2021-08-08 01:14:21.429 Main file abs path: /opt/idea-IU-211.7628.21/lib/org.eclipse.lsp4j.jsonrpc-0.10.0.jar
+[DEBUG] 2021-08-08 01:14:21.430 Main file can path: /opt/idea-IU-211.7628.21/lib/org.eclipse.lsp4j.jsonrpc-0.10.0.jar
+[DEBUG] 2021-08-08 01:14:21.430 Main file name: jnr-enxio-0.21.jar
+[DEBUG] 2021-08-08 01:14:21.430 Main file path: /opt/idea-IU-211.7628.21/lib/jnr-enxio-0.21.jar
+[DEBUG] 2021-08-08 01:14:21.430 Main file abs path: /opt/idea-IU-211.7628.21/lib/jnr-enxio-0.21.jar
+[DEBUG] 2021-08-08 01:14:21.430 Main file can path: /opt/idea-IU-211.7628.21/lib/jnr-enxio-0.21.jar
+[DEBUG] 2021-08-08 01:14:21.430 Main file name: jetCheck-0.2.2.jar
+[DEBUG] 2021-08-08 01:14:21.430 Main file path: /opt/idea-IU-211.7628.21/lib/jetCheck-0.2.2.jar
+[DEBUG] 2021-08-08 01:14:21.430 Main file abs path: /opt/idea-IU-211.7628.21/lib/jetCheck-0.2.2.jar
+[DEBUG] 2021-08-08 01:14:21.430 Main file can path: /opt/idea-IU-211.7628.21/lib/jetCheck-0.2.2.jar
+[DEBUG] 2021-08-08 01:14:21.431 Main file name: serviceMessages-2019.1.4.jar
+[DEBUG] 2021-08-08 01:14:21.431 Main file path: /opt/idea-IU-211.7628.21/lib/serviceMessages-2019.1.4.jar
+[DEBUG] 2021-08-08 01:14:21.431 Main file abs path: /opt/idea-IU-211.7628.21/lib/serviceMessages-2019.1.4.jar
+[DEBUG] 2021-08-08 01:14:21.431 Main file can path: /opt/idea-IU-211.7628.21/lib/serviceMessages-2019.1.4.jar
+[DEBUG] 2021-08-08 01:14:21.431 Main file name: joni.jar
+[DEBUG] 2021-08-08 01:14:21.431 Main file path: /opt/idea-IU-211.7628.21/lib/joni.jar
+[DEBUG] 2021-08-08 01:14:21.431 Main file abs path: /opt/idea-IU-211.7628.21/lib/joni.jar
+[DEBUG] 2021-08-08 01:14:21.431 Main file can path: /opt/idea-IU-211.7628.21/lib/joni.jar
+[DEBUG] 2021-08-08 01:14:21.432 Main file name: core-3.4.0.jar
+[DEBUG] 2021-08-08 01:14:21.432 Main file path: /opt/idea-IU-211.7628.21/lib/core-3.4.0.jar
+[DEBUG] 2021-08-08 01:14:21.432 Main file abs path: /opt/idea-IU-211.7628.21/lib/core-3.4.0.jar
+[DEBUG] 2021-08-08 01:14:21.432 Main file can path: /opt/idea-IU-211.7628.21/lib/core-3.4.0.jar
+[DEBUG] 2021-08-08 01:14:21.432 Main file name: platform-objectSerializer-annotations.jar
+[DEBUG] 2021-08-08 01:14:21.432 Main file path: /opt/idea-IU-211.7628.21/lib/platform-objectSerializer-annotations.jar
+[DEBUG] 2021-08-08 01:14:21.432 Main file abs path: /opt/idea-IU-211.7628.21/lib/platform-objectSerializer-annotations.jar
+[DEBUG] 2021-08-08 01:14:21.432 Main file can path: /opt/idea-IU-211.7628.21/lib/platform-objectSerializer-annotations.jar
+[DEBUG] 2021-08-08 01:14:21.433 Main file name: jb-jdi-2.4.jar
+[DEBUG] 2021-08-08 01:14:21.433 Main file path: /opt/idea-IU-211.7628.21/lib/jb-jdi-2.4.jar
+[DEBUG] 2021-08-08 01:14:21.433 Main file abs path: /opt/idea-IU-211.7628.21/lib/jb-jdi-2.4.jar
+[DEBUG] 2021-08-08 01:14:21.433 Main file can path: /opt/idea-IU-211.7628.21/lib/jb-jdi-2.4.jar
+[DEBUG] 2021-08-08 01:14:21.433 Main file name: ktor-websockets-1.5.0.jar
+[DEBUG] 2021-08-08 01:14:21.433 Main file path: /opt/idea-IU-211.7628.21/lib/ktor-websockets-1.5.0.jar
+[DEBUG] 2021-08-08 01:14:21.433 Main file abs path: /opt/idea-IU-211.7628.21/lib/ktor-websockets-1.5.0.jar
+[DEBUG] 2021-08-08 01:14:21.433 Main file can path: /opt/idea-IU-211.7628.21/lib/ktor-websockets-1.5.0.jar
+[DEBUG] 2021-08-08 01:14:21.434 Main file name: jnr-a64asm-1.0.0.jar
+[DEBUG] 2021-08-08 01:14:21.434 Main file path: /opt/idea-IU-211.7628.21/lib/jnr-a64asm-1.0.0.jar
+[DEBUG] 2021-08-08 01:14:21.434 Main file abs path: /opt/idea-IU-211.7628.21/lib/jnr-a64asm-1.0.0.jar
+[DEBUG] 2021-08-08 01:14:21.434 Main file can path: /opt/idea-IU-211.7628.21/lib/jnr-a64asm-1.0.0.jar
+[DEBUG] 2021-08-08 01:14:21.434 Main file name: libstudio.proto-27.1.1.0.jar
+[DEBUG] 2021-08-08 01:14:21.434 Main file path: /opt/idea-IU-211.7628.21/lib/libstudio.proto-27.1.1.0.jar
+[DEBUG] 2021-08-08 01:14:21.434 Main file abs path: /opt/idea-IU-211.7628.21/lib/libstudio.proto-27.1.1.0.jar
+[DEBUG] 2021-08-08 01:14:21.435 Main file can path: /opt/idea-IU-211.7628.21/lib/libstudio.proto-27.1.1.0.jar
+[DEBUG] 2021-08-08 01:14:21.435 Main file name: aapt2-proto-0.3.1.jar
+[DEBUG] 2021-08-08 01:14:21.435 Main file path: /opt/idea-IU-211.7628.21/lib/aapt2-proto-0.3.1.jar
+[DEBUG] 2021-08-08 01:14:21.435 Main file abs path: /opt/idea-IU-211.7628.21/lib/aapt2-proto-0.3.1.jar
+[DEBUG] 2021-08-08 01:14:21.435 Main file can path: /opt/idea-IU-211.7628.21/lib/aapt2-proto-0.3.1.jar
+[DEBUG] 2021-08-08 01:14:21.435 Main file name: dexlib2.jar
+[DEBUG] 2021-08-08 01:14:21.435 Main file path: /opt/idea-IU-211.7628.21/lib/dexlib2.jar
+[DEBUG] 2021-08-08 01:14:21.435 Main file abs path: /opt/idea-IU-211.7628.21/lib/dexlib2.jar
+[DEBUG] 2021-08-08 01:14:21.436 Main file can path: /opt/idea-IU-211.7628.21/lib/dexlib2.jar
+[DEBUG] 2021-08-08 01:14:21.436 Main file name: jzlib-1.1.3.jar
+[DEBUG] 2021-08-08 01:14:21.436 Main file path: /opt/idea-IU-211.7628.21/lib/jzlib-1.1.3.jar
+[DEBUG] 2021-08-08 01:14:21.436 Main file abs path: /opt/idea-IU-211.7628.21/lib/jzlib-1.1.3.jar
+[DEBUG] 2021-08-08 01:14:21.436 Main file can path: /opt/idea-IU-211.7628.21/lib/jzlib-1.1.3.jar
+[DEBUG] 2021-08-08 01:14:21.436 Main file name: jna.jar
+[DEBUG] 2021-08-08 01:14:21.436 Main file path: /opt/idea-IU-211.7628.21/lib/jna.jar
+[DEBUG] 2021-08-08 01:14:21.436 Main file abs path: /opt/idea-IU-211.7628.21/lib/jna.jar
+[DEBUG] 2021-08-08 01:14:21.436 Main file can path: /opt/idea-IU-211.7628.21/lib/jna.jar
+[DEBUG] 2021-08-08 01:14:21.437 Main file name: http-client.jar
+[DEBUG] 2021-08-08 01:14:21.437 Main file path: /opt/idea-IU-211.7628.21/lib/http-client.jar
+[DEBUG] 2021-08-08 01:14:21.437 Main file abs path: /opt/idea-IU-211.7628.21/lib/http-client.jar
+[DEBUG] 2021-08-08 01:14:21.437 Main file can path: /opt/idea-IU-211.7628.21/lib/http-client.jar
+[DEBUG] 2021-08-08 01:14:21.437 Main file name: ion-java-1.6.2-3.jar
+[DEBUG] 2021-08-08 01:14:21.437 Main file path: /opt/idea-IU-211.7628.21/lib/ion-java-1.6.2-3.jar
+[DEBUG] 2021-08-08 01:14:21.437 Main file abs path: /opt/idea-IU-211.7628.21/lib/ion-java-1.6.2-3.jar
+[DEBUG] 2021-08-08 01:14:21.437 Main file can path: /opt/idea-IU-211.7628.21/lib/ion-java-1.6.2-3.jar
+[DEBUG] 2021-08-08 01:14:21.441 Main file name: kotlin-stdlib-jdk8.jar
+[DEBUG] 2021-08-08 01:14:21.441 Main file path: /opt/idea-IU-211.7628.21/lib/kotlin-stdlib-jdk8.jar
+[DEBUG] 2021-08-08 01:14:21.441 Main file abs path: /opt/idea-IU-211.7628.21/lib/kotlin-stdlib-jdk8.jar
+[DEBUG] 2021-08-08 01:14:21.441 Main file can path: /opt/idea-IU-211.7628.21/lib/kotlin-stdlib-jdk8.jar
+[DEBUG] 2021-08-08 01:14:21.441 Main file name: oro-2.0.8.jar
+[DEBUG] 2021-08-08 01:14:21.441 Main file path: /opt/idea-IU-211.7628.21/lib/oro-2.0.8.jar
+[DEBUG] 2021-08-08 01:14:21.441 Main file abs path: /opt/idea-IU-211.7628.21/lib/oro-2.0.8.jar
+[DEBUG] 2021-08-08 01:14:21.442 Main file can path: /opt/idea-IU-211.7628.21/lib/oro-2.0.8.jar
+[DEBUG] 2021-08-08 01:14:21.442 Main file name: markdown-0.1.41.jar
+[DEBUG] 2021-08-08 01:14:21.442 Main file path: /opt/idea-IU-211.7628.21/lib/markdown-0.1.41.jar
+[DEBUG] 2021-08-08 01:14:21.442 Main file abs path: /opt/idea-IU-211.7628.21/lib/markdown-0.1.41.jar
+[DEBUG] 2021-08-08 01:14:21.442 Main file can path: /opt/idea-IU-211.7628.21/lib/markdown-0.1.41.jar
+[DEBUG] 2021-08-08 01:14:21.442 Main file name: netty-buffer.jar
+[DEBUG] 2021-08-08 01:14:21.442 Main file path: /opt/idea-IU-211.7628.21/lib/netty-buffer.jar
+[DEBUG] 2021-08-08 01:14:21.442 Main file abs path: /opt/idea-IU-211.7628.21/lib/netty-buffer.jar
+[DEBUG] 2021-08-08 01:14:21.442 Main file can path: /opt/idea-IU-211.7628.21/lib/netty-buffer.jar
+[DEBUG] 2021-08-08 01:14:21.442 Main file name: rd-framework-0.211.234.jar
+[DEBUG] 2021-08-08 01:14:21.442 Main file path: /opt/idea-IU-211.7628.21/lib/rd-framework-0.211.234.jar
+[DEBUG] 2021-08-08 01:14:21.442 Main file abs path: /opt/idea-IU-211.7628.21/lib/rd-framework-0.211.234.jar
+[DEBUG] 2021-08-08 01:14:21.442 Main file can path: /opt/idea-IU-211.7628.21/lib/rd-framework-0.211.234.jar
+[DEBUG] 2021-08-08 01:14:21.442 Main file name: xstream.jar
+[DEBUG] 2021-08-08 01:14:21.442 Main file path: /opt/idea-IU-211.7628.21/lib/xstream.jar
+[DEBUG] 2021-08-08 01:14:21.444 Main file abs path: /opt/idea-IU-211.7628.21/lib/xstream.jar
+[DEBUG] 2021-08-08 01:14:21.444 Main file can path: /opt/idea-IU-211.7628.21/lib/xstream.jar
+[DEBUG] 2021-08-08 01:14:21.444 Main file name: snakeyaml-1.27.jar
+[DEBUG] 2021-08-08 01:14:21.444 Main file path: /opt/idea-IU-211.7628.21/lib/snakeyaml-1.27.jar
+[DEBUG] 2021-08-08 01:14:21.444 Main file abs path: /opt/idea-IU-211.7628.21/lib/snakeyaml-1.27.jar
+[DEBUG] 2021-08-08 01:14:21.444 Main file can path: /opt/idea-IU-211.7628.21/lib/snakeyaml-1.27.jar
+[DEBUG] 2021-08-08 01:14:21.444 Main file name: grpc-netty-shaded-1.34.1.jar
+[DEBUG] 2021-08-08 01:14:21.444 Main file path: /opt/idea-IU-211.7628.21/lib/grpc-netty-shaded-1.34.1.jar
+[DEBUG] 2021-08-08 01:14:21.444 Main file abs path: /opt/idea-IU-211.7628.21/lib/grpc-netty-shaded-1.34.1.jar
+[DEBUG] 2021-08-08 01:14:21.445 Main file can path: /opt/idea-IU-211.7628.21/lib/grpc-netty-shaded-1.34.1.jar
+[DEBUG] 2021-08-08 01:14:21.456 Main List of files in the specified directory:
+[DEBUG] 2021-08-08 01:14:21.456 Main asm-all-9.1.jar
+[DEBUG] 2021-08-08 01:14:21.457 Main platform-statistics-devkit.jar
+[DEBUG] 2021-08-08 01:14:21.457 Main xml-resolver-1.2.jar
+[DEBUG] 2021-08-08 01:14:21.457 Main commons-net-3.6.jar
+[DEBUG] 2021-08-08 01:14:21.457 Main jnr-ffi-2.1.10.jar
+[DEBUG] 2021-08-08 01:14:21.457 Main groovy-xml-2.5.11.jar
+[DEBUG] 2021-08-08 01:14:21.457 Main jetCheck-0.2.2.jar
+[DEBUG] 2021-08-08 01:14:21.457 Main batik-codec-1.14.0-24.jar
+[DEBUG] 2021-08-08 01:14:21.457 Main stats.jar
+[DEBUG] 2021-08-08 01:14:21.457 Main javax.servlet.jsp-api-2.2.1.jar
+[DEBUG] 2021-08-08 01:14:21.457 Main jsch.agentproxy.jsch-0.0.9.jar
+[DEBUG] 2021-08-08 01:14:21.457 Main jsch.agentproxy.sshj-0.0.9.jar
+[DEBUG] 2021-08-08 01:14:21.457 Main forms_rt.jar
+[DEBUG] 2021-08-08 01:14:21.457 Main rd-core-0.211.234.jar
+[DEBUG] 2021-08-08 01:14:21.457 Main json.jar
+[DEBUG] 2021-08-08 01:14:21.457 Main testFramework-java.jar
+[DEBUG] 2021-08-08 01:14:21.457 Main async-profiler-1.8.3.jar
+[DEBUG] 2021-08-08 01:14:21.457 Main rocksdbjni-6.15.2.jar
+[DEBUG] 2021-08-08 01:14:21.457 Main netty-codec-http.jar
+[DEBUG] 2021-08-08 01:14:21.457 Main kotlinx-serialization-json-jvm-1.0.1.jar
+[DEBUG] 2021-08-08 01:14:21.457 Main commons-io-2.8.0.jar
+[DEBUG] 2021-08-08 01:14:21.458 Main markdownj-core-0.4.2-SNAPSHOT.jar
+[DEBUG] 2021-08-08 01:14:21.458 Main guava.jar
+[DEBUG] 2021-08-08 01:14:21.458 Main grazie-spellchecker-0.1.9.jar
+[DEBUG] 2021-08-08 01:14:21.458 Main jna.jar
+[DEBUG] 2021-08-08 01:14:21.458 Main jing-20030619.jar
+[DEBUG] 2021-08-08 01:14:21.458 Main jps-model.jar
+[DEBUG] 2021-08-08 01:14:21.458 Main jts-io-common.jar
+[DEBUG] 2021-08-08 01:14:21.458 Main trang-core.jar
+[DEBUG] 2021-08-08 01:14:21.458 Main trove4j.jar
+[DEBUG] 2021-08-08 01:14:21.458 Main joni.jar
+[DEBUG] 2021-08-08 01:14:21.458 Main core-3.4.0.jar
+[DEBUG] 2021-08-08 01:14:21.458 Main intellij-xml.jar
+[DEBUG] 2021-08-08 01:14:21.458 Main jaxb-runtime.jar
+[DEBUG] 2021-08-08 01:14:21.458 Main byte-buddy-agent-1.10.1.jar
+[DEBUG] 2021-08-08 01:14:21.458 Main org.eclipse.lsp4j.jsonrpc-0.10.0.jar
+[DEBUG] 2021-08-08 01:14:21.458 Main jnr-posix-3.0.50.jar
+[DEBUG] 2021-08-08 01:14:21.458 Main ap-validation-0.0.5.jar
+[DEBUG] 2021-08-08 01:14:21.458 Main xercesImpl-2.12.0.jar
+[DEBUG] 2021-08-08 01:14:21.458 Main jsch-0.1.55.jar
+[DEBUG] 2021-08-08 01:14:21.459 Main jsch-agent-proxy.jar
+[DEBUG] 2021-08-08 01:14:21.459 Main protobuf-java-3.13.0.jar
+[DEBUG] 2021-08-08 01:14:21.459 Main oro-2.0.8.jar
+[DEBUG] 2021-08-08 01:14:21.459 Main slf4j.jar
+[DEBUG] 2021-08-08 01:14:21.459 Main jshell-frontend.jar
+[DEBUG] 2021-08-08 01:14:21.459 Main velocity.jar
+[DEBUG] 2021-08-08 01:14:21.459 Main grpc-stub-1.34.1.jar
+[DEBUG] 2021-08-08 01:14:21.459 Main rhino-runtime-1.7.13.jar
+[DEBUG] 2021-08-08 01:14:21.459 Main proxy-vole.jar
+[DEBUG] 2021-08-08 01:14:21.459 Main jsoup-1.12.1.jar
+[DEBUG] 2021-08-08 01:14:21.459 Main asm-commons-7.1.jar
+[DEBUG] 2021-08-08 01:14:21.459 Main caffeine-2.8.8.jar
+[DEBUG] 2021-08-08 01:14:21.459 Main grpc-core.jar
+[DEBUG] 2021-08-08 01:14:21.459 Main cglib-nodep-3.2.4.jar
+[DEBUG] 2021-08-08 01:14:21.459 Main commons-logging-1.2.jar
+[DEBUG] 2021-08-08 01:14:21.459 Main jsp-base-openapi.jar
+[DEBUG] 2021-08-08 01:14:21.459 Main forms-1.1-preview.jar
+[DEBUG] 2021-08-08 01:14:21.459 Main jb-jdi-2.4.jar
+[DEBUG] 2021-08-08 01:14:21.459 Main dom-openapi.jar
+[DEBUG] 2021-08-08 01:14:21.460 Main rd-framework-0.211.234.jar
+[DEBUG] 2021-08-08 01:14:21.460 Main libstudio.proto-27.1.1.0.jar
+[DEBUG] 2021-08-08 01:14:21.460 Main snakeyaml-engine-2.2.1.jar
+[DEBUG] 2021-08-08 01:14:21.460 Main commons-compress-1.20.jar
+[DEBUG] 2021-08-08 01:14:21.460 Main nanoxml-2.2.3.jar
+[DEBUG] 2021-08-08 01:14:21.460 Main jcef-87.1.13-g481a82a-chromium-87.0.4280.141-api-1.2.jar
+[DEBUG] 2021-08-08 01:14:21.460 Main dbus-java-3.2.1.jar
+[DEBUG] 2021-08-08 01:14:21.460 Main commons-lang3-3.10.jar
+[DEBUG] 2021-08-08 01:14:21.460 Main groovy-2.5.11.jar
+[DEBUG] 2021-08-08 01:14:21.460 Main external-system-rt.jar
+[DEBUG] 2021-08-08 01:14:21.460 Main cli-parser-1.1.5.jar
+[DEBUG] 2021-08-08 01:14:21.460 Main jsonpath.jar
+[DEBUG] 2021-08-08 01:14:21.460 Main asm-tree-7.1.jar
+[DEBUG] 2021-08-08 01:14:21.460 Main build-marker-IU-211.7628.21
+[DEBUG] 2021-08-08 01:14:21.460 Main kotlin-gradle-plugin-model-1.4.32.jar
+[DEBUG] 2021-08-08 01:14:21.460 Main jnr-enxio-0.21.jar
+[DEBUG] 2021-08-08 01:14:21.460 Main ion-java-1.6.2-3.jar
+[DEBUG] 2021-08-08 01:14:21.460 Main marketplace-zip-signer-0.1.3.jar
+[DEBUG] 2021-08-08 01:14:21.461 Main xz-1.8.jar
+[DEBUG] 2021-08-08 01:14:21.461 Main proto-27.1.1.0.jar
+[DEBUG] 2021-08-08 01:14:21.461 Main rngom-20051226-patched.jar
+[DEBUG] 2021-08-08 01:14:21.461 Main markdown4j-2.2-cj-1.1.jar
+[DEBUG] 2021-08-08 01:14:21.461 Main xstream.jar
+[DEBUG] 2021-08-08 01:14:21.461 Main javax.inject-1.jar
+[DEBUG] 2021-08-08 01:14:21.461 Main imageio-tiff.jar
+[DEBUG] 2021-08-08 01:14:21.461 Main commons-httpclient-3.1-patched.jar
+[DEBUG] 2021-08-08 01:14:21.461 Main jnr-constants-0.9.12.jar
+[DEBUG] 2021-08-08 01:14:21.461 Main coverage-common.jar
+[DEBUG] 2021-08-08 01:14:21.461 Main icu4j-67.1.jar
+[DEBUG] 2021-08-08 01:14:21.461 Main jackson-module-kotlin-2.12.0.jar
+[DEBUG] 2021-08-08 01:14:21.461 Main platform-objectSerializer-annotations.jar
+[DEBUG] 2021-08-08 01:14:21.461 Main commons-cli-1.4.jar
+[DEBUG] 2021-08-08 01:14:21.461 Main groovy-jsr223-2.5.11.jar
+[DEBUG] 2021-08-08 01:14:21.461 Main jnr-x86asm-1.0.2.jar
+[DEBUG] 2021-08-08 01:14:21.461 Main jackson-databind.jar
+[DEBUG] 2021-08-08 01:14:21.461 Main lz4-java-1.7.1.jar
+[DEBUG] 2021-08-08 01:14:21.461 Main markdown-0.1.41.jar
+[DEBUG] 2021-08-08 01:14:21.461 Main cloud-config-client.jar
+[DEBUG] 2021-08-08 01:14:21.462 Main junit4.jar
+[DEBUG] 2021-08-08 01:14:21.462 Main idea_rt.jar
+[DEBUG] 2021-08-08 01:14:21.462 Main commons-imaging-1.0-RC-1.jar
+[DEBUG] 2021-08-08 01:14:21.462 Main kotlinx-coroutines-jdk8.jar
+[DEBUG] 2021-08-08 01:14:21.462 Main ini4j-0.5.5-2.jar
+[DEBUG] 2021-08-08 01:14:21.462 Main snakeyaml-1.27.jar
+[DEBUG] 2021-08-08 01:14:21.462 Main testFramework.core.jar
+[DEBUG] 2021-08-08 01:14:21.462 Main platform-impl.jar
+[DEBUG] 2021-08-08 01:14:21.462 Main error_prone_annotations-2.3.1.jar
+[DEBUG] 2021-08-08 01:14:21.462 Main jackson-core-2.12.0.jar
+[DEBUG] 2021-08-08 01:14:21.462 Main java-compatibility-1.0.1.jar
+[DEBUG] 2021-08-08 01:14:21.462 Main jnr-a64asm-1.0.0.jar
+[DEBUG] 2021-08-08 01:14:21.462 Main jcip-annotations-1.0.jar
+[DEBUG] 2021-08-08 01:14:21.462 Main serviceMessages-2019.1.4.jar
+[DEBUG] 2021-08-08 01:14:21.462 Main microba.jar
+[DEBUG] 2021-08-08 01:14:21.462 Main grpc-netty-shaded-1.34.1.jar
+[DEBUG] 2021-08-08 01:14:21.462 Main asm-7.1.jar
+[DEBUG] 2021-08-08 01:14:21.462 Main groovy-templates-2.5.11.jar
+[DEBUG] 2021-08-08 01:14:21.462 Main uast-tests.jar
+[DEBUG] 2021-08-08 01:14:21.462 Main kxml2-2.3.0.jar
+[DEBUG] 2021-08-08 01:14:21.463 Main dom-impl.jar
+[DEBUG] 2021-08-08 01:14:21.463 Main imgscalr-lib-4.2.jar
+[DEBUG] 2021-08-08 01:14:21.463 Main asm-analysis-7.1.jar
+[DEBUG] 2021-08-08 01:14:21.463 Main ngram-slp-0.0.3.jar
+[DEBUG] 2021-08-08 01:14:21.463 Main kotlin-test.jar
+[DEBUG] 2021-08-08 01:14:21.463 Main grpc-protobuf.jar
+[DEBUG] 2021-08-08 01:14:21.463 Main bootstrap.jar
+[DEBUG] 2021-08-08 01:14:21.463 Main h2-mvstore-1.4.200.jar
+[DEBUG] 2021-08-08 01:14:21.463 Main commons-collections-3.2.2.jar
+[DEBUG] 2021-08-08 01:14:21.463 Main jaxen-1.2.0.jar
+[DEBUG] 2021-08-08 01:14:21.463 Main jffi-1.2.19.jar
+[DEBUG] 2021-08-08 01:14:21.463 Main roaringbitmap.jar
+[DEBUG] 2021-08-08 01:14:21.463 Main fluent-hc-4.5.13.jar
+[DEBUG] 2021-08-08 01:14:21.463 Main kryo.jar
+[DEBUG] 2021-08-08 01:14:21.463 Main batik-transcoder.jar
+[DEBUG] 2021-08-08 01:14:21.463 Main objenesis-3.1.jar
+[DEBUG] 2021-08-08 01:14:21.463 Main winp-1.28.jar
+[DEBUG] 2021-08-08 01:14:21.463 Main ktor-websockets-1.5.0.jar
+[DEBUG] 2021-08-08 01:14:21.463 Main tips-intellij-idea-211.34.jar
+[DEBUG] 2021-08-08 01:14:21.463 Main tests_bootstrap.jar
+[DEBUG] 2021-08-08 01:14:21.464 Main kotlin-stdlib-jdk8.jar
+[DEBUG] 2021-08-08 01:14:21.464 Main xmlrpc-2.0.1.jar
+[DEBUG] 2021-08-08 01:14:21.464 Main automaton-1.12-1.jar
+[DEBUG] 2021-08-08 01:14:21.464 Main intellij-coverage-agent-1.0.579.jar
+[DEBUG] 2021-08-08 01:14:21.464 Main http-client.jar
+[DEBUG] 2021-08-08 01:14:21.464 Main jffi-1.2.19-native.jar
+[DEBUG] 2021-08-08 01:14:21.464 Main classgraph-4.8.102.jar
+[DEBUG] 2021-08-08 01:14:21.464 Main grpc-kotlin-stub-1.0.0.jar
+[DEBUG] 2021-08-08 01:14:21.464 Main rd-swing-0.211.234.jar
+[DEBUG] 2021-08-08 01:14:21.464 Main groovy-json-2.5.11.jar
+[DEBUG] 2021-08-08 01:14:21.464 Main jettison-1.4.0.jar
+[DEBUG] 2021-08-08 01:14:21.464 Main libam-instrumentation-data-proto-27.1.1.0.jar
+[DEBUG] 2021-08-08 01:14:21.464 Main util.jar
+[DEBUG] 2021-08-08 01:14:21.464 Main icons.jar
+[DEBUG] 2021-08-08 01:14:21.464 Main plexus-utils-3.3.0.jar
+[DEBUG] 2021-08-08 01:14:21.464 Main intellij-test-discovery-agent-1.0.579.jar
+[DEBUG] 2021-08-08 01:14:21.464 Main qdox-2.0.0.jar
+[DEBUG] 2021-08-08 01:14:21.464 Main baksmali-2.2.4.jar
+[DEBUG] 2021-08-08 01:14:21.464 Main jaxb-api-2.3.1.jar
+[DEBUG] 2021-08-08 01:14:21.464 Main jdom.jar
+[DEBUG] 2021-08-08 01:14:21.465 Main pty4j.jar
+[DEBUG] 2021-08-08 01:14:21.465 Main netty-handler-proxy.jar
+[DEBUG] 2021-08-08 01:14:21.465 Main java-ultimate-icons.jar
+[DEBUG] 2021-08-08 01:14:21.465 Main jdkAnnotations.jar
+[DEBUG] 2021-08-08 01:14:21.465 Main jnr-unixsocket-0.23.jar
+[DEBUG] 2021-08-08 01:14:21.465 Main sshj.jar
+[DEBUG] 2021-08-08 01:14:21.465 Main javax.annotation-api-1.3.2.jar
+[DEBUG] 2021-08-08 01:14:21.465 Main commons-codec-1.15.jar
+[DEBUG] 2021-08-08 01:14:21.465 Main miglayout-swing.jar
+[DEBUG] 2021-08-08 01:14:21.465 Main stax-api-1.0.1.jar
+[DEBUG] 2021-08-08 01:14:21.465 Main platform-api.jar
+[DEBUG] 2021-08-08 01:14:21.465 Main resources.jar
+[DEBUG] 2021-08-08 01:14:21.465 Main aapt2-proto-0.3.1.jar
+[DEBUG] 2021-08-08 01:14:21.465 Main java-utils-1.0.6.jar
+[DEBUG] 2021-08-08 01:14:21.465 Main xmlbeans-2.6.0.jar
+[DEBUG] 2021-08-08 01:14:21.465 Main jackson-dataformat-yaml-2.12.1.jar
+[DEBUG] 2021-08-08 01:14:21.465 Main bouncy-castle-provider.jar
+[DEBUG] 2021-08-08 01:14:21.465 Main jna-platform.jar
+[DEBUG] 2021-08-08 01:14:21.465 Main streamex-0.7.3.jar
+[DEBUG] 2021-08-08 01:14:21.465 Main kotlin-reflect-1.4.32.jar
+[DEBUG] 2021-08-08 01:14:21.466 Main jzlib-1.1.3.jar
+[DEBUG] 2021-08-08 01:14:21.466 Main blockmap-1.0.2.jar
+[DEBUG] 2021-08-08 01:14:21.466 Main spellchecker.jar
+[DEBUG] 2021-08-08 01:14:21.466 Main idea.jar
+[DEBUG] 2021-08-08 01:14:21.466 Main java-string-similarity-1.2.1.jar
+[DEBUG] 2021-08-08 01:14:21.466 Main javax.activation-1.2.0.jar
+[DEBUG] 2021-08-08 01:14:21.466 Main maven-resolver-provider.jar
+[DEBUG] 2021-08-08 01:14:21.466 Main owasp-java-html-sanitizer-20191001.1.jar
+[DEBUG] 2021-08-08 01:14:21.466 Main jediterm-pty-2.42.jar
+[DEBUG] 2021-08-08 01:14:21.466 Main isorelax-20030108.jar
+[DEBUG] 2021-08-08 01:14:21.466 Main junit.jar
+[DEBUG] 2021-08-08 01:14:21.466 Main testFramework.jar
+[DEBUG] 2021-08-08 01:14:21.466 Main resources_en.jar
+[DEBUG] 2021-08-08 01:14:21.466 Main xml-apis-ext-1.3.04.jar
+[DEBUG] 2021-08-08 01:14:21.466 Main junixsocket-core.jar
+[DEBUG] 2021-08-08 01:14:21.466 Main annotations.jar
+[DEBUG] 2021-08-08 01:14:21.466 Main intellij-deps-fastutil-8.5.2-6.jar
+[DEBUG] 2021-08-08 01:14:21.466 Main asm-util-7.1.jar
+[DEBUG] 2021-08-08 01:14:21.466 Main org.eclipse.lsp4j-0.10.0.jar
+[DEBUG] 2021-08-08 01:14:21.466 Main swingx-core-1.6.2-2.jar
+[DEBUG] 2021-08-08 01:14:21.467 Main okhttp.jar
+[DEBUG] 2021-08-08 01:14:21.467 Main gson-2.8.6.jar
+[DEBUG] 2021-08-08 01:14:21.467 Main javax.servlet-api-3.0.1.jar
+[DEBUG] 2021-08-08 01:14:21.467 Main sqlite-jdbc-3.34.0.jar
+[DEBUG] 2021-08-08 01:14:21.467 Main log4j.jar
+[DEBUG] 2021-08-08 01:14:21.467 Main netty-buffer.jar
+[DEBUG] 2021-08-08 01:14:21.467 Main intellij-dvcs.jar
+[DEBUG] 2021-08-08 01:14:21.467 Main dexlib2.jar
+[DEBUG] 2021-08-08 01:14:21.467 Main HdrHistogram-2.1.4.jar
+[DEBUG] 2021-08-08 01:14:21.467 Main openapi.jar
+[DEBUG] 2021-08-08 01:14:21.467 Main kotlinx-serialization-core-jvm-1.0.1.jar
+[DEBUG] 2021-08-08 01:14:21.467 Main age in ms: 1628313261467
+[DEBUG] 2021-08-08 01:14:21.467 Main age in ms: 1628313261467
+[DEBUG] 2021-08-08 01:14:21.471 Main listFiles.length: 208
+[DEBUG] 2021-08-08 01:14:21.472 Main file deleted: h2-mvstore-1.4.200.jar
+[DEBUG] 2021-08-08 01:14:21.478 Main file deleted: xml-resolver-1.2.jar
+[DEBUG] 2021-08-08 01:14:21.478 Main file deleted: commons-cli-1.4.jar
+[DEBUG] 2021-08-08 01:14:21.479 Main file deleted: fluent-hc-4.5.13.jar
+[DEBUG] 2021-08-08 01:14:21.479 Main file deleted: testFramework.jar
+[DEBUG] 2021-08-08 01:14:21.479 Main file deleted: intellij-xml.jar
+[DEBUG] 2021-08-08 01:14:21.480 Main file deleted: objenesis-3.1.jar
+[DEBUG] 2021-08-08 01:14:21.480 Main file deleted: proxy-vole.jar
+[DEBUG] 2021-08-08 01:14:21.480 Main file deleted: kryo.jar
+[DEBUG] 2021-08-08 01:14:21.480 Main file deleted: resources.jar
+[DEBUG] 2021-08-08 01:14:21.480 Main file deleted: marketplace-zip-signer-0.1.3.jar
+[DEBUG] 2021-08-08 01:14:21.480 Main file deleted: groovy-2.5.11.jar
+[DEBUG] 2021-08-08 01:14:21.480 Main file deleted: jaxb-runtime.jar
+[DEBUG] 2021-08-08 01:14:21.481 Main file deleted: commons-imaging-1.0-RC-1.jar
+[DEBUG] 2021-08-08 01:14:21.481 Main file deleted: jackson-dataformat-yaml-2.12.1.jar
+[DEBUG] 2021-08-08 01:14:21.481 Main file deleted: kotlin-test.jar
+[DEBUG] 2021-08-08 01:14:21.481 Main file deleted: jing-20030619.jar
+[DEBUG] 2021-08-08 01:14:21.481 Main file deleted: commons-codec-1.15.jar
+[DEBUG] 2021-08-08 01:14:21.481 Main file deleted: sqlite-jdbc-3.34.0.jar
+[DEBUG] 2021-08-08 01:14:21.481 Main file deleted: proto-27.1.1.0.jar
+[DEBUG] 2021-08-08 01:14:21.481 Main file deleted: commons-compress-1.20.jar
+[DEBUG] 2021-08-08 01:14:21.482 Main file deleted: annotations.jar
+[DEBUG] 2021-08-08 01:14:21.482 Main file deleted: automaton-1.12-1.jar
+[DEBUG] 2021-08-08 01:14:21.486 Main file deleted: platform-api.jar
+[DEBUG] 2021-08-08 01:14:21.487 Main file deleted: platform-impl.jar
+[DEBUG] 2021-08-08 01:14:21.487 Main file deleted: jsonpath.jar
+[DEBUG] 2021-08-08 01:14:21.487 Main file deleted: asm-all-9.1.jar
+[DEBUG] 2021-08-08 01:14:21.488 Main file deleted: asm-util-7.1.jar
+[DEBUG] 2021-08-08 01:14:21.488 Main file deleted: cloud-config-client.jar
+[DEBUG] 2021-08-08 01:14:21.488 Main file deleted: jffi-1.2.19.jar
+[DEBUG] 2021-08-08 01:14:21.488 Main file deleted: javax.inject-1.jar
+[DEBUG] 2021-08-08 01:14:21.488 Main file deleted: xmlrpc-2.0.1.jar
+[DEBUG] 2021-08-08 01:14:21.488 Main file deleted: dom-openapi.jar
+[DEBUG] 2021-08-08 01:14:21.489 Main file deleted: junit4.jar
+[DEBUG] 2021-08-08 01:14:21.489 Main file deleted: junixsocket-core.jar
+[DEBUG] 2021-08-08 01:14:21.489 Main file deleted: idea.jar
+[DEBUG] 2021-08-08 01:14:21.489 Main file deleted: stax-api-1.0.1.jar
+[DEBUG] 2021-08-08 01:14:21.490 Main file deleted: winp-1.28.jar
+[DEBUG] 2021-08-08 01:14:21.490 Main file deleted: util.jar
+[DEBUG] 2021-08-08 01:14:21.491 Main file deleted: javax.annotation-api-1.3.2.jar
+[DEBUG] 2021-08-08 01:14:21.491 Main file deleted: libam-instrumentation-data-proto-27.1.1.0.jar
+[DEBUG] 2021-08-08 01:14:21.491 Main file deleted: grpc-kotlin-stub-1.0.0.jar
+[DEBUG] 2021-08-08 01:14:21.491 Main file deleted: commons-logging-1.2.jar
+[DEBUG] 2021-08-08 01:14:21.491 Main file deleted: ngram-slp-0.0.3.jar
+[DEBUG] 2021-08-08 01:14:21.491 Main file deleted: maven-resolver-provider.jar
+[DEBUG] 2021-08-08 01:14:21.492 Main file deleted: commons-net-3.6.jar
+[DEBUG] 2021-08-08 01:14:21.492 Main file deleted: asm-commons-7.1.jar
+[DEBUG] 2021-08-08 01:14:21.492 Main file deleted: javax.activation-1.2.0.jar
+[DEBUG] 2021-08-08 01:14:21.492 Main file deleted: kotlin-gradle-plugin-model-1.4.32.jar
+[DEBUG] 2021-08-08 01:14:21.492 Main file deleted: cli-parser-1.1.5.jar
+[DEBUG] 2021-08-08 01:14:21.492 Main file deleted: slf4j.jar
+[DEBUG] 2021-08-08 01:14:21.492 Main file deleted: isorelax-20030108.jar
+[DEBUG] 2021-08-08 01:14:21.492 Main file deleted: jsch-agent-proxy.jar
+[DEBUG] 2021-08-08 01:14:21.492 Main file deleted: jsch.agentproxy.sshj-0.0.9.jar
+[DEBUG] 2021-08-08 01:14:21.493 Main file deleted: intellij-dvcs.jar
+[DEBUG] 2021-08-08 01:14:21.493 Main file deleted: guava.jar
+[DEBUG] 2021-08-08 01:14:21.493 Main file deleted: ap-validation-0.0.5.jar
+[DEBUG] 2021-08-08 01:14:21.493 Main file deleted: owasp-java-html-sanitizer-20191001.1.jar
+[DEBUG] 2021-08-08 01:14:21.493 Main file deleted: asm-tree-7.1.jar
+[DEBUG] 2021-08-08 01:14:21.493 Main file deleted: batik-transcoder.jar
+[DEBUG] 2021-08-08 01:14:21.494 Main file deleted: jdkAnnotations.jar
+[DEBUG] 2021-08-08 01:14:21.494 Main file deleted: testFramework-java.jar
+[DEBUG] 2021-08-08 01:14:21.495 Main file deleted: intellij-test-discovery-agent-1.0.579.jar
+[DEBUG] 2021-08-08 01:14:21.496 Main file deleted: groovy-templates-2.5.11.jar
+[DEBUG] 2021-08-08 01:14:21.496 Main file deleted: async-profiler-1.8.3.jar
+[DEBUG] 2021-08-08 01:14:21.496 Main file deleted: jnr-constants-0.9.12.jar
+[DEBUG] 2021-08-08 01:14:21.496 Main file deleted: commons-io-2.8.0.jar
+[DEBUG] 2021-08-08 01:14:21.496 Main file deleted: icons.jar
+[DEBUG] 2021-08-08 01:14:21.497 Main file deleted: jackson-core-2.12.0.jar
+[DEBUG] 2021-08-08 01:14:21.497 Main file deleted: snakeyaml-engine-2.2.1.jar
+[DEBUG] 2021-08-08 01:14:21.497 Main file deleted: cglib-nodep-3.2.4.jar
+[DEBUG] 2021-08-08 01:14:21.497 Main file deleted: markdownj-core-0.4.2-SNAPSHOT.jar
+[DEBUG] 2021-08-08 01:14:21.497 Main file deleted: asm-analysis-7.1.jar
+[DEBUG] 2021-08-08 01:14:21.497 Main file deleted: jsch.agentproxy.jsch-0.0.9.jar
+[DEBUG] 2021-08-08 01:14:21.497 Main file deleted: testFramework.core.jar
+[DEBUG] 2021-08-08 01:14:21.497 Main file deleted: spellchecker.jar
+[DEBUG] 2021-08-08 01:14:21.497 Main file deleted: pty4j.jar
+[DEBUG] 2021-08-08 01:14:21.497 Main file deleted: forms-1.1-preview.jar
+[DEBUG] 2021-08-08 01:14:21.498 Main file deleted: coverage-common.jar
+[DEBUG] 2021-08-08 01:14:21.498 Main file deleted: jnr-unixsocket-0.23.jar
+[DEBUG] 2021-08-08 01:14:21.498 Main file deleted: jcip-annotations-1.0.jar
+[DEBUG] 2021-08-08 01:14:21.498 Main file deleted: jcef-87.1.13-g481a82a-chromium-87.0.4280.141-api-1.2.jar
+[DEBUG] 2021-08-08 01:14:21.498 Main file deleted: velocity.jar
+[DEBUG] 2021-08-08 01:14:21.498 Main file deleted: java-compatibility-1.0.1.jar
+[DEBUG] 2021-08-08 01:14:21.498 Main file deleted: groovy-json-2.5.11.jar
+[DEBUG] 2021-08-08 01:14:21.498 Main file deleted: xz-1.8.jar
+[DEBUG] 2021-08-08 01:14:21.498 Main file deleted: rngom-20051226-patched.jar
+[DEBUG] 2021-08-08 01:14:21.498 Main file deleted: tests_bootstrap.jar
+[DEBUG] 2021-08-08 01:14:21.499 Main file deleted: stats.jar
+[DEBUG] 2021-08-08 01:14:21.499 Main file deleted: jps-model.jar
+[DEBUG] 2021-08-08 01:14:21.499 Main file deleted: kotlinx-coroutines-jdk8.jar
+[DEBUG] 2021-08-08 01:14:21.499 Main file deleted: HdrHistogram-2.1.4.jar
+[DEBUG] 2021-08-08 01:14:21.499 Main file deleted: trang-core.jar
+[DEBUG] 2021-08-08 01:14:21.499 Main file deleted: jts-io-common.jar
+[DEBUG] 2021-08-08 01:14:21.499 Main file deleted: netty-handler-proxy.jar
+[DEBUG] 2021-08-08 01:14:21.499 Main file deleted: kotlinx-serialization-json-jvm-1.0.1.jar
+[DEBUG] 2021-08-08 01:14:21.499 Main file deleted: bootstrap.jar
+[DEBUG] 2021-08-08 01:14:21.499 Main file deleted: grpc-stub-1.34.1.jar
+[DEBUG] 2021-08-08 01:14:21.500 Main file deleted: junit.jar
+[DEBUG] 2021-08-08 01:14:21.500 Main file deleted: resources_en.jar
+[DEBUG] 2021-08-08 01:14:21.500 Main file deleted: miglayout-swing.jar
+[DEBUG] 2021-08-08 01:14:21.500 Main file deleted: gson-2.8.6.jar
+[DEBUG] 2021-08-08 01:14:21.500 Main file deleted: grpc-protobuf.jar
+[DEBUG] 2021-08-08 01:14:21.500 Main file deleted: protobuf-java-3.13.0.jar
+[DEBUG] 2021-08-08 01:14:21.500 Main file deleted: commons-lang3-3.10.jar
+[DEBUG] 2021-08-08 01:14:21.500 Main file deleted: platform-statistics-devkit.jar
+[DEBUG] 2021-08-08 01:14:21.500 Main file deleted: jna-platform.jar
+[DEBUG] 2021-08-08 01:14:21.500 Main file deleted: intellij-coverage-agent-1.0.579.jar
+[DEBUG] 2021-08-08 01:14:21.501 Main file deleted: java-utils-1.0.6.jar
+[DEBUG] 2021-08-08 01:14:21.501 Main file deleted: sshj.jar
+[DEBUG] 2021-08-08 01:14:21.501 Main file deleted: jnr-ffi-2.1.10.jar
+[DEBUG] 2021-08-08 01:14:21.501 Main file deleted: classgraph-4.8.102.jar
+[DEBUG] 2021-08-08 01:14:21.501 Main file deleted: dom-impl.jar
+[DEBUG] 2021-08-08 01:14:21.502 Main file deleted: commons-collections-3.2.2.jar
+[DEBUG] 2021-08-08 01:14:21.502 Main file deleted: org.eclipse.lsp4j-0.10.0.jar
+[DEBUG] 2021-08-08 01:14:21.502 Main file deleted: rhino-runtime-1.7.13.jar
+[DEBUG] 2021-08-08 01:14:21.502 Main file deleted: jshell-frontend.jar
+[DEBUG] 2021-08-08 01:14:21.503 Main file deleted: imageio-tiff.jar
+[DEBUG] 2021-08-08 01:14:21.503 Main file deleted: jnr-x86asm-1.0.2.jar
+[DEBUG] 2021-08-08 01:14:21.503 Main file deleted: kxml2-2.3.0.jar
+[DEBUG] 2021-08-08 01:14:21.503 Main file deleted: groovy-xml-2.5.11.jar
+[DEBUG] 2021-08-08 01:14:21.503 Main file deleted: forms_rt.jar
+[DEBUG] 2021-08-08 01:14:21.504 Main file deleted: jnr-posix-3.0.50.jar
+[DEBUG] 2021-08-08 01:14:21.504 Main file deleted: rd-core-0.211.234.jar
+[DEBUG] 2021-08-08 01:14:21.504 Main file deleted: ini4j-0.5.5-2.jar
+[DEBUG] 2021-08-08 01:14:21.504 Main file deleted: caffeine-2.8.8.jar
+[DEBUG] 2021-08-08 01:14:21.504 Main file deleted: xercesImpl-2.12.0.jar
+[DEBUG] 2021-08-08 01:14:21.507 Main file deleted: xmlbeans-2.6.0.jar
+[DEBUG] 2021-08-08 01:14:21.507 Main file deleted: jackson-databind.jar
+[DEBUG] 2021-08-08 01:14:21.508 Main file deleted: log4j.jar
+[DEBUG] 2021-08-08 01:14:21.508 Main file deleted: rocksdbjni-6.15.2.jar
+[DEBUG] 2021-08-08 01:14:21.508 Main file deleted: icu4j-67.1.jar
+[DEBUG] 2021-08-08 01:14:21.508 Main file deleted: java-ultimate-icons.jar
+[DEBUG] 2021-08-08 01:14:21.510 Main file deleted: grpc-core.jar
+[DEBUG] 2021-08-08 01:14:21.510 Main file deleted: groovy-jsr223-2.5.11.jar
+[DEBUG] 2021-08-08 01:14:21.510 Main file deleted: error_prone_annotations-2.3.1.jar
+[DEBUG] 2021-08-08 01:14:21.510 Main file deleted: jsp-base-openapi.jar
+[DEBUG] 2021-08-08 01:14:21.510 Main file deleted: lz4-java-1.7.1.jar
+[DEBUG] 2021-08-08 01:14:21.510 Main file deleted: microba.jar
+[DEBUG] 2021-08-08 01:14:21.511 Main file deleted: javax.servlet-api-3.0.1.jar
+[DEBUG] 2021-08-08 01:14:21.511 Main file deleted: jsoup-1.12.1.jar
+[DEBUG] 2021-08-08 01:14:21.511 Main file deleted: rd-swing-0.211.234.jar
+[DEBUG] 2021-08-08 01:14:21.511 Main file deleted: qdox-2.0.0.jar
+[DEBUG] 2021-08-08 01:14:21.511 Main file deleted: streamex-0.7.3.jar
+[DEBUG] 2021-08-08 01:14:21.511 Main file deleted: asm-7.1.jar
+[DEBUG] 2021-08-08 01:14:21.511 Main file deleted: json.jar
+[DEBUG] 2021-08-08 01:14:21.511 Main file deleted: imgscalr-lib-4.2.jar
+[DEBUG] 2021-08-08 01:14:21.511 Main file deleted: jsch-0.1.55.jar
+[DEBUG] 2021-08-08 01:14:21.511 Main file deleted: grazie-spellchecker-0.1.9.jar
+[DEBUG] 2021-08-08 01:14:21.512 Main file deleted: java-string-similarity-1.2.1.jar
+[DEBUG] 2021-08-08 01:14:21.512 Main file deleted: trove4j.jar
+[DEBUG] 2021-08-08 01:14:21.512 Main file deleted: markdown4j-2.2-cj-1.1.jar
+[DEBUG] 2021-08-08 01:14:21.512 Main file deleted: kotlinx-serialization-core-jvm-1.0.1.jar
+[DEBUG] 2021-08-08 01:14:21.512 Main file deleted: jdom.jar
+[DEBUG] 2021-08-08 01:14:21.512 Main file deleted: roaringbitmap.jar
+[DEBUG] 2021-08-08 01:14:21.512 Main file deleted: jffi-1.2.19-native.jar
+[DEBUG] 2021-08-08 01:14:21.512 Main file deleted: nanoxml-2.2.3.jar
+[DEBUG] 2021-08-08 01:14:21.512 Main file deleted: uast-tests.jar
+[DEBUG] 2021-08-08 01:14:21.512 Main file deleted: okhttp.jar
+[DEBUG] 2021-08-08 01:14:21.512 Main file deleted: jettison-1.4.0.jar
+[DEBUG] 2021-08-08 01:14:21.513 Main file deleted: netty-codec-http.jar
+[DEBUG] 2021-08-08 01:14:21.513 Main file deleted: jaxen-1.2.0.jar
+[DEBUG] 2021-08-08 01:14:21.513 Main file deleted: kotlin-reflect-1.4.32.jar
+[DEBUG] 2021-08-08 01:14:21.513 Main file deleted: plexus-utils-3.3.0.jar
+[DEBUG] 2021-08-08 01:14:21.513 Main file deleted: javax.servlet.jsp-api-2.2.1.jar
+[DEBUG] 2021-08-08 01:14:21.513 Main file deleted: swingx-core-1.6.2-2.jar
+[DEBUG] 2021-08-08 01:14:21.513 Main file deleted: byte-buddy-agent-1.10.1.jar
+[DEBUG] 2021-08-08 01:14:21.513 Main file deleted: xml-apis-ext-1.3.04.jar
+[DEBUG] 2021-08-08 01:14:21.513 Main file deleted: tips-intellij-idea-211.34.jar
+[DEBUG] 2021-08-08 01:14:21.513 Main file deleted: jackson-module-kotlin-2.12.0.jar
+[DEBUG] 2021-08-08 01:14:21.514 Main file deleted: commons-httpclient-3.1-patched.jar
+[DEBUG] 2021-08-08 01:14:21.514 Main file deleted: jediterm-pty-2.42.jar
+[DEBUG] 2021-08-08 01:14:21.514 Main file deleted: build-marker-IU-211.7628.21
+[DEBUG] 2021-08-08 01:14:21.514 Main file deleted: batik-codec-1.14.0-24.jar
+[DEBUG] 2021-08-08 01:14:21.514 Main file deleted: openapi.jar
+[DEBUG] 2021-08-08 01:14:21.514 Main file deleted: bouncy-castle-provider.jar
+[DEBUG] 2021-08-08 01:14:21.514 Main file deleted: blockmap-1.0.2.jar
+[DEBUG] 2021-08-08 01:14:21.514 Main file deleted: idea_rt.jar
+[DEBUG] 2021-08-08 01:14:21.514 Main file deleted: jaxb-api-2.3.1.jar
+[DEBUG] 2021-08-08 01:14:21.514 Main file deleted: dbus-java-3.2.1.jar
+[DEBUG] 2021-08-08 01:14:21.515 Main file deleted: baksmali-2.2.4.jar
+[DEBUG] 2021-08-08 01:14:21.515 Main file deleted: intellij-deps-fastutil-8.5.2-6.jar
+[DEBUG] 2021-08-08 01:14:21.515 Main file deleted: external-system-rt.jar
+[DEBUG] 2021-08-08 01:14:21.515 Main file deleted: org.eclipse.lsp4j.jsonrpc-0.10.0.jar
+[DEBUG] 2021-08-08 01:14:21.515 Main file deleted: jnr-enxio-0.21.jar
+[DEBUG] 2021-08-08 01:14:21.515 Main file deleted: jetCheck-0.2.2.jar
+[DEBUG] 2021-08-08 01:14:21.515 Main file deleted: serviceMessages-2019.1.4.jar
+[DEBUG] 2021-08-08 01:14:21.515 Main file deleted: joni.jar
+[DEBUG] 2021-08-08 01:14:21.515 Main file deleted: core-3.4.0.jar
+[DEBUG] 2021-08-08 01:14:21.515 Main file deleted: platform-objectSerializer-annotations.jar
+[DEBUG] 2021-08-08 01:14:21.516 Main file deleted: jb-jdi-2.4.jar
+[DEBUG] 2021-08-08 01:14:21.516 Main file deleted: ktor-websockets-1.5.0.jar
+[DEBUG] 2021-08-08 01:14:21.516 Main file deleted: jnr-a64asm-1.0.0.jar
+[DEBUG] 2021-08-08 01:14:21.516 Main file deleted: libstudio.proto-27.1.1.0.jar
+[DEBUG] 2021-08-08 01:14:21.516 Main file deleted: aapt2-proto-0.3.1.jar
+[DEBUG] 2021-08-08 01:14:21.516 Main file deleted: dexlib2.jar
+[DEBUG] 2021-08-08 01:14:21.516 Main file deleted: jzlib-1.1.3.jar
+[DEBUG] 2021-08-08 01:14:21.517 Main file deleted: jna.jar
+[DEBUG] 2021-08-08 01:14:21.517 Main file deleted: http-client.jar
+[DEBUG] 2021-08-08 01:14:21.517 Main file deleted: ion-java-1.6.2-3.jar
+[DEBUG] 2021-08-08 01:14:21.517 Main file deleted: kotlin-stdlib-jdk8.jar
+[DEBUG] 2021-08-08 01:14:21.517 Main file deleted: oro-2.0.8.jar
+[DEBUG] 2021-08-08 01:14:21.517 Main file deleted: markdown-0.1.41.jar
+[DEBUG] 2021-08-08 01:14:21.517 Main file deleted: netty-buffer.jar
+[DEBUG] 2021-08-08 01:14:21.517 Main file deleted: rd-framework-0.211.234.jar
+[DEBUG] 2021-08-08 01:14:21.517 Main file deleted: xstream.jar
+[DEBUG] 2021-08-08 01:14:21.517 Main file deleted: snakeyaml-1.27.jar
+[DEBUG] 2021-08-08 01:14:21.517 Main file deleted: grpc-netty-shaded-1.34.1.jar
+[DEBUG] 2021-08-08 01:14:21.518 Main main() done.
+[DEBUG] 2021-08-08 01:15:08.615 Main main() started...
+[DEBUG] 2021-08-08 01:15:08.620 Main dir path: /opt/idea-IU-211.7628.21/license
+[DEBUG] 2021-08-08 01:15:08.622 Main List of files in the specified directory:
+[DEBUG] 2021-08-08 01:15:08.623 Main file name: miglayout_swing_license.txt
+[DEBUG] 2021-08-08 01:15:08.623 Main file path: /opt/idea-IU-211.7628.21/license/miglayout_swing_license.txt
+[DEBUG] 2021-08-08 01:15:08.623 Main file abs path: /opt/idea-IU-211.7628.21/license/miglayout_swing_license.txt
+[DEBUG] 2021-08-08 01:15:08.623 Main file can path: /opt/idea-IU-211.7628.21/license/miglayout_swing_license.txt
+[DEBUG] 2021-08-08 01:15:08.623 Main file name: winp_license.txt
+[DEBUG] 2021-08-08 01:15:08.624 Main file path: /opt/idea-IU-211.7628.21/license/winp_license.txt
+[DEBUG] 2021-08-08 01:15:08.624 Main file abs path: /opt/idea-IU-211.7628.21/license/winp_license.txt
+[DEBUG] 2021-08-08 01:15:08.624 Main file can path: /opt/idea-IU-211.7628.21/license/winp_license.txt
+[DEBUG] 2021-08-08 01:15:08.624 Main file name: jaxen_license.txt
+[DEBUG] 2021-08-08 01:15:08.624 Main file path: /opt/idea-IU-211.7628.21/license/jaxen_license.txt
+[DEBUG] 2021-08-08 01:15:08.624 Main file abs path: /opt/idea-IU-211.7628.21/license/jaxen_license.txt
+[DEBUG] 2021-08-08 01:15:08.625 Main file can path: /opt/idea-IU-211.7628.21/license/jaxen_license.txt
+[DEBUG] 2021-08-08 01:15:08.625 Main file name: log4j_license.txt
+[DEBUG] 2021-08-08 01:15:08.625 Main file path: /opt/idea-IU-211.7628.21/license/log4j_license.txt
+[DEBUG] 2021-08-08 01:15:08.625 Main file abs path: /opt/idea-IU-211.7628.21/license/log4j_license.txt
+[DEBUG] 2021-08-08 01:15:08.625 Main file can path: /opt/idea-IU-211.7628.21/license/log4j_license.txt
+[DEBUG] 2021-08-08 01:15:08.625 Main file name: servletJAR_license.txt
+[DEBUG] 2021-08-08 01:15:08.626 Main file path: /opt/idea-IU-211.7628.21/license/servletJAR_license.txt
+[DEBUG] 2021-08-08 01:15:08.626 Main file abs path: /opt/idea-IU-211.7628.21/license/servletJAR_license.txt
+[DEBUG] 2021-08-08 01:15:08.626 Main file can path: /opt/idea-IU-211.7628.21/license/servletJAR_license.txt
+[DEBUG] 2021-08-08 01:15:08.626 Main file name: saxon-conditions.html
+[DEBUG] 2021-08-08 01:15:08.626 Main file path: /opt/idea-IU-211.7628.21/license/saxon-conditions.html
+[DEBUG] 2021-08-08 01:15:08.626 Main file abs path: /opt/idea-IU-211.7628.21/license/saxon-conditions.html
+[DEBUG] 2021-08-08 01:15:08.627 Main file can path: /opt/idea-IU-211.7628.21/license/saxon-conditions.html
+[DEBUG] 2021-08-08 01:15:08.627 Main file name: j2ee_license.txt
+[DEBUG] 2021-08-08 01:15:08.627 Main file path: /opt/idea-IU-211.7628.21/license/j2ee_license.txt
+[DEBUG] 2021-08-08 01:15:08.627 Main file abs path: /opt/idea-IU-211.7628.21/license/j2ee_license.txt
+[DEBUG] 2021-08-08 01:15:08.627 Main file can path: /opt/idea-IU-211.7628.21/license/j2ee_license.txt
+[DEBUG] 2021-08-08 01:15:08.627 Main file name: nanoxml_license.txt
+[DEBUG] 2021-08-08 01:15:08.628 Main file path: /opt/idea-IU-211.7628.21/license/nanoxml_license.txt
+[DEBUG] 2021-08-08 01:15:08.628 Main file abs path: /opt/idea-IU-211.7628.21/license/nanoxml_license.txt
+[DEBUG] 2021-08-08 01:15:08.628 Main file can path: /opt/idea-IU-211.7628.21/license/nanoxml_license.txt
+[DEBUG] 2021-08-08 01:15:08.628 Main file name: swingx_license.txt
+[DEBUG] 2021-08-08 01:15:08.628 Main file path: /opt/idea-IU-211.7628.21/license/swingx_license.txt
+[DEBUG] 2021-08-08 01:15:08.628 Main file abs path: /opt/idea-IU-211.7628.21/license/swingx_license.txt
+[DEBUG] 2021-08-08 01:15:08.629 Main file can path: /opt/idea-IU-211.7628.21/license/swingx_license.txt
+[DEBUG] 2021-08-08 01:15:08.629 Main file name: gson_license.txt
+[DEBUG] 2021-08-08 01:15:08.629 Main file path: /opt/idea-IU-211.7628.21/license/gson_license.txt
+[DEBUG] 2021-08-08 01:15:08.629 Main file abs path: /opt/idea-IU-211.7628.21/license/gson_license.txt
+[DEBUG] 2021-08-08 01:15:08.629 Main file can path: /opt/idea-IU-211.7628.21/license/gson_license.txt
+[DEBUG] 2021-08-08 01:15:08.629 Main file name: javolution_license.txt
+[DEBUG] 2021-08-08 01:15:08.629 Main file path: /opt/idea-IU-211.7628.21/license/javolution_license.txt
+[DEBUG] 2021-08-08 01:15:08.630 Main file abs path: /opt/idea-IU-211.7628.21/license/javolution_license.txt
+[DEBUG] 2021-08-08 01:15:08.630 Main file can path: /opt/idea-IU-211.7628.21/license/javolution_license.txt
+[DEBUG] 2021-08-08 01:15:08.630 Main file name: eclipse_license2.txt
+[DEBUG] 2021-08-08 01:15:08.630 Main file path: /opt/idea-IU-211.7628.21/license/eclipse_license2.txt
+[DEBUG] 2021-08-08 01:15:08.630 Main file abs path: /opt/idea-IU-211.7628.21/license/eclipse_license2.txt
+[DEBUG] 2021-08-08 01:15:08.630 Main file can path: /opt/idea-IU-211.7628.21/license/eclipse_license2.txt
+[DEBUG] 2021-08-08 01:15:08.631 Main file name: microba_license.txt
+[DEBUG] 2021-08-08 01:15:08.631 Main file path: /opt/idea-IU-211.7628.21/license/microba_license.txt
+[DEBUG] 2021-08-08 01:15:08.631 Main file abs path: /opt/idea-IU-211.7628.21/license/microba_license.txt
+[DEBUG] 2021-08-08 01:15:08.631 Main file can path: /opt/idea-IU-211.7628.21/license/microba_license.txt
+[DEBUG] 2021-08-08 01:15:08.631 Main file name: XStream_license.txt
+[DEBUG] 2021-08-08 01:15:08.631 Main file path: /opt/idea-IU-211.7628.21/license/XStream_license.txt
+[DEBUG] 2021-08-08 01:15:08.631 Main file abs path: /opt/idea-IU-211.7628.21/license/XStream_license.txt
+[DEBUG] 2021-08-08 01:15:08.632 Main file can path: /opt/idea-IU-211.7628.21/license/XStream_license.txt
+[DEBUG] 2021-08-08 01:15:08.632 Main file name: jasper_license.txt
+[DEBUG] 2021-08-08 01:15:08.632 Main file path: /opt/idea-IU-211.7628.21/license/jasper_license.txt
+[DEBUG] 2021-08-08 01:15:08.632 Main file abs path: /opt/idea-IU-211.7628.21/license/jasper_license.txt
+[DEBUG] 2021-08-08 01:15:08.632 Main file can path: /opt/idea-IU-211.7628.21/license/jasper_license.txt
+[DEBUG] 2021-08-08 01:15:08.632 Main file name: kryo-license.txt
+[DEBUG] 2021-08-08 01:15:08.633 Main file path: /opt/idea-IU-211.7628.21/license/kryo-license.txt
+[DEBUG] 2021-08-08 01:15:08.633 Main file abs path: /opt/idea-IU-211.7628.21/license/kryo-license.txt
+[DEBUG] 2021-08-08 01:15:08.633 Main file can path: /opt/idea-IU-211.7628.21/license/kryo-license.txt
+[DEBUG] 2021-08-08 01:15:08.633 Main file name: junit_license.txt
+[DEBUG] 2021-08-08 01:15:08.633 Main file path: /opt/idea-IU-211.7628.21/license/junit_license.txt
+[DEBUG] 2021-08-08 01:15:08.633 Main file abs path: /opt/idea-IU-211.7628.21/license/junit_license.txt
+[DEBUG] 2021-08-08 01:15:08.634 Main file can path: /opt/idea-IU-211.7628.21/license/junit_license.txt
+[DEBUG] 2021-08-08 01:15:08.634 Main file name: javaeeJar-CDDLv1.0.txt
+[DEBUG] 2021-08-08 01:15:08.634 Main file path: /opt/idea-IU-211.7628.21/license/javaeeJar-CDDLv1.0.txt
+[DEBUG] 2021-08-08 01:15:08.634 Main file abs path: /opt/idea-IU-211.7628.21/license/javaeeJar-CDDLv1.0.txt
+[DEBUG] 2021-08-08 01:15:08.634 Main file can path: /opt/idea-IU-211.7628.21/license/javaeeJar-CDDLv1.0.txt
+[DEBUG] 2021-08-08 01:15:08.634 Main file name: third-party-libraries.html
+[DEBUG] 2021-08-08 01:15:08.635 Main file path: /opt/idea-IU-211.7628.21/license/third-party-libraries.html
+[DEBUG] 2021-08-08 01:15:08.635 Main file abs path: /opt/idea-IU-211.7628.21/license/third-party-libraries.html
+[DEBUG] 2021-08-08 01:15:08.635 Main file can path: /opt/idea-IU-211.7628.21/license/third-party-libraries.html
+[DEBUG] 2021-08-08 01:15:08.635 Main file name: trove4j_license.txt
+[DEBUG] 2021-08-08 01:15:08.635 Main file path: /opt/idea-IU-211.7628.21/license/trove4j_license.txt
+[DEBUG] 2021-08-08 01:15:08.635 Main file abs path: /opt/idea-IU-211.7628.21/license/trove4j_license.txt
+[DEBUG] 2021-08-08 01:15:08.636 Main file can path: /opt/idea-IU-211.7628.21/license/trove4j_license.txt
+[DEBUG] 2021-08-08 01:15:08.636 Main file name: xerces_license.txt
+[DEBUG] 2021-08-08 01:15:08.636 Main file path: /opt/idea-IU-211.7628.21/license/xerces_license.txt
+[DEBUG] 2021-08-08 01:15:08.636 Main file abs path: /opt/idea-IU-211.7628.21/license/xerces_license.txt
+[DEBUG] 2021-08-08 01:15:08.636 Main file can path: /opt/idea-IU-211.7628.21/license/xerces_license.txt
+[DEBUG] 2021-08-08 01:15:08.636 Main file name: jaxb_license.txt
+[DEBUG] 2021-08-08 01:15:08.636 Main file path: /opt/idea-IU-211.7628.21/license/jaxb_license.txt
+[DEBUG] 2021-08-08 01:15:08.637 Main file abs path: /opt/idea-IU-211.7628.21/license/jaxb_license.txt
+[DEBUG] 2021-08-08 01:15:08.637 Main file can path: /opt/idea-IU-211.7628.21/license/jaxb_license.txt
+[DEBUG] 2021-08-08 01:15:08.637 Main file name: growl.license
+[DEBUG] 2021-08-08 01:15:08.637 Main file path: /opt/idea-IU-211.7628.21/license/growl.license
+[DEBUG] 2021-08-08 01:15:08.637 Main file abs path: /opt/idea-IU-211.7628.21/license/growl.license
+[DEBUG] 2021-08-08 01:15:08.637 Main file can path: /opt/idea-IU-211.7628.21/license/growl.license
+[DEBUG] 2021-08-08 01:15:08.638 Main file name: asm_license.txt
+[DEBUG] 2021-08-08 01:15:08.638 Main file path: /opt/idea-IU-211.7628.21/license/asm_license.txt
+[DEBUG] 2021-08-08 01:15:08.638 Main file abs path: /opt/idea-IU-211.7628.21/license/asm_license.txt
+[DEBUG] 2021-08-08 01:15:08.638 Main file can path: /opt/idea-IU-211.7628.21/license/asm_license.txt
+[DEBUG] 2021-08-08 01:15:08.638 Main file name: xmlrpc_license.txt
+[DEBUG] 2021-08-08 01:15:08.638 Main file path: /opt/idea-IU-211.7628.21/license/xmlrpc_license.txt
+[DEBUG] 2021-08-08 01:15:08.639 Main file abs path: /opt/idea-IU-211.7628.21/license/xmlrpc_license.txt
+[DEBUG] 2021-08-08 01:15:08.639 Main file can path: /opt/idea-IU-211.7628.21/license/xmlrpc_license.txt
+[DEBUG] 2021-08-08 01:15:08.639 Main file name: jdom_license.txt
+[DEBUG] 2021-08-08 01:15:08.639 Main file path: /opt/idea-IU-211.7628.21/license/jdom_license.txt
+[DEBUG] 2021-08-08 01:15:08.639 Main file abs path: /opt/idea-IU-211.7628.21/license/jdom_license.txt
+[DEBUG] 2021-08-08 01:15:08.639 Main file can path: /opt/idea-IU-211.7628.21/license/jdom_license.txt
+[DEBUG] 2021-08-08 01:15:08.639 Main file name: oromatcher_license.txt
+[DEBUG] 2021-08-08 01:15:08.640 Main file path: /opt/idea-IU-211.7628.21/license/oromatcher_license.txt
+[DEBUG] 2021-08-08 01:15:08.640 Main file abs path: /opt/idea-IU-211.7628.21/license/oromatcher_license.txt
+[DEBUG] 2021-08-08 01:15:08.640 Main file can path: /opt/idea-IU-211.7628.21/license/oromatcher_license.txt
+[DEBUG] 2021-08-08 01:15:08.640 Main file name: picoContainer_license.txt
+[DEBUG] 2021-08-08 01:15:08.640 Main file path: /opt/idea-IU-211.7628.21/license/picoContainer_license.txt
+[DEBUG] 2021-08-08 01:15:08.640 Main file abs path: /opt/idea-IU-211.7628.21/license/picoContainer_license.txt
+[DEBUG] 2021-08-08 01:15:08.641 Main file can path: /opt/idea-IU-211.7628.21/license/picoContainer_license.txt
+[DEBUG] 2021-08-08 01:15:08.641 Main file name: jgoodies_forms_license.txt
+[DEBUG] 2021-08-08 01:15:08.641 Main file path: /opt/idea-IU-211.7628.21/license/jgoodies_forms_license.txt
+[DEBUG] 2021-08-08 01:15:08.641 Main file abs path: /opt/idea-IU-211.7628.21/license/jgoodies_forms_license.txt
+[DEBUG] 2021-08-08 01:15:08.641 Main file can path: /opt/idea-IU-211.7628.21/license/jgoodies_forms_license.txt
+[DEBUG] 2021-08-08 01:15:08.641 Main file name: eclipse_license.txt
+[DEBUG] 2021-08-08 01:15:08.642 Main file path: /opt/idea-IU-211.7628.21/license/eclipse_license.txt
+[DEBUG] 2021-08-08 01:15:08.642 Main file abs path: /opt/idea-IU-211.7628.21/license/eclipse_license.txt
+[DEBUG] 2021-08-08 01:15:08.642 Main file can path: /opt/idea-IU-211.7628.21/license/eclipse_license.txt
+[DEBUG] 2021-08-08 01:15:08.642 Main file name: imgscalr_license.txt
+[DEBUG] 2021-08-08 01:15:08.642 Main file path: /opt/idea-IU-211.7628.21/license/imgscalr_license.txt
+[DEBUG] 2021-08-08 01:15:08.642 Main file abs path: /opt/idea-IU-211.7628.21/license/imgscalr_license.txt
+[DEBUG] 2021-08-08 01:15:08.643 Main file can path: /opt/idea-IU-211.7628.21/license/imgscalr_license.txt
+[DEBUG] 2021-08-08 01:15:08.643 Main file name: ant_license.txt
+[DEBUG] 2021-08-08 01:15:08.643 Main file path: /opt/idea-IU-211.7628.21/license/ant_license.txt
+[DEBUG] 2021-08-08 01:15:08.643 Main file abs path: /opt/idea-IU-211.7628.21/license/ant_license.txt
+[DEBUG] 2021-08-08 01:15:08.643 Main file can path: /opt/idea-IU-211.7628.21/license/ant_license.txt
+[DEBUG] 2021-08-08 01:15:08.644 Main file name: yourkit-license-redist.txt
+[DEBUG] 2021-08-08 01:15:08.644 Main file path: /opt/idea-IU-211.7628.21/license/yourkit-license-redist.txt
+[DEBUG] 2021-08-08 01:15:08.644 Main file abs path: /opt/idea-IU-211.7628.21/license/yourkit-license-redist.txt
+[DEBUG] 2021-08-08 01:15:08.644 Main file can path: /opt/idea-IU-211.7628.21/license/yourkit-license-redist.txt
+[DEBUG] 2021-08-08 01:15:08.644 Main file name: javahelp_license.txt
+[DEBUG] 2021-08-08 01:15:08.644 Main file path: /opt/idea-IU-211.7628.21/license/javahelp_license.txt
+[DEBUG] 2021-08-08 01:15:08.644 Main file abs path: /opt/idea-IU-211.7628.21/license/javahelp_license.txt
+[DEBUG] 2021-08-08 01:15:08.645 Main file can path: /opt/idea-IU-211.7628.21/license/javahelp_license.txt
+[DEBUG] 2021-08-08 01:15:08.657 Main List of files in the specified directory:
+[DEBUG] 2021-08-08 01:15:08.657 Main trove4j_license.txt
+[DEBUG] 2021-08-08 01:15:08.658 Main winp_license.txt
+[DEBUG] 2021-08-08 01:15:08.658 Main nanoxml_license.txt
+[DEBUG] 2021-08-08 01:15:08.658 Main asm_license.txt
+[DEBUG] 2021-08-08 01:15:08.658 Main picoContainer_license.txt
+[DEBUG] 2021-08-08 01:15:08.658 Main jasper_license.txt
+[DEBUG] 2021-08-08 01:15:08.658 Main oromatcher_license.txt
+[DEBUG] 2021-08-08 01:15:08.658 Main gson_license.txt
+[DEBUG] 2021-08-08 01:15:08.659 Main servletJAR_license.txt
+[DEBUG] 2021-08-08 01:15:08.659 Main third-party-libraries.html
+[DEBUG] 2021-08-08 01:15:08.659 Main swingx_license.txt
+[DEBUG] 2021-08-08 01:15:08.659 Main microba_license.txt
+[DEBUG] 2021-08-08 01:15:08.659 Main miglayout_swing_license.txt
+[DEBUG] 2021-08-08 01:15:08.659 Main eclipse_license.txt
+[DEBUG] 2021-08-08 01:15:08.659 Main log4j_license.txt
+[DEBUG] 2021-08-08 01:15:08.659 Main ant_license.txt
+[DEBUG] 2021-08-08 01:15:08.660 Main yourkit-license-redist.txt
+[DEBUG] 2021-08-08 01:15:08.660 Main xerces_license.txt
+[DEBUG] 2021-08-08 01:15:08.660 Main XStream_license.txt
+[DEBUG] 2021-08-08 01:15:08.660 Main jaxb_license.txt
+[DEBUG] 2021-08-08 01:15:08.660 Main jaxen_license.txt
+[DEBUG] 2021-08-08 01:15:08.660 Main growl.license
+[DEBUG] 2021-08-08 01:15:08.660 Main jdom_license.txt
+[DEBUG] 2021-08-08 01:15:08.660 Main jgoodies_forms_license.txt
+[DEBUG] 2021-08-08 01:15:08.661 Main javahelp_license.txt
+[DEBUG] 2021-08-08 01:15:08.661 Main imgscalr_license.txt
+[DEBUG] 2021-08-08 01:15:08.661 Main eclipse_license2.txt
+[DEBUG] 2021-08-08 01:15:08.661 Main javaeeJar-CDDLv1.0.txt
+[DEBUG] 2021-08-08 01:15:08.661 Main j2ee_license.txt
+[DEBUG] 2021-08-08 01:15:08.661 Main saxon-conditions.html
+[DEBUG] 2021-08-08 01:15:08.661 Main junit_license.txt
+[DEBUG] 2021-08-08 01:15:08.661 Main kryo-license.txt
+[DEBUG] 2021-08-08 01:15:08.662 Main javolution_license.txt
+[DEBUG] 2021-08-08 01:15:08.662 Main xmlrpc_license.txt
+[DEBUG] 2021-08-08 01:15:08.662 Main age in ms: 1628313308662
+[DEBUG] 2021-08-08 01:15:08.662 Main age in ms: 1628313308662
+[DEBUG] 2021-08-08 01:15:08.664 Main listFiles.length: 34
+[DEBUG] 2021-08-08 01:15:08.665 Main file deleted: miglayout_swing_license.txt
+[DEBUG] 2021-08-08 01:15:08.666 Main file deleted: winp_license.txt
+[DEBUG] 2021-08-08 01:15:08.666 Main file deleted: jaxen_license.txt
+[DEBUG] 2021-08-08 01:15:08.666 Main file deleted: log4j_license.txt
+[DEBUG] 2021-08-08 01:15:08.666 Main file deleted: servletJAR_license.txt
+[DEBUG] 2021-08-08 01:15:08.666 Main file deleted: saxon-conditions.html
+[DEBUG] 2021-08-08 01:15:08.667 Main file deleted: j2ee_license.txt
+[DEBUG] 2021-08-08 01:15:08.667 Main file deleted: nanoxml_license.txt
+[DEBUG] 2021-08-08 01:15:08.667 Main file deleted: swingx_license.txt
+[DEBUG] 2021-08-08 01:15:08.667 Main file deleted: gson_license.txt
+[DEBUG] 2021-08-08 01:15:08.668 Main file deleted: javolution_license.txt
+[DEBUG] 2021-08-08 01:15:08.668 Main file deleted: eclipse_license2.txt
+[DEBUG] 2021-08-08 01:15:08.668 Main file deleted: microba_license.txt
+[DEBUG] 2021-08-08 01:15:08.668 Main file deleted: XStream_license.txt
+[DEBUG] 2021-08-08 01:15:08.668 Main file deleted: jasper_license.txt
+[DEBUG] 2021-08-08 01:15:08.669 Main file deleted: kryo-license.txt
+[DEBUG] 2021-08-08 01:15:08.669 Main file deleted: junit_license.txt
+[DEBUG] 2021-08-08 01:15:08.669 Main file deleted: javaeeJar-CDDLv1.0.txt
+[DEBUG] 2021-08-08 01:15:08.669 Main file deleted: third-party-libraries.html
+[DEBUG] 2021-08-08 01:15:08.669 Main file deleted: trove4j_license.txt
+[DEBUG] 2021-08-08 01:15:08.669 Main file deleted: xerces_license.txt
+[DEBUG] 2021-08-08 01:15:08.670 Main file deleted: jaxb_license.txt
+[DEBUG] 2021-08-08 01:15:08.670 Main file deleted: growl.license
+[DEBUG] 2021-08-08 01:15:08.670 Main file deleted: asm_license.txt
+[DEBUG] 2021-08-08 01:15:08.670 Main file deleted: xmlrpc_license.txt
+[DEBUG] 2021-08-08 01:15:08.670 Main file deleted: jdom_license.txt
+[DEBUG] 2021-08-08 01:15:08.671 Main file deleted: oromatcher_license.txt
+[DEBUG] 2021-08-08 01:15:08.671 Main file deleted: picoContainer_license.txt
+[DEBUG] 2021-08-08 01:15:08.671 Main file deleted: jgoodies_forms_license.txt
+[DEBUG] 2021-08-08 01:15:08.671 Main file deleted: eclipse_license.txt
+[DEBUG] 2021-08-08 01:15:08.671 Main file deleted: imgscalr_license.txt
+[DEBUG] 2021-08-08 01:15:08.671 Main file deleted: ant_license.txt
+[DEBUG] 2021-08-08 01:15:08.672 Main file deleted: yourkit-license-redist.txt
+[DEBUG] 2021-08-08 01:15:08.672 Main file deleted: javahelp_license.txt
+[DEBUG] 2021-08-08 01:15:08.672 Main main() done.
+[DEBUG] 2021-08-08 01:15:12.365 Main main() started...
+[DEBUG] 2021-08-08 01:15:12.372 Main dir path: /opt/idea-IU-211.7628.21/license
+[DEBUG] 2021-08-08 01:15:12.374 Main List of files in the specified directory:
+[DEBUG] 2021-08-08 01:15:12.384 Main List of files in the specified directory:
+[DEBUG] 2021-08-08 01:15:12.384 Main age in ms: 1628313312384
+[DEBUG] 2021-08-08 01:15:12.384 Main age in ms: 1628313312384
+[DEBUG] 2021-08-08 01:15:12.388 Main listFiles.length: 0
+[DEBUG] 2021-08-08 01:15:12.390 Main main() done.
+[DEBUG] 2021-08-08 01:15:36.043 Main main() started...
+[DEBUG] 2021-08-08 01:15:36.048 Main dir path: /opt/idea-IU-211.7628.21/plugins
+[DEBUG] 2021-08-08 01:15:36.052 Main List of files in the specified directory:
+[DEBUG] 2021-08-08 01:15:36.063 Main List of files in the specified directory:
+[DEBUG] 2021-08-08 01:15:36.063 Main age in ms: 1628313336063
+[DEBUG] 2021-08-08 01:15:36.063 Main age in ms: 1628313336063
+[DEBUG] 2021-08-08 01:15:36.067 Main listFiles.length: 0
+[DEBUG] 2021-08-08 01:15:36.068 Main main() done.
+[DEBUG] 2021-08-08 01:15:48.958 Main main() started...
+[DEBUG] 2021-08-08 01:15:48.964 Main dir path: /opt/idea-IU-211.7628.21/redist
+[DEBUG] 2021-08-08 01:15:48.965 Main List of files in the specified directory:
+[DEBUG] 2021-08-08 01:15:48.966 Main file name: annotations-java8.jar
+[DEBUG] 2021-08-08 01:15:48.966 Main file path: /opt/idea-IU-211.7628.21/redist/annotations-java8.jar
+[DEBUG] 2021-08-08 01:15:48.966 Main file abs path: /opt/idea-IU-211.7628.21/redist/annotations-java8.jar
+[DEBUG] 2021-08-08 01:15:48.966 Main file can path: /opt/idea-IU-211.7628.21/redist/annotations-java8.jar
+[DEBUG] 2021-08-08 01:15:48.966 Main file name: annotations.jar
+[DEBUG] 2021-08-08 01:15:48.967 Main file path: /opt/idea-IU-211.7628.21/redist/annotations.jar
+[DEBUG] 2021-08-08 01:15:48.967 Main file abs path: /opt/idea-IU-211.7628.21/redist/annotations.jar
+[DEBUG] 2021-08-08 01:15:48.967 Main file can path: /opt/idea-IU-211.7628.21/redist/annotations.jar
+[DEBUG] 2021-08-08 01:15:48.967 Main file name: readme.txt
+[DEBUG] 2021-08-08 01:15:48.967 Main file path: /opt/idea-IU-211.7628.21/redist/readme.txt
+[DEBUG] 2021-08-08 01:15:48.968 Main file abs path: /opt/idea-IU-211.7628.21/redist/readme.txt
+[DEBUG] 2021-08-08 01:15:48.968 Main file can path: /opt/idea-IU-211.7628.21/redist/readme.txt
+[DEBUG] 2021-08-08 01:15:48.968 Main file name: javac2.jar
+[DEBUG] 2021-08-08 01:15:48.968 Main file path: /opt/idea-IU-211.7628.21/redist/javac2.jar
+[DEBUG] 2021-08-08 01:15:48.968 Main file abs path: /opt/idea-IU-211.7628.21/redist/javac2.jar
+[DEBUG] 2021-08-08 01:15:48.969 Main file can path: /opt/idea-IU-211.7628.21/redist/javac2.jar
+[DEBUG] 2021-08-08 01:15:48.969 Main file name: forms_rt.jar
+[DEBUG] 2021-08-08 01:15:48.969 Main file path: /opt/idea-IU-211.7628.21/redist/forms_rt.jar
+[DEBUG] 2021-08-08 01:15:48.969 Main file abs path: /opt/idea-IU-211.7628.21/redist/forms_rt.jar
+[DEBUG] 2021-08-08 01:15:48.969 Main file can path: /opt/idea-IU-211.7628.21/redist/forms_rt.jar
+[DEBUG] 2021-08-08 01:15:48.977 Main List of files in the specified directory:
+[DEBUG] 2021-08-08 01:15:48.977 Main annotations-java8.jar
+[DEBUG] 2021-08-08 01:15:48.978 Main annotations.jar
+[DEBUG] 2021-08-08 01:15:48.978 Main javac2.jar
+[DEBUG] 2021-08-08 01:15:48.978 Main readme.txt
+[DEBUG] 2021-08-08 01:15:48.978 Main forms_rt.jar
+[DEBUG] 2021-08-08 01:15:48.978 Main age in ms: 1628313348978
+[DEBUG] 2021-08-08 01:15:48.978 Main age in ms: 1628313348978
+[DEBUG] 2021-08-08 01:15:48.980 Main listFiles.length: 5
+[DEBUG] 2021-08-08 01:15:48.980 Main file deleted: annotations-java8.jar
+[DEBUG] 2021-08-08 01:15:48.980 Main file deleted: annotations.jar
+[DEBUG] 2021-08-08 01:15:48.981 Main file deleted: readme.txt
+[DEBUG] 2021-08-08 01:15:48.981 Main file deleted: javac2.jar
+[DEBUG] 2021-08-08 01:15:48.981 Main file deleted: forms_rt.jar
+[DEBUG] 2021-08-08 01:15:48.981 Main main() done.
+[DEBUG] 2021-08-08 01:15:52.773 Main main() started...
+[DEBUG] 2021-08-08 01:15:52.778 Main dir path: /opt/idea-IU-211.7628.21/redist
+[DEBUG] 2021-08-08 01:15:52.780 Main List of files in the specified directory:
+[DEBUG] 2021-08-08 01:15:52.788 Main List of files in the specified directory:
+[DEBUG] 2021-08-08 01:15:52.788 Main age in ms: 1628313352788
+[DEBUG] 2021-08-08 01:15:52.788 Main age in ms: 1628313352788
+[DEBUG] 2021-08-08 01:15:52.791 Main listFiles.length: 0
+[DEBUG] 2021-08-08 01:15:52.791 Main main() done.
