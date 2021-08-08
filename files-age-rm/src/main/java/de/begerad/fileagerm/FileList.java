@@ -14,7 +14,6 @@ public class FileList {
     }
 
     /**
-     *
      * @return set containing list of file paths
      */
     public Set<String> listFilesUsingJavaIO() {
@@ -25,10 +24,25 @@ public class FileList {
     }
 
     /**
-     *
-     * @return array containing list of file names
+     * @return array containing list of File objects
      */
     public File[] listFilesUsingFileFilter() {
+        //Creating a File object for directory
+        File dir = new File(directory);
+        //Creating filter for directory files
+        FileFilter fileFilter = new FileFilter() {
+            public boolean accept(File dir) {
+                return dir.isFile();
+            }
+        };
+
+        return dir.listFiles(fileFilter);
+    }
+
+    /**
+     * @return array containing list of File objects
+     */
+    public static File[] listFiles(String directory) {
         //Creating a File object for directory
         File dir = new File(directory);
         //Creating filter for directory files
