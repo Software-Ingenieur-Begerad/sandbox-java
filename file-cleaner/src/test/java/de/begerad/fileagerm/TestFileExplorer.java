@@ -11,11 +11,17 @@ public class TestFileExplorer {
     @Test
     public void testEmptyListFiles() {
         File[] files = FileExplorer.listFiles("/mnt");
-        assertTrue(files.length == 0);
+        assertEquals(0, files.length);
     }
 
     @Test
     public void testNullListFiles() {
         assertNull(FileExplorer.listFiles("/etc/hosts"));
+    }
+
+    @Test
+    public void testLengthListFiles() {
+        File[] files = FileExplorer.listFiles("/var/www/test/public_html");
+        assertEquals(1, files.length);
     }
 }
