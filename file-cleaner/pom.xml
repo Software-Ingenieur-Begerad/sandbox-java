@@ -6,7 +6,7 @@
 
     <groupId>de.begerad.file-age-rm</groupId>
     <artifactId>file-age-rm</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
 
     <properties>
         <!-- https://maven.apache.org/general.html#encoding-warning -->
@@ -33,7 +33,6 @@
 
     <build>
         <plugins>
-
             <!--The default maven-surefire-plugin is outdated,
             make sure update to the latest.-->
             <plugin>
@@ -48,32 +47,41 @@
                 <version>3.2.4</version>
                 <executions>
                     <execution>
+                        <phase>package</phase>
                         <goals>
+                            <!-- tells that it should be run in package phase -->
                             <goal>shade</goal>
                         </goals>
                         <configuration>
+                            <filters>
+                                <filter>
+                                    <artifact>*:*</artifact>
+                                    <excludes>
+                                        <exclude>META-INF/*.MF</exclude>
+                                    </excludes>
+                                </filter>
+                            </filters>
                             <shadedArtifactAttached>true</shadedArtifactAttached>
+                            <shadedClassifierName>depds</shadedClassifierName>
                             <transformers>
-                                <transformer implementation=
-                                                     "org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-                                    <mainClass>de.begerad.fileagerm.Main</mainClass>
+                                <!-- configure resources transformer for Maven Shade Plugin with ManifestResourceTransformer that allows us to define a mainClass in the META-INF/MANIFEST.MF file of the jar file, making the jar file after building, can run standalone -->
+                                <transformer
+                                        implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
+                                    <!-- define some other information in the META-INF/MANIFEST.MF file inside the jar file -->
+                                    <manifestEntries>
+                                        <Main-Class>de.begerad.fileagerm.Main</Main-Class>
+                                        <Specification-Title>${project.artifactId}</Specification-Title>
+                                        <Specification-Version>${project.version}</Specification-Version>
+                                        <Implementation-Title>${project.artifactId}</Implementation-Title>
+                                        <Implementation-Version>${project.version}</Implementation-Version>
+                                        <Implementation-Vendor-Id>${project.groupId}</Implementation-Vendor-Id>
+                                    </manifestEntries>
                                 </transformer>
                             </transformers>
                         </configuration>
                     </execution>
                 </executions>
             </plugin>
-
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-compiler-plugin</artifactId>
-                <version>3.8.1</version>
-                <configuration>
-                    <source>8</source>
-                    <target>8</target>
-                </configuration>
-            </plugin>
         </plugins>
     </build>
-
 </project>
