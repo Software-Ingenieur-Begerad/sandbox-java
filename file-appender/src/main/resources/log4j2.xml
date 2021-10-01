@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="INFO">
+  <Appenders>
+    <RollingFile name="rollingFile"
+		 fileName="log.txt"
+		 filePattern="log-%d{yyyy-MM-dd}.txt"
+		 ignoreExceptions="false"
+		 >
+      <PatternLayout>
+	<Pattern>[%-5p] %d{yyyy-MM-dd HH:mm:ss.SSS} %c{1} %m%n</Pattern>
+      </PatternLayout>
+      <Policies>
+	<SizeBasedTriggeringPolicy size="3MB" />
+      </Policies>
+      <!--ensure that within the same rollover period no more than X files will be created when a size-based rollover was triggered-->
+      <DefaultRolloverStrategy max="5" />
+    </RollingFile>
+
+    <Console name="console" target="SYSTEM_OUT">
+      <PatternLayout   pattern="[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} %c{1} - %msg%n" />
+    </Console>
+  </Appenders>
+  <Loggers>
+    <Logger name="de.begerad" level="debug" additivity="true">
+      <appender-ref ref="rollingFile" level="debug" />
+    </Logger>
+    <Root level="debug" additivity="false">
+      <appender-ref ref="console" />
+    </Root>
+  </Loggers>
+
+</Configuration>
