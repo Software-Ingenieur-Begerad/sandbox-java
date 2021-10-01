@@ -10,8 +10,9 @@
 	<Pattern>[%-5p] %d{yyyy-MM-dd HH:mm:ss.SSS} %c{1} %m%n</Pattern>
       </PatternLayout>
       <Policies>
-	<SizeBasedTriggeringPolicy size="10MB" />
+	<SizeBasedTriggeringPolicy size="3MB" />
       </Policies>
+      <!--ensure that within the same rollover period no more than X files will be created when a size-based rollover was triggered-->
       <DefaultRolloverStrategy max="5" />
     </RollingFile>
 
