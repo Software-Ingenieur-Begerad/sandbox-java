@@ -4,13 +4,18 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
+    <name>file-age-rm</name>
+    <description>age dependent file remove</description>
+    <url>https://www.swingbe.de</url>
     <groupId>de.begerad.file-age-rm</groupId>
     <artifactId>file-age-rm</artifactId>
     <version>0.0.1</version>
+    <packaging>jar</packaging>
 
     <properties>
         <!-- https://maven.apache.org/general.html#encoding-warning -->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <!-- note that Maven Shade Plugin only works with Java from version 7 and up -->
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
