@@ -28,7 +28,8 @@ public class Main {
                     String fileName = event.context().toString();
                     System.out.println("File created:" + fileName);
                 } else if (StandardWatchEventKinds.ENTRY_MODIFY.equals(event.kind())) {
-                    String fileName = event.context().toString();
+                    Path context = (Path) event.context();
+                    String fileName = context.toString();
                     System.out.println("File modified:" + fileName);
                 } else if (StandardWatchEventKinds.ENTRY_DELETE.equals(event.kind())) {
                     String fileName = event.context().toString();
