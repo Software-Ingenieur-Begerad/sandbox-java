@@ -13,8 +13,9 @@ public class Main {
         //obtain WatchService instance using FileSystems class
         WatchService watchService = FileSystems.getDefault().newWatchService();
 
-        //register path to be watched with this instance
-        folder.register(watchService, StandardWatchEventKinds.ENTRY_CREATE);
+        //register a Path instance for events using a WatchService instance
+        folder.register(watchService, StandardWatchEventKinds.ENTRY_CREATE,
+                StandardWatchEventKinds.ENTRY_MODIFY);
 
         boolean valid = true;
         do {
@@ -25,7 +26,7 @@ public class Main {
 
                 if (StandardWatchEventKinds.ENTRY_CREATE.equals(event.kind())) {
                     String fileName = event.context().toString();
-                    System.out.println("File Created:" + fileName);
+                    System.out.println("File created:" + fileName);
                 } else if (StandardWatchEventKinds.ENTRY_MODIFY.equals(event.kind())) {
                     String fileName = event.context().toString();
                     System.out.println("File modified:" + fileName);
