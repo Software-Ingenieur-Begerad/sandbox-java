@@ -1,10 +1,15 @@
 package de.swingbe.mon_dir;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 import java.io.IOException;
 import java.nio.file.*;
 
 public class Main {
-    private static final String FOLDER="/opt/npm";
+    public final static Logger LOG = LoggerFactory.getLogger(Main.class);
+
+    private static final String FOLDER = "/opt/npm";
 
     public static void main(String[] args) throws IOException,
             InterruptedException {
@@ -16,7 +21,8 @@ public class Main {
 
         //register a Path instance for events using a WatchService instance
         folder.register(watchService, StandardWatchEventKinds.ENTRY_CREATE,
-                StandardWatchEventKinds.ENTRY_MODIFY);
+                StandardWatchEventKinds.ENTRY_MODIFY,
+                StandardWatchEventKinds.ENTRY_DELETE);
 
         boolean valid = true;
         do {
@@ -27,16 +33,16 @@ public class Main {
 
                 if (StandardWatchEventKinds.ENTRY_CREATE.equals(event.kind())) {
                     String fileName = event.context().toString();
-                    System.out.println("File created:" + fileName);
+                    LOG.debug("File created: " + fileName);
                 } else if (StandardWatchEventKinds.ENTRY_MODIFY.equals(event.kind())) {
                     Path context = (Path) event.context();
                     String fileName = context.toString();
-                    System.out.println("File modified:" + fileName);
+                    LOG.debug("File modified: " + fileName);
                 } else if (StandardWatchEventKinds.ENTRY_DELETE.equals(event.kind())) {
                     String fileName = event.context().toString();
-                    System.out.println("File deleted:" + fileName);
+                    LOG.debug("File deleted: " + fileName);
                 } else {
-                    System.out.println("Event unknown");
+                    LOG.warn("Event unknown");
                 }
                 valid = watchKey.reset();
 
