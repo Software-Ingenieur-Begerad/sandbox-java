@@ -4,11 +4,12 @@ import java.io.IOException;
 import java.nio.file.*;
 
 public class Main {
+    private static final String FOLDER="/opt/npm";
 
     public static void main(String[] args) throws IOException,
             InterruptedException {
 
-        Path folder = Paths.get("./");
+        Path folder = Paths.get(FOLDER);
 
         //obtain WatchService instance using FileSystems class
         WatchService watchService = FileSystems.getDefault().newWatchService();
@@ -35,7 +36,7 @@ public class Main {
                     String fileName = event.context().toString();
                     System.out.println("File deleted:" + fileName);
                 } else {
-                    System.out.println("Event unkown");
+                    System.out.println("Event unknown");
                 }
                 valid = watchKey.reset();
 
