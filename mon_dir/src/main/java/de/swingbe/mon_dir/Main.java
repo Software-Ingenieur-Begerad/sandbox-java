@@ -11,16 +11,21 @@ public class Main {
 
     private static final String FOLDER = "/opt/npm";
 
+    private static final String FILE = "/opt/npm/NetPeerManager.log";
+
     public static void main(String[] args) throws IOException,
             InterruptedException {
+        LOG.trace("app started...");
 
-        Path folder = Paths.get(FOLDER);
+        Path folderPath = Paths.get(FOLDER);
+        LOG.debug("folderPath: " + folderPath);
 
         //obtain WatchService instance using FileSystems class
         WatchService watchService = FileSystems.getDefault().newWatchService();
 
         //register a Path instance for events using a WatchService instance
-        folder.register(watchService, StandardWatchEventKinds.ENTRY_CREATE,
+        //TODO You cannot watch a file this way! java.nio.file.NotDirectoryException
+        folderPath.register(watchService, StandardWatchEventKinds.ENTRY_CREATE,
                 StandardWatchEventKinds.ENTRY_MODIFY,
                 StandardWatchEventKinds.ENTRY_DELETE);
 
@@ -49,5 +54,7 @@ public class Main {
             }
         }
         while (valid);
+
+        LOG.trace("app done.");
     }
 }
