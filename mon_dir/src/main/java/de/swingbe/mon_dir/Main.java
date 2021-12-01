@@ -11,8 +11,6 @@ public class Main {
 
     private static final String FOLDER = "/opt/npm";
 
-    private static final String FILE = "/opt/npm/NetPeerManager.log";
-
     public static void main(String[] args) throws IOException,
             InterruptedException {
         LOG.trace("app started...");
@@ -24,7 +22,6 @@ public class Main {
         WatchService watchService = FileSystems.getDefault().newWatchService();
 
         //register a Path instance for events using a WatchService instance
-        //TODO You cannot watch a file this way! java.nio.file.NotDirectoryException
         folderPath.register(watchService, StandardWatchEventKinds.ENTRY_CREATE,
                 StandardWatchEventKinds.ENTRY_MODIFY,
                 StandardWatchEventKinds.ENTRY_DELETE);
