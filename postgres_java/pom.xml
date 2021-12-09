@@ -38,7 +38,7 @@
                 <artifactId>exec-maven-plugin</artifactId>
                 <version>1.6.0</version>
                 <configuration>
-                    <mainClass>de.swingbe.postgres_java.JavaPostgreSqlRetrieve
+                    <mainClass>de.swingbe.postgres_java.JavaPostgreSqlProperties
                     </mainClass>
                 </configuration>
             </plugin>
@@ -85,7 +85,7 @@
                                         implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
                                     <manifestEntries>
                                         <Main-Class>
-                                            de.swingbe.postgres_java.JavaPostgreSqlRetrieve
+                                            de.swingbe.postgres_java.JavaPostgreSqlProperties
                                         </Main-Class>
                                     </manifestEntries>
                                 </transformer>
