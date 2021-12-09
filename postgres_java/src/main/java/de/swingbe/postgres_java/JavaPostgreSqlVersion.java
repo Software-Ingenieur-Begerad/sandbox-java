@@ -16,7 +16,7 @@ public class JavaPostgreSqlVersion {
              Statement st = con.createStatement();
              ResultSet rs = st.executeQuery("SELECT VERSION()")) {
 
-            if (rs.next()) {
+            while (rs.next()) {
                 System.out.println(rs.getString(1));
             }
 
