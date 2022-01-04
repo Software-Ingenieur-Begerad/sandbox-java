@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+    <!--TODO Compare with mvn_base project!-->
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>de.swingbe</groupId>
+    <artifactId>counter-maven-plugin</artifactId>
+    <packaging>maven-plugin</packaging>
+    <version>0.0.1</version>
+
+    <name>counter-maven-plugin Maven Mojo</name>
+    <url>http://maven.apache.org</url>
+
+    <!--<licenses>
+        <license>
+            <name>GNU General Public License</name>
+            <url>https://www.gnu.org/licenses/gpl-3.0.txt</url>
+        </license>
+    </licenses>-->
+
+    <scm>
+        <!--<url>https://github.com/Software-Ingenieur-Begerad/sandbox-java</url>-->
+    </scm>
+
+    <properties>
+        <maven.compiler.target>1.8</maven.compiler.target>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <!-- Other properties -->
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+    <dependencies>
+        <!--This plugin contains necessary classes and interfaces to create a MOJO.-->
+        <dependency>
+            <groupId>org.apache.maven</groupId>
+            <artifactId>maven-plugin-api</artifactId>
+            <version>3.6.3</version>
+        </dependency>
+        <!--This plugin comes in handy to use annotations in our clases.-->
+        <dependency>
+            <groupId>org.apache.maven.plugin-tools</groupId>
+            <artifactId>maven-plugin-annotations</artifactId>
+            <version>3.6.0</version>
+            <scope>provided</scope>
+        </dependency>
+        <!--This plugin lets us access the information about the project where we are including the plugin.-->
+        <dependency>
+            <groupId>org.apache.maven</groupId>
+            <artifactId>maven-project</artifactId>
+            <version>2.2.1</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.maven</groupId>
+            <artifactId>maven-plugin-api</artifactId>
+            <version>3.6.3</version>
+            <scope>compile</scope>
+        </dependency>
+    </dependencies>
+
+</project>
