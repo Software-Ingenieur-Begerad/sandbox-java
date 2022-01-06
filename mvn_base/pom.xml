@@ -7,7 +7,7 @@
     <name>mvn_base</name>
     <description>description</description>
     <url>https://swingbe.de</url>
-    <groupId>org.swingbe.de</groupId>
+    <groupId>de.swingbe</groupId>
     <artifactId>mvn_base</artifactId>
     <version>0.0.1</version>
     <packaging>jar</packaging>
