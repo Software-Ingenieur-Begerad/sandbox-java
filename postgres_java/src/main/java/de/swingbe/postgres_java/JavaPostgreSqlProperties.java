@@ -20,7 +20,10 @@ public class JavaPostgreSqlProperties {
 
         try {
             BufferedReader br = Files.newBufferedReader(path, StandardCharsets.UTF_8);
+
+            //load properties into object
             props.load(br);
+
         } catch (IOException e) {
             Logger.getLogger(JavaPostgreSqlProperties.class.getName()).log(
                     Level.SEVERE, null, e);
