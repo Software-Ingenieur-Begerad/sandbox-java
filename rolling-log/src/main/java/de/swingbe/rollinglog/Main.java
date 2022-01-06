@@ -1,6 +1,6 @@
 package de.swingbe.rollinglog;
 
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.Logger;
 
 public class Main {
 
