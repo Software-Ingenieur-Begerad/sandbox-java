@@ -7,11 +7,11 @@
                      filePattern="log-%d{yyyy-MM-dd}-%i.txt.gz"
                      ignoreExceptions="false">
             <PatternLayout>
-                <Pattern>[%-5p] %d{yyyy-MM-dd HH:mm:ss.SSS} %p %c{1} %m%n
+                <Pattern>[%-5p] %d{yyyy-MM-dd HH:mm:ss.SSS} %c{1} %m%n
                 </Pattern>
             </PatternLayout>
             <Policies>
-                <SizeBasedTriggeringPolicy size="5 KB"/>
+                <SizeBasedTriggeringPolicy size="5KB"/>
             </Policies>
             <DefaultRolloverStrategy max="200"/>
         </RollingFile>
@@ -19,18 +19,18 @@
         # Console appender
         <Console name="stdout" target="SYSTEM_OUT">
             # Pattern of log message for console appender
-            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} %p %m%n"/>
+            <PatternLayout pattern="[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} %c{1} - %msg%n"/>
         </Console>
     </Appenders>
 
     <Loggers>
         # Override log level for specified package
         <Logger name="de.swingbe.rollinglog" level="all">
-            <AppenderRef ref="roll-by-size"/>
+            <appender-ref ref="roll-by-size" level="all"/>
         </Logger>
-        <Root level="debug" additivity="false">
+        <Root level="all" additivity="false">
             <appender-ref ref="stdout"/>
         </Root>
-
     </Loggers>
+
 </Configuration>
