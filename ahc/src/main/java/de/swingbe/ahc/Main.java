@@ -92,12 +92,6 @@ public class Main {
 
         HttpClient client = new DefaultHttpClient(ccm, params);
 
-        /**TODO
-         List nvps = new ArrayList();
-         nvps.add(new BasicNameValuePair("key1", "val1"));
-         nvps.add(new BasicNameValuePair("key2", "val3"));
-         */
-
         String address = URL + ":" + PORT + ROUTE;
         System.out.println("address: " + address);
 
@@ -141,14 +135,6 @@ public class Main {
         entity = new ByteArrayEntity(payload.toString().getBytes(StandardCharsets.UTF_8));
         post.setEntity(entity);
 
-        /**TODO
-         try {
-         post.setEntity(new UrlEncodedFormEntity(nvps, HTTP.UTF_8));
-         } catch (UnsupportedEncodingException e) {
-         e.printStackTrace();
-         }
-         */
-
         //send request
         HttpResponse response = null;
         try {
@@ -157,7 +143,6 @@ public class Main {
             System.out.println("ERROR: IO error detected");
             e.printStackTrace();
         }
-
 
         //read response status
         Scanner sc = null;
@@ -201,8 +186,6 @@ public class Main {
             statusPhrase = response.getStatusLine().getReasonPhrase();
             System.out.println("statusPhrase: " + statusPhrase);
         }
-
-
     }
 
     static void post(final String uuid, final double latitude, final double longitude,
