@@ -33,19 +33,19 @@ import java.util.Scanner;
 
 public class Main {
 
-    static String URL = "https://dedriver.org";
+    static String URL = "http://83.223.94.182";
     static String PORT = "42001";
     static String ROUTE = "/postdata";
 
     public static void main(String[] args) {
         System.out.println("Hello world!");
         postHttps("uuid", 87.263783, 52.9019052,
-                1642512736, "alias", "0");
+                "1642756774000", "alias", "0");
         System.out.println("Done!");
     }
 
     static void postHttps(final String uuid, final double latitude, final double longitude,
-                          final long timestamp, final String alias, final String vehicle) {
+                          final String timestamp, final String alias, final String vehicle) {
         KeyStore trustStore =
                 null;
         try {
