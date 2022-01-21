@@ -47,6 +47,11 @@
             <artifactId>json</artifactId>
             <version>20211205</version>
         </dependency>
+        <dependency>
+            <groupId>org.dedriver</groupId>
+            <artifactId>ddp</artifactId>
+            <version>0.0.1</version>
+        </dependency>
     </dependencies>
 
     <build>
