@@ -4,11 +4,11 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <name>mvn_base</name>
+    <name>pdfbox</name>
     <description>description</description>
     <url>https://swingbe.de</url>
     <groupId>de.swingbe</groupId>
-    <artifactId>mvn_base</artifactId>
+    <artifactId>pdfbox</artifactId>
     <version>0.0.1</version>
     <packaging>jar</packaging>
 
@@ -27,6 +27,14 @@
         <!-- Other properties -->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
+
+    <dependencies><!-- https://mvnrepository.com/artifact/org.apache.pdfbox/pdfbox -->
+        <dependency>
+            <groupId>org.apache.pdfbox</groupId>
+            <artifactId>pdfbox</artifactId>
+            <version>2.0.25</version>
+        </dependency>
+    </dependencies>
 
     <build>
         <plugins>
@@ -72,7 +80,7 @@
                                 <transformer
                                         implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
                                     <manifestEntries>
-                                        <Main-Class>de.swingbe.mvn_base.Main
+                                        <Main-Class>de.swingbe.pdfbox.Main
                                         </Main-Class>
                                     </manifestEntries>
                                 </transformer>
