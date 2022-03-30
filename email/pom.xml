@@ -9,7 +9,7 @@
     <url>https://swingbe.de</url>
     <groupId>de.swingbe</groupId>
     <artifactId>email</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
     <packaging>jar</packaging>
 
     <licenses>
@@ -28,7 +28,8 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
-    <dependencies><!-- https://mvnrepository.com/artifact/javax.mail/mail -->
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/javax.mail/mail -->
         <dependency>
             <groupId>javax.mail</groupId>
             <artifactId>mail</artifactId>
@@ -46,6 +47,11 @@
             <groupId>org.apache.logging.log4j</groupId>
             <artifactId>log4j-slf4j-impl</artifactId>
             <version>2.17.2</version>
+        </dependency>
+        <dependency>
+            <groupId>de.swingbe.email</groupId>
+            <artifactId>email</artifactId>
+            <version>0.0.1</version>
         </dependency>
     </dependencies>
 
