@@ -33,12 +33,13 @@
             <!--Set up the following plugin in order to run command line applications from Maven.
             Run the app with mvn -q exec:java command.
             The q runs mvn in quite mode.-->
+            <!-- https://mvnrepository.com/artifact/org.codehaus.mojo/exec-maven-plugin -->
             <plugin>
                 <groupId>org.codehaus.mojo</groupId>
                 <artifactId>exec-maven-plugin</artifactId>
-                <version>1.6.0</version>
+                <version>3.0.0</version>
                 <configuration>
-                    <mainClass>de.swingbe.postgres_java.JavaPostgreSqlProperties
+                    <mainClass>de.swingbe.postgres_java.JavaPostgreSqlVersion
                     </mainClass>
                 </configuration>
             </plugin>
@@ -85,7 +86,7 @@
                                         implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
                                     <manifestEntries>
                                         <Main-Class>
-                                            de.swingbe.postgres_java.JavaPostgreSqlProperties
+                                            de.swingbe.postgres_java.JavaPostgreSqlVersion
                                         </Main-Class>
                                     </manifestEntries>
                                 </transformer>
@@ -98,11 +99,13 @@
     </build>
 
     <dependencies>
-        <!--Add the following dependency to include PostgreSQL  Java driver.-->
+        <!--Add the following dependency to include PostgreSQL Java driver.-->
+        <!-- https://mvnrepository.com/artifact/org.postgresql/postgresql -->
         <dependency>
             <groupId>org.postgresql</groupId>
             <artifactId>postgresql</artifactId>
-            <version>42.3.1</version>
+            <version>42.3.3</version>
         </dependency>
+
     </dependencies>
 </project>

@@ -8,13 +8,19 @@ public class JavaPostgreSqlVersion {
 
     public static void main(String[] args) {
 
-        String url = "jdbc:postgresql://localhost:5432/testdb";
-        String user = "usr";
-        String password = "#password";
+        //connection URL
+        String url = "jdbc:postgresql://192.168.178.25:5432/testdb";
+        String user = "user";
+        String key = "key";
 
-        try (Connection con = DriverManager.getConnection(url, user, password);
-             Statement st = con.createStatement();
-             ResultSet rs = st.executeQuery("SELECT VERSION()")) {
+        try (
+                //establish connection
+                Connection con = DriverManager.getConnection(url, user, key);
+                //create object for sending SQL statements
+                Statement st = con.createStatement();
+                //execute SQL statement
+                //rs is a table of data returned by a SQL statement
+                ResultSet rs = st.executeQuery("SELECT VERSION()")) {
 
             while (rs.next()) {
                 System.out.println(rs.getString(1));
