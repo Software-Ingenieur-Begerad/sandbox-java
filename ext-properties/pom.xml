@@ -9,7 +9,7 @@
     <url>https://swingbe.de</url>
     <groupId>de.swingbe</groupId>
     <artifactId>ext_prop</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
     <packaging>jar</packaging>
 
     <licenses>
@@ -26,7 +26,9 @@
     <properties>
         <!-- Other properties -->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <version.properties>src/main/resources/version.properties</version.properties>
+        <app.date>${maven.build.timestamp}</app.date>
+        <maven.build.timestamp.format>yyyy-MM-dd:HH:mm:ss</maven.build.timestamp.format>
+        <app.version>${pom.version}</app.version>
     </properties>
 
     <build>
@@ -103,6 +105,7 @@
                 <configuration>
                     <files>
                         <file>src/main/resources/version.properties</file>
+                        <file>src/main/resources/build.properties</file>
                     </files>
                     <outputFile/>
                     <properties/>
