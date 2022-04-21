@@ -4,7 +4,7 @@ import java.sql.*;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-public class JavaPostgreSqlRetrieve {
+public class JavaPostgreSqlListTables {
 
     public static void main(String[] args) {
 
@@ -15,23 +15,18 @@ public class JavaPostgreSqlRetrieve {
         String user = "usr";
         String password = "#password";
 
-        //get all columns from a table
-        String query = "SELECT * FROM authors";
+        String query = "SELECT table_name FROM information_schema.tables " + "WHERE table_schema = 'public'";
 
-        //create prepared statement using placeholders instead of directly writing values
         try (Connection con = DriverManager.getConnection(url, user, password); PreparedStatement pst = con.prepareStatement(query); ResultSet rs = pst.executeQuery()) {
 
-            //advance cursor to the next record
-            //return false if there are no more records in the result set
             while (rs.next()) {
-                System.out.print(rs.getInt(1));
-                System.out.print(" | ");
-                System.out.println(rs.getString(2));
+
+                System.out.println(rs.getString(1));
             }
 
         } catch (SQLException ex) {
 
-            Logger lgr = Logger.getLogger(JavaPostgreSqlRetrieve.class.getName());
+            Logger lgr = Logger.getLogger(JavaPostgreSqlListTables.class.getName());
             lgr.log(Level.SEVERE, ex.getMessage(), ex);
         }
     }

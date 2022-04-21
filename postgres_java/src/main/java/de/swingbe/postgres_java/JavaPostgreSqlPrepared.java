@@ -11,18 +11,20 @@ public class JavaPostgreSqlPrepared {
 
     public static void main(String[] args) {
 
+        //connection URL for the postgres database
+        //jdbc:postgresql://<host>:<port>/<database name>
         String url = "jdbc:postgresql://localhost:5432/testdb";
+
         String user = "usr";
         String password = "#password";
 
-        //add new author to authors table
+        //add new author to author's table
         int id = 6;
         String author = "Trygve Gulbranssen";
         String query = "INSERT INTO authors(id, name) VALUES(?, ?)";
 
         //create prepared statement using placeholders instead of directly writing values
-        try (Connection con = DriverManager.getConnection(url, user, password);
-             PreparedStatement pst = con.prepareStatement(query)) {
+        try (Connection con = DriverManager.getConnection(url, user, password); PreparedStatement pst = con.prepareStatement(query)) {
 
             //bound integer to placeholder
             pst.setInt(1, id);
