@@ -26,7 +26,7 @@ public class LctMsgInsert {
                 con.setAutoCommit(false);
 
                 //create a new table called friends and insert five rows into it
-                st.addBatch("INSERT INTO lct_msg_x(" + "vc_trip" + ",vc_route" + ",vc_tenant" + ",vc_date" + ",vc_time" + ",vc_lat" + ",vc_lng" + ") VALUES (" + "'4457006'," + "'4457'," + "'EDZ/247'," + "'2022-05-10'," + "'13:34:05,824'," + "'74635669'," + "'534651826')");
+                st.addBatch("INSERT INTO lct_msg_y(" + "vc_trip" + ",vc_date" + ",vc_time" + ",vc_lat" + ",vc_lon" + ") VALUES (" + "'4457006'," + "'2022-05-10'," + "'13:34:05,824'," + "'74635669'," + "'534651826')");
 
                 //method returns an array of committed changes
                 int[] counts = st.executeBatch();

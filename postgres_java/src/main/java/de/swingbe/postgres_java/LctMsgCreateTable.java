@@ -27,8 +27,8 @@ public class LctMsgCreateTable {
 
                 //type: 0:echt,1:frei,2:wird benoetigt,3:virtuell
                 //create a new table called friends and insert five rows into it
-                st.addBatch("DROP TABLE IF EXISTS lct_msg_x");
-                st.addBatch("CREATE TABLE lct_msg_x(" + "bs_id bigserial PRIMARY KEY NOT NULL" + ",vc_trip VARCHAR(20) NOT NULL" + ",vc_route VARCHAR(20)" + ",vc_tenant VARCHAR(20)" + ",vc_date VARCHAR(20) NOT NULL" + ",vc_time VARCHAR(20) NOT NULL" + ",vc_lat VARCHAR(20) NOT NULL" + ",vc_lng VARCHAR(20) NOT NULL" + ")");
+                st.addBatch("DROP TABLE IF EXISTS lct_msg_y");
+                st.addBatch("CREATE TABLE lct_msg_y(" + "bs_id bigserial PRIMARY KEY NOT NULL" + ",vc_trip VARCHAR(20) NOT NULL" + ",vc_route VARCHAR(20)" + ",vc_tenant VARCHAR(20)" + ",vc_date VARCHAR(20) NOT NULL" + ",vc_time VARCHAR(20) NOT NULL" + ",vc_lat VARCHAR(20) NOT NULL" + ",vc_lon VARCHAR(20) NOT NULL" + ")");
 
                 //method returns an array of committed changes
                 int[] counts = st.executeBatch();
