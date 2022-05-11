@@ -9,7 +9,7 @@
     <url>https://swingbe.de</url>
     <groupId>de.swingbe</groupId>
     <artifactId>pg_lct_msg_client</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
     <packaging>jar</packaging>
 
     <licenses>
@@ -84,12 +84,10 @@
         </plugins>
     </build>
     <dependencies>
-        <!--Add the following dependency to include PostgreSQL Java driver.-->
-        <!-- https://mvnrepository.com/artifact/org.postgresql/postgresql -->
         <dependency>
-            <groupId>org.postgresql</groupId>
-            <artifactId>postgresql</artifactId>
-            <version>42.3.5</version>
+            <groupId>de.swingbe.ifleet</groupId>
+            <artifactId>pg-lct-msg-api</artifactId>
+            <version>0.0.3</version>
         </dependency>
 
     </dependencies>

@@ -1,8 +1,8 @@
 package de.swingbe.pg_lct_msg_client;
 
-import de.swingbe.pg_lct_msg_client.controller.PgConnection;
-import de.swingbe.pg_lct_msg_client.controller.PgPrepStatement;
-import de.swingbe.pg_lct_msg_client.model.LctMsg;
+import de.swingbe.ifleet.controller.PgConnection;
+import de.swingbe.ifleet.controller.PgPrepStatement;
+import de.swingbe.ifleet.model.LctMsg;
 
 public class Main {
 
