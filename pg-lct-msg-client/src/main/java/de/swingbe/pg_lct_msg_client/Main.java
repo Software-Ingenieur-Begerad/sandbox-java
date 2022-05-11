@@ -7,6 +7,7 @@ import de.swingbe.pg_lct_msg_client.model.LctMsg;
 public class Main {
 
     private static final String TABLE = "lct_msg";
+    private static final String SCHEMA = "public";
 
     public static void main(String[] args) {
         System.out.println("main() start...");
@@ -40,7 +41,18 @@ public class Main {
 
         PgPrepStatement pgPrepStatement = new PgPrepStatement(pgCon);
 
-        pgPrepStatement.createTable(TABLE);
+        boolean hasTable = false;
+        while (!hasTable) {
+            hasTable = pgPrepStatement.hasTable(TABLE, SCHEMA);
+            if (hasTable) {
+                System.out.print("main() has table: ");
+                System.out.println("" + TABLE);
+            } else {
+                System.out.print("main() has NOT table: ");
+                System.out.println("" + TABLE);
+                pgPrepStatement.createTable(TABLE);
+            }
+        }
 
         boolean hasEdz = false;
         while (!hasEdz) {

@@ -100,12 +100,53 @@ public class PgPrepStatement {
         System.out.println("insert() done.");
     }
 
+    public boolean hasTable(String table, String schema){
+        System.out.println("hasTable() start...");
+        Objects.requireNonNull(table, "table must not be null");
+        Objects.requireNonNull(schema, "schema must not be null");
+
+        String query = "SELECT CASE WHEN EXISTS (SELECT * FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = '" +
+                schema  +
+                "' AND TABLE_NAME = '" +
+                table +
+                "') THEN 'true' ELSE 'false' END;";
+
+        String result = null;
+        //create prepared statement using placeholders instead of directly writing values
+        try (PreparedStatement pst = pgCon.getConnection().prepareStatement(query); ResultSet rs = pst.executeQuery()) {
+
+            //advance cursor to the next record
+            //return false if there are no more records in the result set
+            while (rs.next()) {
+                result = rs.getString(1);
+            }
+
+        } catch (SQLException ex) {
+
+            Logger lgr = Logger.getLogger(PgPrepStatement.class.getName());
+            lgr.log(Level.SEVERE, ex.getMessage(), ex);
+        }
+
+        System.out.println("result: " + result);
+        if (result != null && result.equals("true")) {
+            System.out.println("result: " + result + " equals true");
+            return true;
+        } else {
+            System.out.println("result: " + result + " equals true NOT");
+        }
+        System.out.println("hasTable() done.");
+        return false;
+    }
+
     public boolean hasLctMsg(LctMsg lctMsg, String table) {
         System.out.println("hasLct() start...");
         Objects.requireNonNull(lctMsg, "lctMsg must not be null");
         Objects.requireNonNull(table, "table must not be null");
 
-        String query = "SELECT " + "CASE WHEN EXISTS " + "(" + "SELECT * from " + table + " where vc_date='" + lctMsg.getDate() + "' AND vc_trip='" + lctMsg.getTrip() + "')" + "THEN 'true'" + "ELSE 'false'" + "END;";
+        String query = "SELECT CASE WHEN EXISTS (SELECT * FROM " +
+                table + " where vc_date='" +
+                lctMsg.getDate() + "' AND vc_trip='" +
+                lctMsg.getTrip() + "') THEN 'true' ELSE 'false' END;";
 
         String result = null;
         //create prepared statement using placeholders instead of directly writing values
