@@ -83,4 +83,14 @@
             </plugin>
         </plugins>
     </build>
+    <dependencies>
+        <!--Add the following dependency to include PostgreSQL Java driver.-->
+        <!-- https://mvnrepository.com/artifact/org.postgresql/postgresql -->
+        <dependency>
+            <groupId>org.postgresql</groupId>
+            <artifactId>postgresql</artifactId>
+            <version>42.3.5</version>
+        </dependency>
+
+    </dependencies>
 </project>

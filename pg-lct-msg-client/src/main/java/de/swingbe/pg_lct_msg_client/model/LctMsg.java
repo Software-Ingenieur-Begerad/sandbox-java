@@ -14,10 +14,15 @@ public class LctMsg {
     public LctMsg(String trip, String lat, String lon, String date, String time) {
         //TODO alternative null checking could happen in setters if params are not final
         this.trip = Objects.requireNonNull(trip, "trip must not be null");
-        this.lat = Objects.requireNonNull(trip, "lat must not be null");
-        this.lon = Objects.requireNonNull(trip, "lon must not be null");
-        this.date = Objects.requireNonNull(trip, "date must not be null");
-        this.time = Objects.requireNonNull(trip, "time must not be null");
+        this.lat = Objects.requireNonNull(lat, "lat must not be null");
+        this.lon = Objects.requireNonNull(lon, "lon must not be null");
+        this.date = Objects.requireNonNull(date, "date must not be null");
+        this.time = Objects.requireNonNull(time, "time must not be null");
+    }
+
+    @Override
+    public String toString() {
+        return "LctMsg{" + "trip='" + trip + '\'' + ", lat='" + lat + '\'' + ", lon='" + lon + '\'' + ", date='" + date + '\'' + ", time='" + time + '\'' + ", tenant='" + tenant + '\'' + ", route='" + route + '\'' + '}';
     }
 
     @Override
