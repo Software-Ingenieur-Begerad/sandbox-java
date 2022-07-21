@@ -33,7 +33,7 @@
         <dependency>
             <groupId>de.swingbe.ifleet</groupId>
             <artifactId>tgp</artifactId>
-            <version>0.0.3</version>
+            <version>0.2.0</version>
         </dependency>
     </dependencies>
 
